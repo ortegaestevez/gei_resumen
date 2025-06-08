@@ -4,60 +4,40 @@ Tema 5: Técnicas instrumentales de planificación, programación y control
 Los árboles de decisión
 -----------------------
 
-***Decisiones secuenciales:*** decisiones que se encuentran sometidas a
-un proceso dinámico y adaptativo en un período de tiempo más o menos
-amplio en el que las decisiones se concatenan, de modo que cada una
-condiciona a las que le siguen y viene condicionada por las que le
-anteceden y por los estados de la naturaleza que se hayan presentado.
+***Decisiones secuenciales.*** Decisiones que se encuentran sometidas a un proceso dinámico y adaptativo en un período de tiempo más o menos amplio en el que las decisiones se concatenan, de modo que cada una condiciona a las que le siguen y viene condicionada por las que le anteceden y por los estados de la naturaleza que se hayan presentado.
 
-***Árbol de decisión:*** sistema de representación del proceso
-decisional en el que se reflejan las posibles alternativas por las que
-se puede optar y los resultados que corresponden a cada alternativa
-según cual sea el estado de la naturaleza que se presente. Está
-constituido por nudos y ramas:
+***Árbol de decisión.*** Sistema de representación del proceso decisional en el que se reflejan las posibles alternativas por las que se puede optar y los resultados que corresponden a cada alternativa, según cual sea el estado de la naturaleza que se presente. Está constituido por nudos y ramas:
 
--   **Nudos o vértices:** representan situaciones en las cuales debe
-    tomarse una u otra decisión (**nudos decisionales**), o el decisor
-    se enfrenta a distintos estados de la naturaleza o suceso aleatorios
-    (**nudos aleatorios**). Los nudos decisionales se representan con
-    cuadrados y los aleatorios con círculos.
+- **Nudos o vértices.** Representan situaciones en las que debe tomarse una u otra decisión (**nudos decisionales**), o el decisor se enfrenta a distintos estados de la naturaleza o suceso aleatorios (**nudos aleatorios**). Los nudos decisionales se representan con cuadrados y los aleatorios con círculos.
+- **Ramas o aristas.** Las que parten de los nudos decisionales representan alternativas de decisión, mientras que las que parten de nudos aleatorios representan posibles estados de la naturaleza.
 
--   **Ramas o aristas:** las que parten de los nudos decisionales
-    representan alternativas de decisión, mientras que las que parten de
-    nudos aleatorios representan posibles estados de la naturaleza.
-
-Cuando se conocen las probabilidades de los diversos estados, éstas se
-representan sobre las ramas. Al final de cada camino se reseña el
-resultado que correspondería a esa sucesión de decisiones y sucesos.
+Cuando se conocen las probabilidades de los diversos estados, éstas se representan sobre las ramas. Al final de cada camino se reseña el resultado que correspondería a esa sucesión de decisiones y sucesos.
 
 Cada nudo tiene un **valor asociado**:
 
--   Nudo aleatorio: esperanza matemática de los valores situados al
-    final de las ramas que parten de él.
-
--   Nudo decisional: es el mejor de los valores en los que tienen
-    destino las ramas que parten de él.
+- Nudo aleatorio. Esperanza matemática de los valores situados al final de las ramas que parten de él.
+- Nudo decisional. Mejor de los valores en los que tienen destino las ramas que parten de él.
 
 El valor esperado de la información perfecta
 --------------------------------------------
 
-***Información perfecta:*** aquella en la que la probabilidad de que sea
+***Información perfecta.*** aquella en la que la probabilidad de que sea
 correcta es el cien por cien.
 
-***Valor esperado de la información (VEI):*** es la esperanza matemática
+***Valor esperado de la información (VEI).*** es la esperanza matemática
 del valor de la información.
 
-***Valor esperado neto de la información (VENI):*** valor esperado de la
+***Valor esperado neto de la información (VENI).*** valor esperado de la
 información menos su coste.
 
-***Valor esperado de la información perfecta (VEIP):*** es el límite
+***Valor esperado de la información perfecta (VEIP).*** es el límite
 máximo que podrá pagarse por la información perfecta y por cualquier
 otra.
 
 La programación lineal
 ----------------------
 
-***Problema de programación lineal:*** consiste en una función objetivo
+***Problema de programación lineal.*** consiste en una función objetivo
 lineal, que se ha de maximizar o minimizar, y un conjunto de
 restricciones de carácter lineal. Se trata de determinar los valores de
 las variables que optimizan la función cumpliéndose las restricciones.
@@ -80,7 +60,7 @@ Y, siempre, la condición de no negatividad de las variables:
 
 $$X_{1},X_{2},\ldots,X_{n} \geq 0$$
 
-***Resolución gráfica de un problema de programación lineal:***
+***Resolución gráfica de un problema de programación lineal.***
 
 1.  Representar las ecuaciones que se obtienen al establecer las
     restricciones como si fueran igualdades y sólo en el primer
@@ -103,20 +83,20 @@ $$X_{1},X_{2},\ldots,X_{n} \geq 0$$
 Método PERT. Introducción
 -------------------------
 
-***Método PERT (Program Evaluation and Review Technique):*** es un
+***Método PERT (Program Evaluation and Review Technique).*** es un
 instrumento al servicio de la toma de decisiones que permite la
 planificación, ejecución y control de proyectos que requieren la
 coordinación de un gran número de actividades entre las que existen
 relaciones de precedencia y que se han de realizar en un tiempo limitado
 y con unos medios también limitados.
 
-***Método CPM (Critical Path Method):*** es un método similar al PERT.
+***Método CPM (Critical Path Method).*** es un método similar al PERT.
 Posteriormente se introdujo la relación que existe entre el coste de
 cada actividad y su duración (J.E.Kelley).
 
-***Método Roy:*** método dual del PERT.
+***Método Roy.*** método dual del PERT.
 
-***Diferencias de notación entre el PERT y CPM:***
+***Diferencias de notación entre el PERT y CPM.***
 
   PERT           CPM
   -------------- -------------------------------
@@ -183,11 +163,11 @@ sobre el mínimo preciso.
 El método PERT en certeza
 -------------------------
 
-***Tabla de precedencias:*** es el paso previo en la aplicación del
+***Tabla de precedencias.*** es el paso previo en la aplicación del
 método PERT. En ella se recogen las relaciones de precedencia existentes
 entre las actividades.
 
-***Grafo PERT:*** está formado por nudos y flechas. Los nudos
+***Grafo PERT.*** está formado por nudos y flechas. Los nudos
 representan estados o situaciones. Las flechas representan las
 actividades del proyecto. El primer nudo representa el estado de
 comienzo del proyecto y el último la situación en la que se ha
@@ -195,30 +175,30 @@ finalizado el proyecto.
 
 Cada flecha ha de tener un nudo de origen y otro de destino:
 
--   **Nudo de origen:** representa la situación en la cual se han
+-   **Nudo de origen.** representa la situación en la cual se han
     finalizado las actividades precedentes y, por tanto, puede comenzar
     la actividad en cuestión.
 
--   **Nudo de destino:** representan la situación en la cual se ha
+-   **Nudo de destino.** representan la situación en la cual se ha
     finalizado la actividad en cuestión y, por tanto, pueden comenzar
     las que le siguen en el orden secuencial según la tabla de
     precedencias.
 
-***Tipos elementales de prelaciones o precedencias:***
+***Tipos elementales de prelaciones o precedencias.***
 
--   **Prelaciones lineales:** son las que se presentan cuando, para
+-   **Prelaciones lineales.** son las que se presentan cuando, para
     poder iniciar una determinada actividad, es necesario que haya
     finalizado previamente una única actividad.
 
--   **Prelaciones de convergencia:** para poder iniciar una cierta
+-   **Prelaciones de convergencia.** para poder iniciar una cierta
     actividad es necesario que hayan finalizado previamente dos o más
     actividades.
 
--   **Prelaciones de divergencia:** para que puedan iniciarse dos o más
+-   **Prelaciones de divergencia.** para que puedan iniciarse dos o más
     actividades es necesario que se haya terminado anteriormente una
     única actividad.
 
--   **Relaciones que dan lugar a convergencia y divergencia:** son
+-   **Relaciones que dan lugar a convergencia y divergencia.** son
     aquellas que se producen cuando, para que se puedan iniciar un
     conjunto de dos o más actividades, es preciso que se haya finalizado
     previamente más de una actividad.
@@ -250,7 +230,7 @@ height="3.8625601487314087in"}
 
 Figura . Ejemplo de PERT
 
-***Actividad ficticia:*** enlace lógico que permite reflejar formalmente
+***Actividad ficticia.*** enlace lógico que permite reflejar formalmente
 las prelaciones existentes entre las diferentes actividades que forman
 el proyecto. Se utilizan para resolver problemas en la representación,
 por ejemplo:
@@ -290,14 +270,14 @@ height="2.3696675415573054in"}
 Figura . Ejemplo del uso de actividades ficticias cuando más de una
 actividad no precede a ninguna otra
 
-***Camino:*** conjunto de actividades sucesivas.
+***Camino.*** conjunto de actividades sucesivas.
 
-***Tiempo early:*** número mínimo de unidades de tiempo necesarias para
+***Tiempo early.*** número mínimo de unidades de tiempo necesarias para
 alcanzar la situación representada por ese nudo. Es la duración del
 camino más largo que conduce, desde el nudo inicial, a ese nudo. Se
 calcula, en el grafo, procediendo desde el nudo inicial hacia el final.
 
-***Tiempo last:*** momento más tardía en el que es admisible llegar a la
+***Tiempo last.*** momento más tardía en el que es admisible llegar a la
 situación descrita por este nudo de modo que no se retrase la ejecución
 del proyecto sobre el mínimo imprescindible. Se calculan, en el grafo,
 procediendo desde el nudo final hacia el inicial. El tiempo *last* del
@@ -308,20 +288,20 @@ es la diferencia entre el tiempo *last* del último nudo y la duración
 del camino más largo que conduce, en sentido inverso, del último nudo al
 nudo en cuestión.
 
-***Oscilación de un nudo:*** diferencia entre su tiempo *last* y su
+***Oscilación de un nudo.*** diferencia entre su tiempo *last* y su
 tiempo *early*.
 
-***Camino crítico:*** está formado por las actividades en las que no
+***Camino crítico.*** está formado por las actividades en las que no
 debe producirse ninguna demora si se desea que el trabajo se termine en
 el mínimo tiempo posible. Es el camino que tiene mayor duración entre
 los que unen el primer y el último nudo. Las oscilaciones de los nudos
 que se encuentran en el camino crítico valen cero.
 
-***Actividades críticas:*** actividades que forman parte del camino
+***Actividades críticas.*** actividades que forman parte del camino
 crítico. Son las actividades cuyas ejecuciones habrán de ser objeto de
 mayor grado de control para evitar que se retrasen.
 
-***Holgura:*** margen de tiempo con el que cuentan las actividades que
+***Holgura.*** margen de tiempo con el que cuentan las actividades que
 no son críticas.
 
 ![](./assets/images/image12.png){width="4.696681977252843in"
@@ -332,20 +312,20 @@ nudo de origen, $\mathbf{j}$ nudo de destino, $\mathbf{E}$ tiempo
 *early*, $\mathbf{L}$ tiempo *last* y $\mathbf{d}_{\mathbf{\text{ij}}}$
 duración de la actividad
 
--   **Holgura total:** margen de tiempo sobrante suponiendo que a la
+-   **Holgura total.** margen de tiempo sobrante suponiendo que a la
     situación representada por el nudo de origen se llega lo más pronto
     posible y que a la del destino se llega lo más tarde admisible.
 
 $$H_{T} = L_{j} - E_{i} - d_{\text{ij}}$$
 
--   **Holgura libre:** margen de tiempo sobrante suponiendo que el nudo
+-   **Holgura libre.** margen de tiempo sobrante suponiendo que el nudo
     de origen se alcanza lo más pronto posible y que al de destino se
     llega también lo más pronto posible. También se puede calcular
     restando la oscilación del nudo de destino a la holgura total.
 
 $$H_{L} = E_{j} - E_{i} - d_{\text{ij}} = H_{T} - O_{j}$$
 
--   **Holgura independiente:** es el margen que sobra suponiendo que al
+-   **Holgura independiente.** es el margen que sobra suponiendo que al
     nudo de origen se llega lo más tarde que es admisible y que al de
     destino se llega lo más pronto posible. Otra forma de calcularla es
     restar la oscilación del nudo de origen a la holgura libre.
@@ -359,10 +339,10 @@ mayor o igual que la independiente.
 Los gráficos de Gantt
 ---------------------
 
-***Gráficos de control:*** técnicas más elementales de programación
+***Gráficos de control.*** técnicas más elementales de programación
 temporal de actividades.
 
-***Gráfico de Gantt:*** instrumento de control consistente en
+***Gráfico de Gantt.*** instrumento de control consistente en
 representar en el eje de abscisas el tiempo o las fechas de realización
 del proyecto y en el de ordenadas las actividades que lo integran. Cada
 barra tiene una longitud directamente proporcional a s curación y
@@ -378,7 +358,7 @@ Figura . Gráfico de Gantt
 El método PERT en incertidumbre
 -------------------------------
 
-***Método PERT en incertidumbre o en riesgo:*** aplicación del método
+***Método PERT en incertidumbre o en riesgo.*** aplicación del método
 PERT cuando no se puede prever las duraciones de las actividades pero se
 suponen conocidas sus distribuciones de probabilidad.
 
@@ -417,19 +397,19 @@ distribución normal.
 El PERT-coste
 -------------
 
-***PERT-coste:*** extensión del PERT-tiempo en la que se consideran
+***PERT-coste.*** extensión del PERT-tiempo en la que se consideran
 explícitamente los costes.
 
-***Costes directos:*** son aquellos que se pueden imputar claramente a
+***Costes directos.*** son aquellos que se pueden imputar claramente a
 las actividades que los genera. Aumentan a medida que se reducen las
 duraciones de las tareas.
 
-***Costes indirectos:*** no están vinculados a la producción, sino al
+***Costes indirectos.*** no están vinculados a la producción, sino al
 tiempo, por lo que se imputan a la generalidad del proyecto y no a las
 actividades en concreto. Aumentan cuanto mayor sea la duración del
 proyecto.
 
-***Coeficiente de costes:*** representa el importe en el que se modifica
+***Coeficiente de costes.*** representa el importe en el que se modifica
 el coste directo de una actividad al modificar su duración una unidad de
 tiempo.
 
