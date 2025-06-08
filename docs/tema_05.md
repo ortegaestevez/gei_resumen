@@ -223,7 +223,7 @@ Cada flecha ha de tener un nudo de origen y otro de destino:
     conjunto de dos o más actividades, es preciso que se haya finalizado
     previamente más de una actividad.
 
-![](../assets/images/image5.png){width="4.379146981627296in"
+![](./assets/images/image5.png){width="4.379146981627296in"
 height="2.8882075678040247in"}
 
 Figura . Ejemplo de grafos parciales
@@ -245,7 +245,7 @@ grafo PERT. Deben respetarse los siguientes principios:
     flechas que partan del mismo nudo y que tenga, también, el mismo
     nudo de destino.
 
-![](../assets/images/image6.png){width="4.223455818022747in"
+![](./assets/images/image6.png){width="4.223455818022747in"
 height="3.8625601487314087in"}
 
 Figura . Ejemplo de PERT
@@ -258,9 +258,9 @@ por ejemplo:
 -   Existen simultáneamente prelaciones lineales de convergencia o
     divergencia.
 
-![](../assets/images/image7.png){width="1.9062642169728783in"
+![](./assets/images/image7.png){width="1.9062642169728783in"
 height="2.1666819772528436in"}
-![](../assets/images/image8.png){width="2.742043963254593in"
+![](./assets/images/image8.png){width="2.742043963254593in"
 height="2.132701224846894in"}
 
 Figura . Representación incorrecta (izquierda) y correcta empleando
@@ -269,9 +269,9 @@ preceden a la C y la actividad A precede a la D
 
 -   Actividades paralelas.
 
-![](../assets/images/image9.png){width="3.469194006999125in"
+![](./assets/images/image9.png){width="3.469194006999125in"
 height="0.9954429133858268in"}
-![](../assets/images/image10.png){width="2.8909962817147856in"
+![](./assets/images/image10.png){width="2.8909962817147856in"
 height="1.5414238845144357in"}
 
 Figura . Representación incorrecta (izquierda) pues se violan los
@@ -284,7 +284,7 @@ representación correcta mediante actividades ficticias (derecha)
     ficticia a través de un nudo intermedio, ha de ser la que
     corresponda a la actividad con una duración más prolongada.
 
-![](../assets/images/image11.png){width="3.544709098862642in"
+![](./assets/images/image11.png){width="3.544709098862642in"
 height="2.3696675415573054in"}
 
 Figura . Ejemplo del uso de actividades ficticias cuando más de una
@@ -324,7 +324,7 @@ mayor grado de control para evitar que se retrasen.
 ***Holgura:*** margen de tiempo con el que cuentan las actividades que
 no son críticas.
 
-![](../assets/images/image12.png){width="4.696681977252843in"
+![](./assets/images/image12.png){width="4.696681977252843in"
 height="1.38503280839895in"}
 
 Figura . Representación de nodos y sus características: $\mathbf{i}$
@@ -370,7 +370,7 @@ comienza en el momento de la iniciación de la tarea que representa,
 finalizando en el de su terminación. Permiten controlar visualmente la
 ejecución de los trabajos.
 
-![](../assets/images/image13.png){width="4.40842738407699in"
+![](./assets/images/image13.png){width="4.40842738407699in"
 height="3.261770559930009in"}
 
 Figura . Gráfico de Gantt

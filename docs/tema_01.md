@@ -1,8 +1,7 @@
 Tema 1: Empresa y empresario
 ============================
 
-Introducción
-------------
+## Introducción
 
 ***Economía de la empresa***. Disciplina científica que trata la administración y dirección de los negocios empresariales. El objeto de estudio:
 
@@ -11,9 +10,8 @@ Introducción
 
 ***Empresa***. Unidad económica de producción.
 
-# La empresa como organización
-
-## Organización
+## La empresa como organización
+### Organización
 Conjunto de personas y recursos materiales bajo el principio de división del trabajo.
 
 **Elementos clave**.
@@ -27,17 +25,17 @@ Conjunto de personas y recursos materiales bajo el principio de división del tr
 3. **Dirección** - Coordina esfuerzos hacia metas comunes.
 4. **División del trabajo** - Especialización para eficiencia.
 
-## Tipos de organizaciones
+### Tipos de organizaciones
 - **No lucrativas**. Financiación para fines sociales (sin ánimo de lucro).
 - **Empresas**. Objetivo de maximizar beneficios para propietarios.
 
-## La empresa como sistema
+### La empresa como sistema
 Integra y coordina:  
 ✅ **Factores de producción**  
 ✅ **Financiación**  
 ✅ **Marketing**  
 
-### Características empresariales  
+#### Características empresariales  
 1. **Factores interconectados**. Producción, mercadotecnia y finanzas.  
 2. **Fines definidos**. Objetivos claros que guían su operación.  
 3. **Coordinación jerárquica**. Dirección planifica, ejecuta y controla.  
@@ -168,11 +166,11 @@ Las empresas operan dentro de un **sistema económico**, y su existencia se just
 - ***En el libre mercado***. Las empresas compiten entre sí de forma independiente. Aquí, la **"mano invisible" de Adam Smith** asegura que solo las compañías más eficientes y aquellas que mejor satisfacen a los consumidores sobreviven.
 - ***Economía centralizada***. El Estado controla todas las empresas y toma las decisiones para cumplir con un plan preestablecido.
 
-### La "Mano Invisible" de la Empresa (Costes de Transacción)
+#### La "Mano Invisible" de la Empresa (Costes de Transacción)
 
 Según R.H. Coase, las empresas también existen para **reducir los costes de transacción**. Realizar intercambios directamente en el mercado puede ser más caro e incierto. La empresa, en este sentido, actúa como un intermediario que organiza las relaciones económicas, minimiza el número de transacciones y reduce tanto los costes como la incertidumbre.
 
-### Intervención del Estado
+#### Intervención del Estado
 
 Incluso en sistemas de empresa privada, el Estado interviene por varias razones:
 
@@ -187,7 +185,7 @@ La responsabilidad de la empresa y su orientación social
 
 Al hablar del papel de una empresa en la sociedad, surgen tres conceptos clave: la **responsabilidad social**, la **ética empresarial** y la **orientación social**.
 
-### Responsabilidad Social
+#### Responsabilidad Social
 
 La **responsabilidad social** se refiere a si una empresa es responsable por los perjuicios que causa, o puede causar, a la sociedad. Esto significa que al tomar decisiones empresariales, no solo se deben considerar los efectos económicos, sino también sus impactos sociales.
 
@@ -201,11 +199,11 @@ Los temas sociales fundamentales que más preocupan a las empresas son:
 * **Medio ambiente**. La necesidad de que las empresas utilicen técnicas para tratar los residuos y vertidos perjudiciales.
 * **Conservación de los recursos no renovables**. Se exige un uso más eficiente de los recursos y el desarrollo de políticas de conservación.
 
-### Ética Empresarial
+#### Ética Empresarial
 
 La **ética empresarial** implica que un trabajador debe actuar buscando el beneficio de su empresa y no su propio beneficio personal.
 
-### Orientación Social
+#### Orientación Social
 
 **Orientación social**. Se refiere a si la empresa debe incorporar consideraciones sobre el bienestar social. Existen dos posturas extremas:
 

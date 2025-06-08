@@ -295,7 +295,7 @@ La forma que tienen estos dientes se explica por el supuesto de que las
 entradas se efectúan por lotes y de que las salidas se producen de forma
 constante y continua.
 
-![](../assets/images/image25.png){width="5.406450131233596in"
+![](./assets/images/image25.png){width="5.406450131233596in"
 height="1.9448326771653544in"}
 
 Figura . Evolución temporal del inventario en unidades físicas
@@ -304,7 +304,7 @@ En la figura anterior se ha supuesto que no existe stock de seguridad.
 Si hubiera un stock igual a $S$ unidades físicas, la representación
 correcta sería esta:
 
-![](../assets/images/image26.png){width="4.673591426071741in"
+![](./assets/images/image26.png){width="4.673591426071741in"
 height="2.2997025371828523in"}
 
 Figura . Evolución temporal del inventario en unidades físicas asumiendo

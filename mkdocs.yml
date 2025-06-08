@@ -1,9 +1,26 @@
 site_name: Resumen de Gestión de Empresas Informáticas
 site_url: https://ortegaestevez.github.io/resumen_gei
+repo_name: ortegaestevez/gei_resumen
 theme:
   name: material
+  language: es
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Cambiar a modo oscuro
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Cambiar a modo claro
+repo_url: https://github.com/ortegaestevez/gei_resumen
+
 markdown_extensions:
   - def_list
+  - footnotes
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.arithmatex:

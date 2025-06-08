@@ -160,13 +160,13 @@ La función de gestión, o dirección en sentido restringido
 * **Líderes democráticos.** Involucran a los subordinados en las decisiones, solicitan opiniones y fomentan la cooperación.
 * ***Laissez faire*.** Dan poca o ninguna orientación, dejando que los subordinados decidan por sí mismos.
 
-![](../assets/images/image2.png)
+![](./assets/images/image2.png)
 
 Flexibilidad en el estilo de liderazgo es crucial para adaptarse a cada situación.
 
 ***Teorías X e Y*** (Douglas McGregor). Indican que la visión del líder sobre las personas (pesimista en X, optimista en Y) influye directamente en el comportamiento de los subordinados, transformándose en una realidad.
 
-![](../assets/images/image3.png)
+![](./assets/images/image3.png)
 
 La ***Teoría Z*** (William Ouchi). Se basa en principios como: compromiso de empleo de por vida, evaluación y promoción lentas, consenso en la toma de decisiones, responsabilidad colectiva, control informal e implícito, y cuidado integral de los empleados.
 

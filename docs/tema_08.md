@@ -43,7 +43,7 @@ entre los que se encuentran:
         la empresa mediante su propio ahorro. La fuente de recursos
         internos es la autofinanciación.
 
-![](../assets/images/image20.png){width="3.9930391513560806in"
+![](./assets/images/image20.png){width="3.9930391513560806in"
 height="1.229825021872266in"}
 
 Figura . Clasificación de las principales fuentes financieras de la

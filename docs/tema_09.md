@@ -66,7 +66,7 @@ que fuera el valor de $P$. El cociente $\frac{C_{F}}{p - c_{v}}$
 determina el nivel mínimo de unidades anuales necesarias para que la
 decisión de producción sea preferible a la de compra.
 
-![](../assets/images/image21.png){width="4.1753554243219595in"
+![](./assets/images/image21.png){width="4.1753554243219595in"
 height="2.5466076115485565in"}
 
 Figura . Resolución gráfica del problema de producir o comprar
@@ -775,8 +775,8 @@ va pasando un material, especificándose, en cada una de ellas, si se
 trata de una operación, una inspección, un transporte, un almacenamiento
 o una demora, utilizando los siguientes símbolos:
 
-![](../assets/images/image22.png){width="1.3386176727909012in"
-height="1.2464457567804024in"}![](../assets/images/image22.png){width="1.4412828083989502in"
+![](./assets/images/image22.png){width="1.3386176727909012in"
+height="1.2464457567804024in"}![](./assets/images/image22.png){width="1.4412828083989502in"
 height="0.9336493875765529in"}
 
 Figura . Símbolos de las fases por las que pasa un material en el
@@ -940,7 +940,7 @@ cada uno de ellos y el sistema global.
 Cada uno de los subsistemas ofrece al otro una serie de posibilidades,
 pero también le impone restricciones o exigencias.
 
-![](../assets/images/image23.png){width="3.8684339457567805in"
+![](./assets/images/image23.png){width="3.8684339457567805in"
 height="2.7943350831146105in"}
 
 Figura . Relación entre el subsistema técnico (izquierda) y el
@@ -1176,7 +1176,7 @@ tarea, se representan gráficamente:
     símbolos de la A.S.M.E. (Sociedad Americana de Ingenieros
     Mecánicos):
 
-![](../assets/images/image24.png){width="1.940009842519685in"
+![](./assets/images/image24.png){width="1.940009842519685in"
 height="2.260913167104112in"}
 
 Figura . Símbolos de la A.S.M.E. para la representación de las

@@ -1,6 +1,10 @@
 Resumen de la asignatura Gestión de Empresas informáticas (GEI) de la UNED, enfocada en los problemas económicos que se plantean en una empresa y los distintos planteamientos para su resolución, haciendo hincapié en las empresas informáticas.
 
-Se ha hecho a partir de otro resumen hecho por Cristina Otero Rodríguez ([crisuni88](https://github.com/crisluni88)), una antigua alumna de la asignatura. Para acceder al mismo es necesario que estés en el grupo de Telegram de la asignatura. En el resumen hecho en el actual proyecto se han modularizado los párrafos usando listas además de reescribir parte del texto para hacerlo más conciso:
+Se ha hecho a partir de otro resumen hecho por Cristina Otero Rodríguez ([crisuni88](https://github.com/crisluni88)), una antigua alumna de la asignatura. Para acceder al mismo es necesario que estés en el grupo de Telegram de la asignatura.
+
+El resumen del actual proyecto se enfoca en la parte teórica de la asignatura, ya que para la parte práctica conviene hacer los ejercicios del libro complementario[^1].
+
+En el resumen hecho en el actual proyecto se han modularizado los párrafos usando listas además de reescribir parte del texto para hacerlo más conciso:
 
 En el resumen de Cristina (formato Markdown aplicado):
 
@@ -33,6 +37,8 @@ En este resumen:
      estrategia (el menor) y se elige aquella a la que le corresponda el mínimo
      entre esos mínimos.
 ```
+
+[^1]: ISBN: 9788480049702
 
 ## Acceso a los resúmenes
 

@@ -59,7 +59,7 @@ cada uno de ellos, y el **riesgo** que comporta.
 El plan de una inversión se puede representar como en la siguiente
 figura:
 
-![](../assets/images/image16.png){width="6.804364610673666in"
+![](./assets/images/image16.png){width="6.804364610673666in"
 height="0.7302537182852143in"}
 
 Figura . Plan de una inversión
@@ -254,7 +254,7 @@ $$\text{VAN}\left( k \right) = - A + \frac{Q_{1}}{1 + k} + \frac{Q_{2}}{\left( 1
 En las inversiones simples que, además, son analizables, el VAN
 evoluciona, como función del tipo de descuento, de la siguiente manera:
 
-![](../assets/images/image17.png){width="3.6507688101487314in"
+![](./assets/images/image17.png){width="3.6507688101487314in"
 height="2.1990518372703414in"}
 
 Figura . Evolución del VAN como función del tipo de descuento
@@ -505,7 +505,7 @@ la misma decisión.
 > valoración se aplica el mismo tipo de descuento, es decir, se les
 > exige la misma rentabilidad.
 >
-> ![](../assets/images/image18.png){width="3.876777121609799in"
+> ![](./assets/images/image18.png){width="3.876777121609799in"
 > height="2.2112674978127735in"}
 
 Figura . $\mathbf{\text{VAN}}$ de dos proyectos de inversión como
@@ -540,7 +540,7 @@ función del tipo de descuento
 > Pueden aparecer discrepancias entre los dos criterios si existe alguna
 > intersección de Fischer en el primer cuadrante.
 >
-> ![](../assets/images/image19.png){width="4.15165791776028in"
+> ![](./assets/images/image19.png){width="4.15165791776028in"
 > height="2.243160542432196in"}
 
 Figura . $\mathbf{\text{VAN}}$ de dos proyectos de inversión como

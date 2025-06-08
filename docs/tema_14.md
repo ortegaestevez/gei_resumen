@@ -74,7 +74,7 @@ buena medida, de la rapidez de la aceptación del producto por los
 consumidores. La distribución de las personas en categorías de
 predisposición a la prueba es aproximadamente normal.
 
-![](../assets/images/image36.png){width="4.861942257217848in"
+![](./assets/images/image36.png){width="4.861942257217848in"
 height="2.3655074365704287in"}
 
 Figura . Estrategias en la promoción
@@ -113,7 +113,7 @@ Tampoco para la retirada del producto se debe esperar a incurrir en
 pérdidas sino que debe realizarse en el momento en que se haya
 desarrollado un nuevo producto más rentable en el que emplearlos.
 
-![](../assets/images/image37.png){width="5.552123797025372in"
+![](./assets/images/image37.png){width="5.552123797025372in"
 height="2.885437445319335in"}
 
 Figura . Ciclo de vida de un producto
@@ -368,7 +368,7 @@ venta al consumidor.
 precio del producto. Puede ser diferente para la clase de producto y
 para cada marca.
 
-![](../assets/images/image38.png){width="3.8190857392825897in"
+![](./assets/images/image38.png){width="3.8190857392825897in"
 height="1.9547156605424323in"}
 
 Figura . Curva de demanda
@@ -669,7 +669,7 @@ hacen menos que proporcionalmente. Existe un nivel de ventas mínimo que
 no requiere publicidad y otro máximo que se alcanza a medida que el
 mercado se va saturando.
 
-![](../assets/images/image39.png){width="3.5916437007874014in"
+![](./assets/images/image39.png){width="3.5916437007874014in"
 height="1.7647255030621172in"}
 
 Figura . Relación entre las ventas y el presupuesto publicitario

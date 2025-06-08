@@ -1,19 +1,9 @@
-# Welcome to MkDocs
+# Introducción
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Resumen de la asignatura Gestión de Empresas informáticas (GEI) de la UNED, enfocada en los problemas económicos que se plantean en una empresa y los distintos planteamientos para su resolución, haciendo hincapié en las empresas informáticas.
 
-## Commands
+Se ha hecho a partir de otro resumen hecho por Cristina Otero Rodríguez ([crisuni88](https://github.com/crisluni88)), una antigua alumna de la asignatura. Para acceder al mismo es necesario que estés en el grupo de Telegram de la asignatura.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+El resumen del actual proyecto se enfoca en la parte teórica de la asignatura, ya que para la parte práctica conviene hacer los ejercicios del libro complementario[^1].
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-
-
+[^1]: ISBN: 9788480049702

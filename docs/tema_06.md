@@ -255,7 +255,7 @@ derivado de la exigibilidad del pasivo a corto.
 ***Fondo de rotación o fondo de maniobra:*** diferencia entre el activo
 circulante y el pasivo a corto plazo.
 
-![](../assets/images/image14.png){width="2.4067738407699037in"
+![](./assets/images/image14.png){width="2.4067738407699037in"
 height="1.6647397200349956in"}
 
 Figura . Activo, pasivo y fondo de maniobra
@@ -544,7 +544,7 @@ cubiertos en su totalidad con el margen bruto total generado:
 
 $$m \cdot X = C_{F}$$
 
-![](../assets/images/image15.png){width="3.4199070428696414in"
+![](./assets/images/image15.png){width="3.4199070428696414in"
 height="1.8786122047244094in"}
 
 Figura . El punto muerto representa la intersección entre la recta de

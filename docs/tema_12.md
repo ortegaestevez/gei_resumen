@@ -86,7 +86,7 @@ grandes funciones de producción y finanzas.
     financiero se establecen las inversiones que se van a realizar y los
     medios con los que van a ser financiadas.
 
-![](../assets/images/image27.png){width="3.9573458005249345in"
+![](./assets/images/image27.png){width="3.9573458005249345in"
 height="2.338675634295713in"}
 
 Figura . Relación del marketing con las funciones de producción y
@@ -115,7 +115,7 @@ objetivos de investigación y medida cuyos campos de aplicación son:
     retroalimentación que es característico de las decisiones
     empresariales.
 
-![](../assets/images/image28.png){width="2.7247812773403326in"
+![](./assets/images/image28.png){width="2.7247812773403326in"
 height="2.947601706036745in"}
 
 Figura . Diagrama de flujo en la toma de decisiones mercadotécnicas
@@ -181,7 +181,7 @@ La clasificación de mercados más generalizada en Economía es la que los
 distingue según el **número de oferentes y demandantes** que
 intervienen:
 
-![](../assets/images/image29.png){width="3.5230785214348206in"
+![](./assets/images/image29.png){width="3.5230785214348206in"
 height="1.7109142607174104in"}
 
 Figura . Clasificación del mercado según el número de oferentes y
@@ -609,7 +609,7 @@ estimadas para el periodo $t$ serían:
 
 $$V_{t} = \alpha + \beta \cdot t$$
 
-![](../assets/images/image30.png){width="3.250820209973753in"
+![](./assets/images/image30.png){width="3.250820209973753in"
 height="2.104265091863517in"}
 
 Figura . Ejemplo de extrapolación gráfica con una regresión lineal
@@ -622,7 +622,7 @@ se utiliza el **método de las medias móviles**, consistente en sustituir
 el valor del periodo correspondiente, $V_{t}$, por la media aritmética
 de este valor y otros que le son próximos. Por ejemplo:
 
-![](../assets/images/image31.png){width="3.7676738845144357in"
+![](./assets/images/image31.png){width="3.7676738845144357in"
 height="1.5204571303587051in"}
 
 Figura . Ejemplo de transformación
@@ -647,7 +647,7 @@ hasta cuatro componentes:
 -   **Variaciones accidentales,** $\mathbf{A}$**.** Son pequeños
     movimiento derivados de circunstancias momentáneas y esporádicas.
 
-![](../assets/images/image32.png){width="4.9881069553805775in"
+![](./assets/images/image32.png){width="4.9881069553805775in"
 height="1.8672987751531058in"}
 
 Figura . Evolución de las ventas
@@ -696,7 +696,7 @@ Si la relación es lineal, se habla de **regresión lineal**. Existen
 otros tipos de funciones que pueden ser transformadas en lineales
 tomando logaritmos.
 
-![](../assets/images/image33.png){width="3.750071084864392in"
+![](./assets/images/image33.png){width="3.750071084864392in"
 height="1.701421697287839in"}
 
 Figura . Funciones que pueden ser transformadas en lineales tomando

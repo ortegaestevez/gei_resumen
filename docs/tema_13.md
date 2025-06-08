@@ -63,7 +63,7 @@ siguiente:
 -   Revisión del objetivo o dar el paso a la planificación de la
     investigación.
 
-![](../assets/images/image34.png){width="4.000250437445319in"
+![](./assets/images/image34.png){width="4.000250437445319in"
 height="1.3279385389326335in"}
 
 Figura . Proceso de desarrollo de una investigación comercial
@@ -375,7 +375,7 @@ ellos.
 El procedimiento para calcular las tres dispersiones se basa en la
 siguiente figura:
 
-![](../assets/images/image35.png){width="3.8750284339457566in"
+![](./assets/images/image35.png){width="3.8750284339457566in"
 height="2.4687685914260715in"}
 
 Figura . Método para calcular las dispersiones
