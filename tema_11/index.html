@@ -1,0 +1,1482 @@
+
+<!doctype html>
+<html lang="es" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://ortegaestevez.github.io/resumen_gei/tema_11/">
+      
+      
+        <link rel="prev" href="../tema_10/">
+      
+      
+        <link rel="next" href="../tema_12/">
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.14">
+    
+    
+      
+        <title>Tema 11: La logística - Resumen de Gestión de Empresas Informáticas</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.342714a4.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.06af60db.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="https://unpkg.com/katex@0/dist/katex.min.css">
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#tema-11-la-logistica" class="md-skip">
+          Saltar a contenido
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Cabecera">
+    <a href=".." title="Resumen de Gestión de Empresas Informáticas" class="md-header__button md-logo" aria-label="Resumen de Gestión de Empresas Informáticas" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Resumen de Gestión de Empresas Informáticas
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Tema 11: La logística
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Cambiar a modo oscuro"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Cambiar a modo oscuro" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 7a5 5 0 0 1 5 5 5 5 0 0 1-5 5 5 5 0 0 1-5-5 5 5 0 0 1 5-5m0 2a3 3 0 0 0-3 3 3 3 0 0 0 3 3 3 3 0 0 0 3-3 3 3 0 0 0-3-3m0-7 2.39 3.42C13.65 5.15 12.84 5 12 5s-1.65.15-2.39.42zM3.34 7l4.16-.35A7.2 7.2 0 0 0 5.94 8.5c-.44.74-.69 1.5-.83 2.29zm.02 10 1.76-3.77a7.131 7.131 0 0 0 2.38 4.14zM20.65 7l-1.77 3.79a7.02 7.02 0 0 0-2.38-4.15zm-.01 10-4.14.36c.59-.51 1.12-1.14 1.54-1.86.42-.73.69-1.5.83-2.29zM12 22l-2.41-3.44c.74.27 1.55.44 2.41.44.82 0 1.63-.17 2.37-.44z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Cambiar a modo claro"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Cambiar a modo claro" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3zm3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95zm-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Búsqueda" placeholder="Búsqueda" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Buscar">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Limpiar" aria-label="Limpiar" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Inicializando búsqueda
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/ortegaestevez/gei_resumen" title="Ir al repositorio" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    ortegaestevez/gei_resumen
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navegación" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="Resumen de Gestión de Empresas Informáticas" class="md-nav__button md-logo" aria-label="Resumen de Gestión de Empresas Informáticas" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Resumen de Gestión de Empresas Informáticas
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/ortegaestevez/gei_resumen" title="Ir al repositorio" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.7.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2024 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81"/></svg>
+  </div>
+  <div class="md-source__repository">
+    ortegaestevez/gei_resumen
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Introducción
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../tema_01/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Tema 1: Empresa y empresario
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../tema_02/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Tema 2: Proceso de dirección de la empresa
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../tema_03/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Tema 3. La dirección de los recursos humanos
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../tema_04/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Tema 4: Análisis de problemas y toma de decisiones
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../tema_05/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Tema 5: Técnicas instrumentales de planificación, programación y control
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../tema_06/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Tema 6: Elementos financieros
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../tema_07/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Tema 7: Las inversiones y su selección. La rentabilidad de las inversiones
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../tema_08/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Tema 8: Las fuentes de financiación y su selección. El coste del capital
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../tema_09/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Tema 9: Elementos productivos. El proceso de producción y el factor humano
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../tema_10/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Tema 10: La capacidad de producción
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    Tema 11: La logística
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    Tema 11: La logística
+    
+  </span>
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Tabla de contenidos">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Tabla de contenidos
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introduccion" class="md-nav__link">
+    <span class="md-ellipsis">
+      Introducción
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#objetivos-de-los-inventarios" class="md-nav__link">
+    <span class="md-ellipsis">
+      Objetivos de los inventarios
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#los-costes-de-los-inventarios-y-su-tamano" class="md-nav__link">
+    <span class="md-ellipsis">
+      Los costes de los inventarios y su tamaño
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tipos-de-demanda" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tipos de demanda
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tipos-de-sistemas-y-modelos-de-inventarios" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tipos de sistemas y modelos de inventarios
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#modelos-deterministas" class="md-nav__link">
+    <span class="md-ellipsis">
+      Modelos deterministas
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#modelo-probabilistico" class="md-nav__link">
+    <span class="md-ellipsis">
+      Modelo probabilístico
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sistemas-de-control-de-inventarios" class="md-nav__link">
+    <span class="md-ellipsis">
+      Sistemas de control de inventarios
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#la-traslacion-de-los-inventarios" class="md-nav__link">
+    <span class="md-ellipsis">
+      La traslación de los inventarios
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#la-distribucion-fisica" class="md-nav__link">
+    <span class="md-ellipsis">
+      La distribución física
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../tema_12/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Tema 12: Elementos de marketing: el mercado, la demanda y el presupuesto mercadotécnico
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../tema_13/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Tema 13: Investigación de mercados, segmentación y experimentación comercial
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../tema_14/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Tema 14: Las variables del marketing
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Tabla de contenidos">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Tabla de contenidos
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#introduccion" class="md-nav__link">
+    <span class="md-ellipsis">
+      Introducción
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#objetivos-de-los-inventarios" class="md-nav__link">
+    <span class="md-ellipsis">
+      Objetivos de los inventarios
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#los-costes-de-los-inventarios-y-su-tamano" class="md-nav__link">
+    <span class="md-ellipsis">
+      Los costes de los inventarios y su tamaño
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tipos-de-demanda" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tipos de demanda
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tipos-de-sistemas-y-modelos-de-inventarios" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tipos de sistemas y modelos de inventarios
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#modelos-deterministas" class="md-nav__link">
+    <span class="md-ellipsis">
+      Modelos deterministas
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#modelo-probabilistico" class="md-nav__link">
+    <span class="md-ellipsis">
+      Modelo probabilístico
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sistemas-de-control-de-inventarios" class="md-nav__link">
+    <span class="md-ellipsis">
+      Sistemas de control de inventarios
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#la-traslacion-de-los-inventarios" class="md-nav__link">
+    <span class="md-ellipsis">
+      La traslación de los inventarios
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#la-distribucion-fisica" class="md-nav__link">
+    <span class="md-ellipsis">
+      La distribución física
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+  
+  
+
+
+<h1 id="tema-11-la-logistica">Tema 11: La logística</h1>
+<h2 id="introduccion">Introducción</h2>
+<p><strong><em>Logística:</em></strong> función que comprende las actividades y procesos
+necesarios para la administración estratégica del flujo y almacenamiento
+de materias primas y componentes, existencias en proceso y productos
+terminados; de tal manera, que éstos estén en la cantidad adecuada, en
+el lugar correcto y en el momento apropiado. Comprende la consecución y
+almacenamiento de los factores necesarios para producir, así como el
+almacenamiento de los productos semiterminados y la distribución de los
+productos acabados hasta su destino en los distribuidores o clientes.</p>
+<p><strong><em>Inventario:</em></strong> provisión de materiales que tiene como objeto
+principal facilitar la continuidad del proceso productivo y la
+satisfacción de los pedidos de los consumidores y clientes. Actúan como
+reguladores entre los ritmos de salida de unas fases y los de entrada de
+las siguientes. La clasificación más importante de los mismos es la que
+distingue entre inventarios de materias primas, de productos
+semielaborados y de productos terminados.</p>
+<ul>
+<li>
+<p>Habitualmente los proveedores entregan materiales periódicamente y
+    que las empresas los precisan de forma prácticamente continua, por
+    lo que resulta precisa la colocación de unos reguladores que son los
+    <strong>inventarios de materias primas</strong>.</p>
+</li>
+<li>
+<p>En el proceso de producción es necesario un regulador o <strong>inventario
+    de productos semiterminados</strong> entre aquellas fases del proceso cuyos
+    ritmos de producción difieren, siendo las salidas de unas entradas
+    para las siguientes.</p>
+</li>
+<li>
+<p>Del mismo modo, el ritmo de ventas no suele coincidir con el de
+    generación de productos, por lo cual se hace precisa la utilización
+    de <strong>inventarios de productos terminados</strong>.</p>
+</li>
+</ul>
+<p>Las decisiones en materia de almacenes o inventarios se encuentran
+condicionadas por las referentes al proceso de producción y a la
+capacidad de las instalaciones. Además, tienen importantes consecuencias
+financieras y mercadotécnicas que dan lugar a conflictos de intereses.
+Generalmente, los directivos financieros prefieren mantener unos
+inventarios tan bajos como sea posible, pues constituyen un activo cuya
+financiación tendrá un coste. Por el contrario, tanto los directivos del
+área de producción como los de marketing prefieren que los inventarios
+sean elevados, para garantizar la continuidad del proceso de fabricación
+y de la satisfacción de la demanda. Las decisiones óptimas sobre el
+nivel de inventarios son las que equilibran estos objetivos
+contrapuestos y satisfacen los objetivos globales de la empresa.</p>
+<p>La problemática de los inventarios no solo incumbe a las empresas
+fabricantes de bienes. Las que prestan servicios también se encuentran
+con esa problemática, pues, aunque los servicios no son almacenables, en
+muchas ocasiones para prestarlos es preciso tener inventarios de
+diversos tipos de bienes.</p>
+<h2 id="objetivos-de-los-inventarios">Objetivos de los inventarios</h2>
+<p>Los objetivos de los inventarios son los siguientes:</p>
+<ul>
+<li>
+<p><strong>Reducción del riesgo.</strong></p>
+<ul>
+<li>
+<p>Para evitar que un repentino aumento de la demanda produzca un
+    desabastecimiento que obligue a dejar de satisfacerla, se
+    mantiene un <strong>stock de seguridad de productos terminados</strong>.</p>
+</li>
+<li>
+<p>Tampoco es posible saber con toda certeza el tiempo que tardarán
+    los proveedores en servir el pedido. Para evitar una detención
+    del proceso de producción por agotamiento del almacén de
+    materias primas, se mantiene un <strong>stock de seguridad de materias
+    primas</strong>. Éste es necesario incluso cuando los proveedores son
+    de absoluta confianza, pues un aumento inesperado de la
+    intensidad de la demanda de productos terminados puede provocar
+    una mayor necesidad de producción, lo cual requiere, a su vez,
+    una repentina elevación del ritmo de salidas del almacén de
+    materias primas que puede agotarle si no se dispone de un nivel
+    mínimo.</p>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Abaratar las adquisiciones y la producción.</strong> En ocasiones, la
+    forma óptima de producción es hacerlo por lotes, es decir, fabricar
+    un gran lote de unidades durante un periodo de tiempo corto y no
+    volver a fabricar hasta que ese lote se encuentre casi agotado. Esto
+    permite utilizar la misma maquinaria para elaborar distintos
+    productos, lo cual puede resultar barato al distribuirse entre todos
+    ellos los costes fijos de las máquinas.</p>
+</li>
+</ul>
+<p>En las adquisiciones de materia prima también puede ser económico
+comprar por grandes lotes, para aprovechar descuentos por tamaño del
+pedido, repartir los costes de transporte, etc.</p>
+<p>En ambos casos son necesarios grandes almacenes. También abarata la
+adquisición de materias primas y la producción comprar en grandes
+cantidades cuando el precio se reduce transitoriamente.</p>
+<ul>
+<li><strong>Anticipar las variaciones previstas de la oferta y la demanda.</strong>
+    Existen ocasiones en las que pueden preverse las variaciones de la
+    oferta y de la demanda. Por ejemplo, puede preverse que una amplia
+    campaña de promoción de uno de los productos va a elevar la demanda
+    de este. Para anticiparse a ella, la empresa acumula productos
+    terminados.</li>
+</ul>
+<p>Otro tanto ocurre cuando la materia prima o los productos terminados
+están sometidos a variaciones estacionales.</p>
+<ul>
+<li><strong>Facilitar el transporte y la distribución del producto.</strong> La
+    producción se almacena para ser transportada en lotes cuando la
+    fabricación está separada de los lugares de consumo.</li>
+</ul>
+<p>Otro tanto sucede en el proceso de elaboración de algunos productos que
+se van completando en sucesivas fases realizadas en puntos más o menos
+distantes entre sí.</p>
+<h2 id="los-costes-de-los-inventarios-y-su-tamano">Los costes de los inventarios y su tamaño</h2>
+<p>Para decidir el nivel óptimo de los inventarios han de tenerse en cuenta
+sus costes, que son los siguientes:</p>
+<ul>
+<li>
+<p><strong>Costes de almacenamiento, posesión o mantenimiento de
+    inventarios.</strong> A medida que el nivel de los almacenes aumente, se
+    incrementará el volumen de recursos financieros inmovilizados en los
+    mismos. Estos recursos tendrán un coste que será igual al coste del
+    capital que los financia (coste del pasivo) o el coste de
+    oportunidad que comporta la rentabilidad que podría obtenerse si se
+    invirtieran de otro modo (coste del activo alternativo). Además, se
+    incurre en costes de alquiler o de amortización de los locales
+    destinados a almacenes, costes de control de los productos, de
+    manipulación física, de obsolescencia y mermas de los productos
+    almacenados, de seguros, etc. Estos costes son tanto mayores cuanto
+    mayor sea el inventario.</p>
+</li>
+<li>
+<p><strong>Costes de reaprovisionamientos, renovación del stock o realización
+    de pedidos.</strong> Con cada lote que se pide para reaprovisionar el
+    almacén, se incurre en costes comerciales, administrativos y de
+    distribución que suelen suponerse independientes de cual sea el
+    tamaño del pedido. Dado que a medida que se incrementa el volumen de
+    los almacenes se reduce el número de órdenes que es preciso realizar
+    al año, el coste anual por pedidos se reduce con el nivel de los
+    inventarios.</p>
+</li>
+<li>
+<p><strong>Costes de ruptura de stocks.</strong> La ruptura de stocks se produce
+    cuando la empresa se queda sin inventarios. Cuando la ruptura se
+    produce en el almacén de productos terminados, la empresa se
+    enfrenta a la imposibilidad temporal de satisfacer las demandas de
+    sus clientes, lo cual provoca siempre una pérdida de imagen, y en
+    ocasiones una pérdida de ventas. Si la ruptura se produce en el
+    inventario de materias primas o en el de productos semiterminados,
+    provoca una detención total o parcial del proceso de producción, lo
+    cual da lugar, a su vez, a los costes fijos de inactividad. Además,
+    si la situación se prolonga, la ruptura del stock de materias primas
+    o del almacén de productos semielaborados puede ar lugar a una
+    ruptura del inventario de productos terminados. Cuanto menor sea el
+    tamaño del inventario, mayor es la probabilidad de incurrir en
+    costes de ruptura.</p>
+</li>
+</ul>
+<p>En general, interesará mantener grandes inventarios cuando:</p>
+<ul>
+<li>
+<p>Los costes de realización de pedidos son elevados.</p>
+</li>
+<li>
+<p>Los costes de almacenamiento son bajos.</p>
+</li>
+<li>
+<p>Realizando grandes pedidos es posible obtener importantes descuentos
+    de los proveedores.</p>
+</li>
+<li>
+<p>Se espera un crecimiento sustancial de la demanda.</p>
+</li>
+<li>
+<p>Se esperan fuertes subidas de precios</p>
+</li>
+</ul>
+<p>Complementariamente, se mantendrán bajos niveles cuando:</p>
+<ul>
+<li>
+<p>Los costes de almacenamiento son altos y los de realización de
+    pedidos son bajos.</p>
+</li>
+<li>
+<p>La demanda de la empresa es estable, siendo improbable un
+    crecimiento súbito.</p>
+</li>
+<li>
+<p>Los proveedores son de confianza y no existen dificultades de
+    reaprovisionamiento.</p>
+</li>
+<li>
+<p>No es posible aplazar el pago a los proveedores y existen dificultes
+    de financiación de las existencias.</p>
+</li>
+<li>
+<p>Se esperan importantes disminuciones de precios.</p>
+</li>
+</ul>
+<h2 id="tipos-de-demanda">Tipos de demanda</h2>
+<p><strong><em>Demanda independiente:</em></strong> viene determinada directamente por el
+mercado. Es la demanda propia de aquellos artículos que son demandados
+por el mercado de manera inmediata, sin la mediación de otros bienes. Es
+el caso de la demanda de productos terminados, repuestos, etc.</p>
+<p><strong><em>Demanda dependiente:</em></strong> se encuentra vinculada a la demanda de otros
+productos. Es una demanda mediata, en el sentido de que entre el mercado
+y los bienes que son objeto de esta median otros bienes.</p>
+<p><strong><em>Bienes finales:</em></strong> bienes cuya demanda es independiente. Si se conoce
+con certeza la demanda de un bien final, también se conocerá la de los
+bienes cuya demanda depende de la de ellos, y el asegurar que se
+disponga de las cantidades necesarias en los momentos precisos será un
+proceso muy simple. Por el contrario, cuando la demanda de los bienes
+finales es incierta, también lo es la de los bienes cuya demanda depende
+de la de aquellos.</p>
+<h2 id="tipos-de-sistemas-y-modelos-de-inventarios">Tipos de sistemas y modelos de inventarios</h2>
+<p><strong><em>Sistemas de inventarios:</em></strong> está integrado por una estructura
+organizativa y por un conjunto de reglas, políticas y procedimientos de
+mantenimiento y control de los bienes inventariados. Al sistema le
+corresponde la ordenación de pedidos y su recepción. Determina el tamaño
+de cada pedido y el momento en el que ha de enviarse la orden. Además,
+ha de mantenerse información actualizada de qué se ha pedido, cuánto se
+ha pedido y a quién se ha pedido. Hay dos tipos básicos de sistemas de
+inventarios:</p>
+<ul>
+<li>
+<p><strong>Sistema de volumen de pedido constante (sistema</strong> <span class="arithmatex">\(\mathbf{Q}\)</span><strong>)
+    o sistema de volumen económico de pedido.</strong> Todos los pedidos tienen
+    el mismo tamaño y se realizan cuando se comprueba que es necesario,
+    lo cual puede suceder en cualquier momento, dado el nivel de
+    existencias del almacén y la demanda prevista.</p>
+</li>
+<li>
+<p><strong>Sistema de periodo constante (sistema</strong> <span class="arithmatex">\(\mathbf{P}\)</span><strong>), sistema
+    periódico, sistema de revisión periódica o sistema de intervalo fijo
+    de pedido.</strong> En él se establece un periodo constante entre cada par
+    de pedidos. Estos se efectúan cuando ha transcurrido ese periodo, y
+    su tamaño es variable dependiendo del nivel que tenga el inventario
+    al llegar a ese momento y de la demanda prevista.</p>
+</li>
+</ul>
+<p>El sistema <span class="arithmatex">\(Q\)</span> requiere una frecuente revisión de las existencias para
+determinar si es conveniente realizar un pedido. En el sistema <span class="arithmatex">\(P\)</span> las
+revisiones solo se realizan llegado el momento de la reposición para
+determinar la cantidad que conviene recargar. A igualdad de stock de
+seguridad éste último sistema provoca mayores rupturas que el de pedido
+constante. Para que el riesgo de que se produzca una ruptura sea
+semejante, el sistema de periodo constante requiere el mantenimiento de
+unos inventarios mayores que el de pedido constante.</p>
+<p>En la práctica, se utilizan los dos tipos de sistemas:</p>
+<ul>
+<li>
+<p>El sistema <span class="arithmatex">\(P\)</span> se aplica en los inventarios de productos de poco
+    valor.</p>
+</li>
+<li>
+<p>El sistema <span class="arithmatex">\(Q\)</span> se utiliza para artículos caros en los que se gana
+    teniendo una inmovilización de recursos financieros más baja,
+    compensa los gastos derivados del elevado nivel de control que
+    requiere.</p>
+</li>
+</ul>
+<p>Los distintos <strong>modelos</strong> también se pueden diferenciar según el nivel
+de información existente:</p>
+<ul>
+<li>
+<p><strong>Modelos deterministas</strong>, en los que la demanda se supone conocida
+    con certeza.</p>
+</li>
+<li>
+<p><strong>Modelos probabilísticos o aleatorios,</strong> la demanda solo se conoce
+    en términos de probabilidades.</p>
+</li>
+</ul>
+<h2 id="modelos-deterministas">Modelos deterministas</h2>
+<p>En 1915, F.W. Harris desarrolló el <strong>modelo del volumen económico de
+pedido</strong>, que es el más conocido y utilizado de los modelos
+deterministas. A este modelo también se le suele denominar <strong>modelo de
+Wilson</strong> pues contribuyó a su desarrollo.</p>
+<p>Los supuestos en los que se basa son:</p>
+<ul>
+<li>
+<p>La demanda del producto es constante, uniforme y conocida.</p>
+</li>
+<li>
+<p>El tiempo transcurrido desde la solicitud del pedido hasta su
+    recepción (<strong>plazo de entrega</strong>) es constante.</p>
+</li>
+<li>
+<p>El precio de cada unidad de producto es constante e independiente
+    del nivel del inventario y del tamaño del pedido, por lo que no es
+    una variable que deba incorporarse en el modelo. Esto incluye el
+    supuesto de que no existen descuentos por tamaño del pedido.</p>
+</li>
+<li>
+<p>El coste de mantenimiento o almacenamiento depende del nivel medio
+    del inventario.</p>
+</li>
+<li>
+<p>Las entradas en el almacén se realizan por lotes o pedidos
+    constantes y el coste de realización de cada pedido es también
+    constante e independiente de su tamaño.</p>
+</li>
+<li>
+<p>No se permiten rupturas de stocks, sino que ha de satisfacerse toda
+    la demanda.</p>
+</li>
+<li>
+<p>El bien almacenado es un producto individual que no tiene relación
+    con otros productos.</p>
+</li>
+</ul>
+<p>Cuando se cumplen estos supuestos, la evolución temporal del inventario,
+en unidades físicas, se ajusta a una forma como <strong>dientes de sierra</strong>.
+La forma que tienen estos dientes se explica por el supuesto de que las
+entradas se efectúan por lotes y de que las salidas se producen de forma
+constante y continua.</p>
+<p><img alt="" src="../assets/images/image25.png" />{width="5.406450131233596in"
+height="1.9448326771653544in"}</p>
+<p>Figura . Evolución temporal del inventario en unidades físicas</p>
+<p>En la figura anterior se ha supuesto que no existe stock de seguridad.
+Si hubiera un stock igual a <span class="arithmatex">\(S\)</span> unidades físicas, la representación
+correcta sería esta:</p>
+<p><img alt="" src="../assets/images/image26.png" />{width="4.673591426071741in"
+height="2.2997025371828523in"}</p>
+<p>Figura . Evolución temporal del inventario en unidades físicas asumiendo
+un stock de seguridad <span class="arithmatex">\(\mathbf{S}\)</span></p>
+<p>En ambas figuras <span class="arithmatex">\(Q\)</span> es el tamaño del lote o pedido, <span class="arithmatex">\(L\)</span> es el plazo de
+entrega, y <span class="arithmatex">\(R\)</span> es el número de unidades físicas que hay en el almacén en
+el momento de realizar el pedido además del stock de seguridad.</p>
+<p>El tamaño del pedido influye en la frecuencia con la que se tendrán que
+realizar los pedidos y en el nivel del inventario:</p>
+<ul>
+<li>
+<p>Cuanto menor es el tamaño del pedido, mayor es la frecuencia con la
+    que hay que renovar el almacén y menor es el nivel medio del
+    almacén.</p>
+</li>
+<li>
+<p>Si el tamaño del pedido es grande, también lo será el nivel medio
+    del almacén y el coste de mantenimiento, pero el número de pedidos
+    al año y el coste de realización de pedidos serán pequeños. El
+    modelo de Wilson permite determinar el tamaño del pedido para el
+    cual es mínimo el coste total.</p>
+</li>
+</ul>
+<p>En la <em>Figura 11.2</em> se puede observar que el nivel medio del inventario
+es:</p>
+<div class="arithmatex">\[\overline{S} = S_{S} + \frac{Q}{2}\]</div>
+<p>Si el coste de tener una unidad almacenada durante un año es <span class="arithmatex">\(g\)</span>, el
+coste anual de mantenimiento será:</p>
+<div class="arithmatex">\[C_{p} = g \cdot \left\lbrack S_{S} + \frac{Q}{2} \right\rbrack\]</div>
+<p>Sea <span class="arithmatex">\(q\)</span> la demanda anual en unidades físicas. Dado que con cada pedido
+se solicitan <span class="arithmatex">\(Q\)</span> u.f., al año se realizará un número de pedidos igual a:</p>
+<div class="arithmatex">\[\frac{q}{Q}\]</div>
+<p>Si el coste constante de realización de un pedido es <span class="arithmatex">\(k\)</span>, el coste total
+anual de reaprovisionamiento será:</p>
+<div class="arithmatex">\[C_{R} = k \cdot \frac{q}{Q}\]</div>
+<p>Por tanto, el coste total es:</p>
+<div class="arithmatex">\[C_{T} = C_{R} + C_{p} = k \cdot \frac{q}{Q} + g \cdot \left\lbrack S_{S} + \frac{Q}{2} \right\rbrack\]</div>
+<p>El tamaño óptimo del pedido se calcula como el valor que hace que el
+coste total sea mínimo, resultando:</p>
+<div class="arithmatex">\[Q = \sqrt{\frac{2 \cdot k \cdot q}{g}}\]</div>
+<p>Una vez determinado el tamaño óptimo del pedido, se conocen el número de
+pedidos que se ha de efectuar al año <span class="arithmatex">\(q/Q\)</span>, y el número de días que han
+de transcurrir entre cada dos pedidos, que, tomando el año comercial de
+<span class="arithmatex">\(360\)</span> días, será:</p>
+<div class="arithmatex">\[\frac{\frac{360}{q}}{Q}\]</div>
+<p>Para determinar el nivel que tiene el inventario cuando se realiza el
+pedido, obsérvese que la demanda diaria vale.</p>
+<div class="arithmatex">\[\frac{q}{360}\]</div>
+<p>Y, por tanto, la demanda correspondiente a los <span class="arithmatex">\(L\)</span> días que forman el
+plazo de entrega es:</p>
+<div class="arithmatex">\[R = L \cdot \frac{q}{360}\]</div>
+<p>En consecuencia, el nivel del inventario en el momento del pedido es:</p>
+<div class="arithmatex">\[S_{S} + R = S_{S} + L \cdot \frac{q}{360}\]</div>
+<p>Un caso particular del modelo de Wilson es aquel en el que ha de
+incorporarse el coste financiero al coste de posesión anual unitario,
+<span class="arithmatex">\(g\)</span>. Al incorporarse al activo una unidad física de producto, su precio,
+<span class="arithmatex">\(P\)</span>, tendrá que ser financiado. Si el coste financiero es igual a <span class="arithmatex">\(i\)</span>
+por uno anual, el coste financiero unitario anual será:</p>
+<div class="arithmatex">\[P \cdot i\]</div>
+<p>Si, además, los otros gastos de almacenamiento unitarios importan <span class="arithmatex">\(a\)</span>
+u.m. al año, podrá escribirse:</p>
+<div class="arithmatex">\[g = a + P \cdot i\]</div>
+<h2 id="modelo-probabilistico">Modelo probabilístico</h2>
+<p>En los modelos probabilísticos se supone que la demanda se conoce sólo
+en términos de probabilidades.</p>
+<p>El modelo más sencillo considera aplicable el teorema central del
+límite, en virtud de lo cual estima que la demanda sigue una
+distribución de probabilidad normal.</p>
+<p>En tal caso, utilizando las tablas de la distribución normal
+estandarizada es posible determinar el pedido que se debe efectuar, o el
+stock de seguridad que se debe mantener, de modo que se limite a cierto
+porcentaje de probabilidad que se produzca una ruptura de stocks, la de
+que la ruptura supere cierta cuantía, etc.</p>
+<h2 id="sistemas-de-control-de-inventarios">Sistemas de control de inventarios</h2>
+<p><strong><em>Sistemas de control:</em></strong> permiten hacer frente a dos problemas
+importantes: mantener un control adecuado sobre cada elemento del
+inventario, y asegurar que se mantengan unos registros adecuados de los
+tipos de materiales existentes y de sus cantidades.</p>
+<p>Las principales funciones del control de inventarios son:</p>
+<ul>
+<li>
+<p><strong>Mantener un registro actualizado de las existencias.</strong> En el
+    <strong>sistema de inventario continuo</strong>, que generalmente está
+    informatizado, el registro de todas las entradas y salidas permite
+    conocer, en todo momento, las existencias de los diversos productos.
+    No obstante, incluso cuando se aplica este sistema, periódicamente
+    suele efectuarse un recuento físico de las existencias en el
+    almacén.</p>
+</li>
+<li>
+<p><strong>Informar sobre el nivel de existes para saber cuándo se debe hacer
+    un pedido y cuánto se debe pedir de cada uno de los productos.</strong> En
+    muchos casos, se establecen reglas de decisión relativas a sistemas
+    de pedido constante, <span class="arithmatex">\(Q\)</span>, o de periodo constante, <span class="arithmatex">\(P\)</span>, y el propio
+    sistema informático que registra las existencias extiende una orden
+    de pedido en el momento adecuado y del tamaño preciso.</p>
+</li>
+<li>
+<p><strong>Notificar situaciones fuera de lo común que pueden constituir
+    síntomas de errores o de un mal funcionamiento del sistema.</strong></p>
+</li>
+<li>
+<p><strong>Elaborar informes.</strong></p>
+</li>
+</ul>
+<p><strong><em>Principio de Pareto:</em></strong> aplicado a los inventarios indica que unas
+pocas unidades almacenadas representan un gran porcentaje del valor del
+inventario. De esto se deduce que el control minucioso solo es necesario
+en unos pocos artículos, en tanto que en los demás es suficiente una
+revisión menos rigurosa.</p>
+<p><strong><em>Método ABC:</em></strong> propuesto por A. Rambaux, divide los bienes
+almacenados en tres grupos:</p>
+<ul>
+<li>
+<p><strong>Grupo A:</strong> formado por artículos que, suponiendo un importante
+    porcentaje de la inversión total en productos inventariados,
+    representan una proporción muy pequeña del número de unidades
+    almacenadas. Controlando esta pequeña parte de las unidades, se
+    tiene controlada la mayor parte del valor del almacén.</p>
+</li>
+<li>
+<p><strong>Grupo C:</strong> son aquellos que menos interesa controlar, pues
+    representan la mayor proporción de las unidades almacenadas y, sin
+    embargo, su valor es muy pequeño.</p>
+</li>
+<li>
+<p><strong>Grupo B:</strong> tienen una importancia en relación al número de
+    unidades del almacén semejante a la que tienen con referencia al
+    valor total de la inversión en el inventario.</p>
+</li>
+</ul>
+<h2 id="la-traslacion-de-los-inventarios">La traslación de los inventarios</h2>
+<p>Algunas empresas tienen el suficiente poder sobre los intermediarios que
+distribuyen sus productos como para obligarles a que sean ellos los que
+detente grandes almacenes a la espera de la demanda de los consumidores.
+Suelen ser empresas cuyos productos son muy demandados y cuyas ventas
+constituyen una proporción importante del negocio de los distribuidores,
+por lo que éstos ven compensados los esfuerzos que les suponen los
+grandes inventarios.</p>
+<p>Pero más habitual es la traslación de los almacenes de materias primas,
+materias auxiliares y componentes de diverso tipo a los proveedores de
+la empresa. Los proveedores, para tener satisfechos a sus clientes,
+aceptan construir grandes almacenes próximos a las instalaciones de
+estos y correr con unos costes que, de otro modo, no tendrían que
+soportar.</p>
+<p>En ocasiones el problema de los inventarios da lugar a conflictos a los
+que sigue un proceso negociador en el que se dilucida quién tendrá que
+hacerse cargo de los mismos. En otros casos, la escasez de almacenes
+perjudica a los transportistas, que tienen que esperar con la mercancía
+en los vehículos hasta que hay espacio suficiente en el almacén.</p>
+<p><strong><em>Sistema de inventario justo-a-tiempo (just-in-time inventory):</em></strong>
+sistema popularizado en Japón que se basa en la recepción de pequeños
+pedidos frecuentemente y con tanta proximidad al momento de su
+utilización como sea posible, lo que requiere que los proveedores se
+localicen cerca de su cliente. Esta aproximación física favorece,
+además, los contactos para la resolución de problemas comunes y para la
+firma de acuerdos. La reducción del número de días que permanecen
+almacenadas las unidades, es decir, la disminución del periodo medio de
+almacenamiento y, por tanto, del periodo medio de maduración, supone un
+aumento de la rentabilidad de la empresa, pues no solo se reducen los
+costes de inventarios y la posibilidad de daños y mermas, sino que
+también disminuyen las necesidades de capitales inmovilizados.</p>
+<h2 id="la-distribucion-fisica">La distribución física</h2>
+<p><strong><em>Sistema de distribución física:</em></strong> formado por el conjunto de
+elementos destinados a conducir materialmente el producto desde el
+vendedor hasta el comprador. Constituyen, por consiguiente, decisiones
+concernientes al mismo las relativas a:</p>
+<ul>
+<li>
+<p>Los medios de transporte a emplear.</p>
+</li>
+<li>
+<p>La localización de almacenes y puntos de venta.</p>
+</li>
+<li>
+<p>La selección de rutas e itinerarios.</p>
+</li>
+<li>
+<p>El nivel de los almacenes y su organización.</p>
+</li>
+<li>
+<p>La disposición de los materiales en los inventarios.</p>
+</li>
+<li>
+<p>El embalaje de los productos para su transporte.</p>
+</li>
+<li>
+<p>La utilización de medios logísticos propios o ajenos.</p>
+</li>
+<li>
+<p>La selección de transportistas y almacenistas y la determinación de
+    la relación con los mismos.</p>
+</li>
+</ul>
+<p>El objetivo que suele presidir y orientar estas decisiones es el de
+ofrecer un buen <strong>nivel de servicio</strong> y éste viene dado por un conjunto
+de variables como la proximidad al comprador, la disponibilidad de
+productos cuando éste lo solicita, o la rapidez en la entrega de los
+pedidos. Obviamente, mejorar el nivel de servicio tiene cotes. La
+empresa puede fijar un nivel presupuestario de costes de distribución y,
+luego, determinar el sistema que, sin sobrepasar esos costes, optimiza
+el nivel de servicio, o establecer un nivel de servicio y posteriormente
+establecer el sistema de distribución que, cumpliendo dicho nivel,
+minimiza los costes. Este último suele ser el planteamiento práctico más
+frecuente, pues, generalmente, no es posible determinar la relación
+funcional que existe entre los beneficios y el nivel de servicio.</p>
+<p>La utilización de medios logísticos propios requiere fuertes inversiones
+que comprometen a la empresa a largo plazo, por lo que las decisiones de
+distribución tienen en tal caso carácter estructural. En las empresas de
+tamaño reducido que no cuentas con medios financieros suficientes, la
+utilización de medios ajenos es decisión obligada. Pero también muchas
+grandes empresas emplean medios ajenos dada su mayor flexibilidad,
+especialmente para el suministro a mercados sobre cuya futura evolución
+existe un alto grado de incertidumbre.</p>
+<p>Una vez que la empresa ha establecido un conjunto de almacenes o puntos
+de venta, habrá de determinar las cantidades que ha de enviar desde cada
+centro de distribución a cada centro de compras. El criterio de decisión
+es minimizar los costes de distribución cubriéndose las demandas de
+todos los puntos de adquisición. El problema puede plantearse en
+términos de programación lineal mediante el denominado <strong>modelo de
+transporte o modelo de Hitchcok</strong>. Sean <span class="arithmatex">\(n\)</span> centros de distribución
+cuyas capacidades de venta máximas, en un periodo, son
+<span class="arithmatex">\(Q_{1},\ Q_{2},\ \ldots,\ Q_{n}\)</span> u.f., que abastecen a <span class="arithmatex">\(m\)</span> centros de
+compra cuyos volúmenes de adquisición en el mismo intervalo de tiempo
+son <span class="arithmatex">\(C_{1},\ C_{2},\ \ldots,\ C_{m}\)</span> u.f., respectivamente. Si el coste
+de distribución de una unidad desde el centro de ventas <span class="arithmatex">\(i\)</span>, al de
+compras <span class="arithmatex">\(j\)</span>, es <span class="arithmatex">\(p_{\text{ij}}\)</span>, denominando <span class="arithmatex">\(X_{\text{ij}}\)</span> a la
+cantidad distribuida desde aquel a este, el planteamiento será:</p>
+<ul>
+<li>Minimizar el coste de distribución:</li>
+</ul>
+<div class="arithmatex">\[Min\ z = \sum_{i = 1}^{n}{\sum_{j = 1}^{m}{p_{\text{ij}} \cdot X_{\text{ij}}}}\]</div>
+<ul>
+<li>Restricciones de capacidad de venta. La cantidad total distribuida
+    por cada centro de venta no puede superar su capacidad máxima:</li>
+</ul>
+<div class="arithmatex">\[\sum_{j = 1}^{n}X_{\text{ij}} \leq Q_{i}\ para\ todo\ i = 1,2,\ldots,n\]</div>
+<ul>
+<li>Restricciones de satisfacción de la demanda superada. La cantidad
+    total distribuida a cada centro de compras ha de ser suficiente para
+    satisfacer su volumen de adquisición en el periodo.</li>
+</ul>
+<div class="arithmatex">\[\sum_{j = 1}^{n}X_{\text{ij}} \geq C_{j}\ para\ todo\ j = 1,2,\ldots,m\]</div>
+<ul>
+<li>Restricciones de no negatividad. Las cantidades distribuidas no
+    pueden ser negativas:</li>
+</ul>
+<div class="arithmatex">\[X_{\text{ij}} \geq 0\]</div>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      <script id="__config" type="application/json">{"base": "..", "features": [], "search": "../assets/javascripts/workers/search.d50fe291.min.js", "tags": null, "translations": {"clipboard.copied": "Copiado al portapapeles", "clipboard.copy": "Copiar al portapapeles", "search.result.more.one": "1 m\u00e1s en esta p\u00e1gina", "search.result.more.other": "# m\u00e1s en esta p\u00e1gina", "search.result.none": "No se encontraron documentos", "search.result.one": "1 documento encontrado", "search.result.other": "# documentos encontrados", "search.result.placeholder": "Teclee para comenzar b\u00fasqueda", "search.result.term.missing": "Falta", "select.version": "Seleccionar versi\u00f3n"}, "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.13a4f30d.min.js"></script>
+      
+        <script src="../javascripts/katex.js"></script>
+      
+        <script src="https://unpkg.com/katex@0/dist/katex.min.js"></script>
+      
+        <script src="https://unpkg.com/katex@0/dist/contrib/auto-render.min.js"></script>
+      
+    
+  </body>
+</html>
