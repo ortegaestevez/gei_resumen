@@ -1,29 +1,66 @@
-name: ci 
+name: Deploy MkDocs on GitHub Pages
+
 on:
   push:
     branches:
-      - master 
-      - main
+      - master # Or your default branch like 'main'
+      - main   # Include both for common branch names
+
 permissions:
-  contents: write
+  contents: write # Needed to check out code and potentially for gh-deploy if you stick with it (less recommended now)
+  pages: write    # Crucial for deploying to GitHub Pages
+  id-token: write # Crucial for authenticating with OIDC for Pages deployment
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
     steps:
-      - uses: actions/checkout@v4
-      - name: Configure Git Credentials
-        run: |
-          git config user.name github-actions[bot]
-          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-      - uses: actions/setup-python@v5
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          python-version: 3.x
-      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
-      - uses: actions/cache@v4
+          python-version: 3.x # Or a specific version like '3.9', '3.10', etc.
+
+      # Optional: Cache pip dependencies for faster builds
+      - name: Cache pip dependencies
+        uses: actions/cache@v4
         with:
-          key: mkdocs-material-${{ env.cache_id }}
-          path: .cache 
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
           restore-keys: |
-            mkdocs-material-
-      - run: pip install mkdocs-material 
-      - run: mkdocs gh-deploy --force
+            ${{ runner.os }}-pip-
+
+      - name: Install MkDocs and dependencies
+        run: |
+          # Install from requirements.txt if it exists
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          else
+            # Fallback if no requirements.txt, ensure mkdocs-material is installed
+            pip install mkdocs mkdocs-material
+          fi
+
+      - name: Build MkDocs site
+        run: mkdocs build # Builds the site into the 'site/' directory by default
+
+      # ------------------------------------------------------------------
+      # New Steps for GitHub Pages Deployment via Actions
+      # ------------------------------------------------------------------
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './site' # This should match the directory where mkdocs build outputs (default is 'site')
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
