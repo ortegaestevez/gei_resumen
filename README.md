@@ -34,7 +34,7 @@ En este resumen:
      entre esos mínimos.
 ```
 
----
+## Acceso a los resúmenes
 
 <p align="center">
   <em>
@@ -49,7 +49,7 @@ En este resumen:
   <em>
     Accede al resumen original de Cristina (tienes que estar en el grupo de Telegram) –
     <a
-      href="https://squidfunk.github.io/mkdocs-material/"
+      href="https://t.me/c/1091335122/2010"
     >https://t.me/c/1091335122/2010</a>.
   </em>
 </p>
