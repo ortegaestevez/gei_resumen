@@ -1,43 +1,62 @@
 Resumen de la asignatura Gestión de Empresas informáticas (GEI) de la UNED, enfocada en los problemas económicos que se plantean en una empresa y los distintos planteamientos para su resolución, haciendo hincapié en las empresas informáticas.
 
-Se ha hecho a partir de otro resumen hecho por Cristina Otero Rodríguez ([crisuni88](https://github.com/crisluni88)), una antigua alumna de la asignatura. Para acceder al mismo es necesario que estés en el grupo de Telegram de la asignatura.
+Se ha hecho a partir de otro resumen hecho por Cristina Otero Rodríguez ([crisuni88](https://github.com/crisluni88)), una antigua alumna de la asignatura. Para acceder al mismo es necesario que estés en el grupo de Telegram de la asignatura. En el resumen hecho en el actual proyecto se han modularizado los párrafos usando listas además de reescribir parte del texto para hacerlo más conciso:
+
+En el resumen de Cristina (formato Markdown aplicado):
+
+```Markdown
+2. **Criterio optimista**. Es el criterio que seguiría una persona que pensara
+   que, cualquiera que fuera la estrategia que eligiera, el estado que se
+   presentaría sería el más favorable para ella. Cuando los resultados son
+   favorables, **criterio maxi-max**, se determina cuál es el resultado más
+   elevado que puede alcanzarse con cada estrategia y, posteriormente, se elige
+   aquella a la que le corresponda el máximo entre esos máximos. Cuando los
+   resultados son desfavorables, se le denomina **criterio mini-min**: se
+   determina cuál es el mejor resultado que puede obtenerse con cada estrategia
+   (el menor) y se elige aquella a la que le corresponda el mínimo entre esos
+   mínimos.
+```
+
+En este resumen:
+
+```Markdown
+2. **Criterio optimista.** Criterio que seguiría una persona que pensara que,
+   para cualquier estrategia elegida, el estado presentado sería el más
+   favorable para ella:
+
+   - Resultados favorables \(\rightarrow\) **criterio maxi-max**. Se determina
+     cuál es el resultado más elevado que puede alcanzarse con cada estrategia
+     y, posteriormente, se elige aquella a la que le corresponda el máximo
+     entre esos máximos.
+   - Resultados desfavorables \(\rightarrow\) **criterio mini-min**. Se
+     determina cuál es el mejor resultado que puede obtenerse con cada
+     estrategia (el menor) y se elige aquella a la que le corresponda el mínimo
+     entre esos mínimos.
+```
+
+---
 
 <p align="center">
   <em>
-    Accede al resumen original de Cristina (tienes que estar en el grupo de Tlegram) –
+    Accede al resumen del proyecto –
+    <a
+      href="https://ortegaestevez.github.io/resumen_gei"
+    >https://ortegaestevez.github.io/resumen_gei</a>.
+  </em>
+</p>
+
+<p align="center">
+  <em>
+    Accede al resumen original de Cristina (tienes que estar en el grupo de Telegram) –
     <a
       href="https://squidfunk.github.io/mkdocs-material/"
     >https://t.me/c/1091335122/2010</a>.
   </em>
 </p>
 
-En el resumen hecho en el actual proyecto se han modularizado los párrafos usando listas además de reescribir parte del texto para hacerlo más conciso:
+## Libro base de la asignatura
 
-En el resumen de Cristina (formato Markdown aplicado):
-
-```Markdown
-2. **Criterio optimista**. Es el criterio que seguiría una persona que pensara que, cualquiera que fuera la estrategia que eligiera, el estado que se presentaría sería el más favorable para ella. Cuando los resultados son favorables, **criterio maxi-max**, se determina cuál es el resultado más elevado que puede alcanzarse con cada estrategia y, posteriormente, se elige aquella a la que le corresponda el máximo entre esos máximos. Cuando los resultados son desfavorables, se le denomina **criterio mini-min**: se determina cuál es el mejor resultado que puede obtenerse con cada estrategia (el menor) y se elige aquella a la que le corresponda el mínimo entre esos mínimos.
-```
-
-En este resumen:
-
-```Markdown
-2. **Criterio optimista.** Criterio que seguiría una persona que pensara que, para cualquier estrategia elegida, el estado presentado sería el más favorable para ella:
-
-    - Resultados favorables \(\rightarrow\) **criterio maxi-max**. Se determina cuál es el resultado más elevado que puede alcanzarse con cada estrategia y, posteriormente, se elige aquella a la que le corresponda el máximo entre esos máximos.
-    - Resultados desfavorables \(\rightarrow\) **criterio mini-min**. Se determina cuál es el mejor resultado que puede obtenerse con cada estrategia (el menor) y se elige aquella a la que le corresponda el mínimo entre esos mínimos.
-```
-
-<p align="center">
-  <em>
-    Accede al resumen del proyecto –
-    <a
-      href="https://squidfunk.github.io/mkdocs-material/"
-    >https://ortegaestevez.github.io/resumen_gei</a>.
-  </em>
-</p>
-
-Datos del libro a partir del cual se basa el resumen:
+Datos del libro a partir del cual se basan los resúmenes:
 
 - Título: Gestión de empresas informáticas
 - Autores: Eduardo Pérez Gorostegui y Carlos Cerrada Somolinos
