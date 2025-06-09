@@ -56,6 +56,7 @@ Se calcula la media aritmética de los resultados que se pueden derivar de cada 
 
 - Favorables. Se elije el resultado medio más elevado.
 - Desfavorables. Se elige el resultado medio más bajo.
+
 2. **Criterio optimista.** Aquel que seguiría una persona que pensara que, para cualquier estrategia elegida, el estado presentado sería el más favorable para ella:
     - Resultados favorables \(\rightarrow\) **criterio maxi-max**. Se determina cuál es el resultado más elevado que puede alcanzarse con cada estrategia y, posteriormente, se elige aquella a la que le corresponda el máximo entre esos máximos.
     - Resultados desfavorables \(\rightarrow\) **criterio mini-min**. Se determina cuál es el mejor resultado que puede obtenerse con cada estrategia (el menor) y se elige aquella a la que le corresponda el mínimo entre esos mínimos.
@@ -100,23 +101,33 @@ $$P\left( S \right) = \frac{h}{n}$$
 
 $$P\left( S \cap T \right) = P\left( T \right) \cdot P\left( S \middle| T \right) = P\left( S \right) \cdot P(T|S)$$
 
-***Probabilidad condicionada,*** $P(S|T)$***.*** Es la probabilidad que tiene $S$ sabiendo que ocurrió $T$. Si $S$ y $T$ son sucesos independientes:
+***Probabilidad condicionada,*** $P(S|T)$***.*** Probabilidad que tiene $S$ sabiendo que ocurrió $T$. Si $S$ y $T$ son sucesos independientes:
 
-$$P\left( S \middle| T \right) = P(S)$$
+\begin{align*}
+P\left( S \middle| T \right) &= P(S) \\
+P\left( T \middle| S \right) &= P(S)
+\end{align*}
 
-$$P\left( T \middle| S \right) = P(S)$$
+***Sucesos excluyentes.*** Aquellos sucesos que no pueden presentarse conjuntamente.
 
-***Sucesos excluyentes.*** Son aquellos sucesos que no pueden presentarse conjuntamente.
-
-***Variable aleatoria.*** Es aquella variable de la que no se sabe con certeza el valor que tomará, sino que sólo se conoce qué valores puede tomar y que probabilidades tiene cada uno de ellos.
+***Variable aleatoria.*** Aquella de la que no se sabe con certeza el valor que tomará, sino que sólo se conoce qué valores puede tomar y que probabilidades tiene cada uno de ellos.
 
 ***Distribución de probabilidad.*** Conjunto de valores que puede tomar una variable aleatoria y sus respectivas probabilidades. Se suele representar por medio de un **histograma**: rectángulos cuyas áreas son proporcionales a los tamaños de las probabilidades que representan.
 
-***Esperanza matemática, valor esperado o media.*** Media aritmética ponderada de los valores que puede tomar la variable, utilizándose como coeficiente de ponderación de cada valor su probabilidad. Es un valor de referencia que señala donde se encuentra centrada la distribución de probabilidad:
+***Esperanza matemática, valor esperado o media:***
 
-$$E\left( x \right) = x_{1} \cdot p_{1} + x_{2} \cdot p_{2} + \ldots + x_{n} \cdot p_{n} = \overline{x}$$
+- Media aritmética ponderada de los valores que puede tomar la variable.
+- La probabilidad de cada valor se usa como coeficiente de ponderación.
+- Es un valor de referencia que señala donde se encuentra centrada la distribución de probabilidad.
+- Fórmula:
 
-***Varianza.*** Esperanza matemática de los cuadrados de las desviaciones de los valores probables respecto a su media. Da idea de la forma de la distribución de probabilidad. La unidad de medida de la varianza es el cuadrado de la unidad de medida de la variable de que se trate:
+    $$E\left( x \right) = x_{1} \cdot p_{1} + x_{2} \cdot p_{2} + \ldots + x_{n} \cdot p_{n} = \overline{x}$$
+
+***Varianza:***
+
+- Esperanza matemática de los cuadrados de las desviaciones de los valores probables respecto a su media.
+- Da idea de la forma de la distribución de probabilidad.
+- La unidad de medida de la varianza es el cuadrado de la unidad de medida de la variable de que se trate:
 
 $$\sigma^{2}\left( x \right) = \left( x_{1} - \overline{x} \right)^{2} \cdot p_{1} + \left( x_{2} - \overline{x} \right)^{2} \cdot p_{2} + \ldots + \left( x_{n} - \overline{x} \right)^{2} \cdot p_{n}$$
 
@@ -128,7 +139,7 @@ $$\sigma\left( x \right) = \sqrt{\sigma^{2}(x)}$$
 - Desviación típica muy elevada \(\rightarrow\) probabilidad elevada de que la variable se desvíe al alza o baja respecto ese valor medio.
 - Caso de certeza \(\rightarrow\) la dispersión vale cero y va creciendo a medida que el riesgo va siendo mayor.
 
-Si hay varias alternativas, a cada una de las cuales le corresponde un valor esperado diferente y un nivel de riesgo distinto, la decisión depende de su **aversión al riesgo**; subjetividad del decisor. 
+Si hay varias alternativas, a cada una de las cuales le corresponde un valor esperado diferente y un nivel de riesgo distinto, la decisión depende de su **aversión al riesgo**; subjetividad del decisor:
 
 - Decisores con gran aversión al riesgo precisan gran beneficio esperado para asumir niveles de riesgo relativamente pequeños.
 - Decisores con poca aversión al riesgo están dispuesto a arriesgarse a cambio de beneficios esperados moderados.
@@ -153,7 +164,7 @@ La determinación del grado de confianza
 
 ![Resultado de imagen de distribucion normal](./assets/images/image4.png)
 
-Distribución normal
+*Figura 4.1 Distribución normal*
 
 Características de las distribuciones normales:
 
@@ -161,13 +172,15 @@ Características de las distribuciones normales:
 - Probabilidad de que la variable tome un valor concreto es cero.
 - Probabilidad de que variable tome un valor comprendido en un cierto intervalo finito es una cantidad finita e igual al área existente bajo la campana en ese intervalo. El área total que hay bajo la campana vale $1$.
 - Esperanza matemática de la variable se encuentra en el centro de la distribución y, dado que ésta es simétrica y que su área total es igual a $1$, tanto el área situada a la izquierda de su valor esperado, como la existente a su derecha, han de valer $0,5$.
-- Esta distribución queda descrita conociendo su esperanza matemática y de su varianza: la esperanza matemática determina el lugar en el que se encuentra centrada la distribución, y la varianza determina su forma.
+- Esta distribución queda descrita conociendo su esperanza matemática y de su varianza:
+    - La esperanza matemática determina el lugar en el que se encuentra centrada la distribución
+    - La varianza determina su forma
 
 La siguiente expresión significa que la variable $x$ sigue una distribución normal con una esperanza matemática igual a $E(x)$ y una desviación típica igual a $\sigma(x)$:
 
 $$x \rightarrow N\left\lbrack E\left( x \right),\ \sigma(x) \right\rbrack$$
 
-***Teorema fundamental del límite.*** Si una variable está formada por la suma de un infinito número de variables independientes entre sí, cada una de las cuales tiene una distribución de media y varianza finitas, esa variable seguirá una distribución normal. En rigor, el teorema solo se cumple cuando el número de variables que se suman es infinito, pero se pueden considerar aplicable de forma aproximada cuando dicho número es suficientemente grande y la aproximación tenderá a ser mejor cuanto mayor sea ese número.
+***Teorema fundamental del límite.*** Si una variable está formada por la suma de un infinito número de variables independientes entre sí, cada una de las cuales tiene una distribución de media y varianza finitas, esa variable seguirá una distribución normal.
 
 Cuando una variable, $x$, está formada por la suma de otras variables, su esperanza es igual a la suma de las esperanzas de estas variables:
 
@@ -190,7 +203,7 @@ A este proceso de disponer la variable $x$ en número de desviaciones típicas r
 La teoría de la información
 ---------------------------
 
-***Teoría de la información.*** Desarrollada por Shannon, ofrece un enfoque para medir la información proporcionada por la materialización de un suceso, que depende de la probabilidad de su acaecimiento; proporciona tanta más información cuanto mayor sea la sorpresa que produce, es decir, cuanto menor sea la probabilidad de su acaecimiento.
+***Teoría de la información.*** Desarrollada por Shannon. Ofrece un enfoque para medir la información proporcionada por la materialización de un suceso, que depende de la probabilidad de su acaecimiento; proporciona tanta más información cuanto mayor sea la sorpresa que produce, es decir, cuanto menor sea la probabilidad de su acaecimiento.
 
 Se denomina $h(P)$ a la información proporcionada por la realización de un suceso de probabilidad $P$. Para determinar la forma concreta de esta función, se debe tener en cuenta que:
 
@@ -200,13 +213,19 @@ Se denomina $h(P)$ a la información proporcionada por la realización de un suc
 4. A cada uno de los infinitos posibles valores de $P$ les debe corresponder una única medida de información.
 5. La información proporcionada por la ocurrencia conjunta de dos o más sucesos independientes entre sí debe ser igual a la suma de las informaciones que proporcionan los distintos sucesos en su acontecer.
 
-$$h\left( P \right) = \log\left( \frac{1}{p} \right) = - log(P)$$
+\begin{alignat*}{2} % 2 alignment pairs
+h\left( P \right) &= \log\left( \frac{1}{p} \right) &&= - \log(P) \\
+h\left( P \right) &= \log_{2}\left( \frac{1}{p} \right) &&= - \log_{2}\left( P \right)\ \lbrack bits\rbrack \\
+h\left( P \right) &= \ln\left( \frac{1}{p} \right) &&= - \ln\left( P \right)\left\lbrack \text{nits} \right\rbrack
+\end{alignat*}
 
-$$h\left( P \right) = \log_{2}\left( \frac{1}{p} \right) = - \log_{2}\left( P \right)\ \lbrack bits\rbrack$$
+El logaritmo puede ser 
 
-$$h\left( P \right) = \ln\left( \frac{1}{p} \right) = - \ln\left( P \right)\left\lbrack \text{nits} \right\rbrack$$
+- Neperiano (en cuyo caso la información viene medida en **nits**)
+- Decimal (la unidad será el **hartley**)
+- Binario (la información se mide en **bits**)
 
-El logaritmo puede ser neperiano (en cuyo caso la información viene medida en **nits**), decimal (la unidad será el **hartley**) o binario (la información se mide en **bits**). Por comodidad se suele usar la base binaria:
+Por comodidad se suele usar la base binaria:
 
 $$h\left( P \right) = - \log_{2}\left( P \right)$$
 
@@ -214,19 +233,27 @@ Si se considera un conjunto de sucesos complementarios y mutuamente excluyentes 
 
 $$H = - \left\lbrack P_{1} \cdot \log\left( P_{1} \right) + P_{2} \cdot \log\left( P_{2} \right) + \ldots + P_{n} \cdot \log\left( P_{n} \right) \right\rbrack$$
 
-***Entropía.*** Mide la incertidumbre que afecta al sistema antes de saber cuál de los sucesos va a producirse. Es siempre positiva. La entropía es máxima cuando todos los sucesos tienen la misma probabilidad de presentarse.
+***Entropía.***
 
-Se considera una comunicación o noticia, denominada mensaje, que, con su acaecimiento, hace variar la probabilidad de un suceso, $j$, desde $P_{j}$ hasta $Q_{j}$, modificando, con ello, la incertidumbre. Dicha variación de incertidumbre, es decir, la modificación de la información que se derivaría de la ocurrencia de $j$, valdrá:
+- Mide la incertidumbre que afecta al sistema antes de saber cuál de los sucesos va a producirse.
+- Es siempre positiva.
+- Es máxima cuando todos los sucesos tienen la misma probabilidad de presentarse.
+
+**Mensaje**. Comunicación o noticia cuyo acaecimiento hace variar la probabilidad de un suceso ($j$) desde $P_{j}$ hasta $Q_{j}$ modificando la incertidumbre.
+
+**Contenido informativo del mensaje**.  Variación de incertidumbre (o modificación de la información) que derivada de la ocurrencia de $j$. Vale:
 
 $$h\left( P_{j} \right) - h\left( Q_{j} \right) = - \log\left( P_{j} \right) + \log\left( Q_{j} \right) = \log\left( \frac{Q_{j}}{P_{j}} \right)$$
 
-Esta variación representa el **contenido informativo del mensaje** o la ganancia de información derivada del mismo.
-
-Si se trata de un conjunto de sucesos, se define, de manera semejante, el contenido informativo esperado del mensaje como:
+**Información de canal**. Para un conjunto de sucesos, el contenido informativo esperado del mensaje es:
 
 $$I\left( Q:P \right) = Q_{1}\log\left( \frac{Q_{1}}{P_{1}} \right) + Q_{2}\log\left( \frac{Q_{2}}{P_{2}} \right) + \ldots + Q_{n}\log\left( \frac{Q_{n}}{P_{n}} \right)$$
 
-$I\left( Q:P \right)$ es la **información de canal** y, siempre es no negativa. Alcanza su valor mínimo solo cuando el mensaje no modifica la incertidumbre existente, y aumenta de valor a medida que son mayores las variaciones que experimentan las probabilidades de los diversos sucesos.
+**La información de canal:**
+
+- Siempre es positiva
+- Alcanza su valor mínimo solo cuando el mensaje no modifica la incertidumbre existente
+- Aumenta de valor a medida que son mayores las variaciones que experimentan las probabilidades de los diversos sucesos
 
 Si el mensaje hiciera que algún suceso del sistema alcanzara una probabilidad igual a la unidad y, por tanto, que tal probabilidad resultara nula para todos los demás sucesos del mismo, se obtendría:
 

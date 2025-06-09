@@ -4,176 +4,109 @@ Tema 6: Elementos financieros
 Introducción
 ------------
 
-El **conjunto de biwnes y derechos** que tiene una empresa es el
-resultado del proceso de realización de inversiones que ha desarrollado
-a lo largo del tiempo.
+**Conjunto de bienes y derechos de la empresa.** Resultado del proceso de realización de inversiones que ha desarrollado a lo largo del tiempo.
 
-***Estructura económica de la empresa:*** características que tiene el
-conjunto de bienes y derechos de la empresa.
+***Estructura económica de la empresa.*** Características que tiene el conjunto de bienes y derechos de la empresa.
 
-***Estructura financiera de la empresa:*** características del conjunto
-de medios financieros que permiten realizar inversiones en bienes y
-derechos.
+***Estructura financiera de la empresa.*** Características del conjunto de medios financieros que permiten realizar inversiones en bienes y derechos.
 
-***Estructura económico-financiera de la empresa:*** conjunto de la
-estructura económica y de la estructura financiera.
+***Estructura económico-financiera de la empresa.*** Conjunto de la estructura económica y de la estructura financiera.
 
 El balance: conceptos básicos
 -----------------------------
 
-***Balance:*** documento financiero de gran importancia, en el que se
-detallan todas las inversiones que la empresa ha ido realizando a lo
-largo de su existencia, así como las fuentes de financiación de esas
-inversiones. Consta de dos partes: el activo y el pasivo.
+***Balance.*** Documento financiero en el que se detallan las inversiones que la empresa ha ido realizando a lo largo de su existencia y las fuentes de financiación de esas inversiones. Consta de dos partes:
 
--   **Activo,** $\mathbf{A}$**:** se divide en **activo fijo**, es el
-    que permanece durante un período prolongado de tiempo, y **activo
-    circulante**, que es el que "circula", es decir, que vence en un
-    período más o menos breve de tiempo.
+- **Activo,** $\mathbf{A}$**.** Se divide en
+    - **Activo fijo**. El que permanece durante un período prolongado de tiempo.
+    - **Activo circulante**. "Circula"; que vence en un período más o menos breve de tiempo.
+- **Pasivo.** Se divide en:
+    - **Pasivo a corto plazo**. Deudas que vencen en un breve período de tiempo.
+    - **Capitales permanentes**. Constituido por las restantes deudas y los fondos propios.
 
--   **Pasivo:** también presenta dos subdivisiones, el **pasivo a corto
-    plazo**, deudas que vencen en un breve período de tiempo, y los
-    **capitales permanentes**, constituido por las restantes deudas y
-    los fondos propios.
+***Patrimonio, patrimonio neto o neto patrimonial.*** Diferencia entre el activo y los recursos ajenos.
 
-***Patrimonio:*** su valor se determina por diferencia entre el activo y
-los recursos ajenos. Por ello, también se le denomina patrimonio neto o
-neto patrimonial.
-
-En el activo se reflejan los bienes y derechos de la empresa y en el
-pasivo las deudas (**recursos ajenos,** $\mathbf{D}$), para obtener la
-ecuación del patrimonio:
+En el activo se reflejan los bienes y derechos de la empresa y en el pasivo las deudas (**recursos ajenos,** $\mathbf{D}$), para obtener la ecuación del patrimonio:
 
 $$A = D + Neto$$
 
-En sentido amplio el pasivo es el conjunto de las fuentes de
-financiación del activo (deudas o recursos ajenos y recursos propios,
-$K$).
+En sentido amplio el pasivo es el conjunto de las fuentes de financiación del activo (deudas o recursos ajenos y recursos propios, $K$).
 
-***Estado del inventario:*** es un documento en el que se de tallan los
-componentes del activo y del pasivo con indicación de sus respectivos
-valores. El convenio es situar el activo a la izquierda y el pasivo a la
-derecha. El activo total ha de coincidir con el pasivo total.
+***Estado del inventario.*** Documento que detalla los componentes del activo y del pasivo con sus respectivos valores. El convenio es situar el activo a la izquierda y el pasivo a la derecha. El activo total ha de coincidir con el pasivo total.
 
-***Balance anual:*** estado del inventario anual.
+***Balance anual.*** Estado del inventario anual.
 
-***Plan general de contabilidad:*** conjunto de normas que tratan de
-homogeneizar los criterios contables en muy diversos aspectos entre los
-que se incluye la terminología empleada por las diversas empresas en sus
-documentos contables.
+***Plan general de contabilidad.*** Conjunto de normas que tratan de homogeneizar los criterios contables en muy diversos aspectos entre los que se incluye la terminología empleada por las diversas empresas en sus documentos contables.
 
-***Capital Social:*** se encuentra formado por las aportaciones directas
-de los socios a la financiación de la empresa. En las sociedades
-anónimas este capital se encuentra dividido en partes alícuotas
-denominadas **acciones**.
+***Capital Social.*** Formado por las aportaciones directas de los socios a la financiación de la empresa. En las sociedades anónimas este capital se encuentra dividido en partes alícuotas denominadas **acciones**.
 
-Si una empresa, en un año concreto, tiene pérdidas, su importe se recoge
-en el activo. Si obtiene beneficios, hasta el momento de su reparto se
-sitúan en el pasivo. El beneficio puede repartirse a los socios en forma
-de **dividendos** o ser retenido para financiar activos, pasando a
-denominarse **reservas** (fondo propio que se recoge en el pasivo).
+Si una empresa en un año concreto:
 
-***Dividendos:*** cantidades que, como beneficios anuales de la empresa,
-se reparten a los socios.
+- **Tiene pérdidas**. Su importe se recoge en el activo.
+- **Obtiene beneficios**. Hasta el momento de su reparto se sitúan en el pasivo. El beneficio:
+    - **Repartirse** a los socios en forma de **dividendos**.
+    - **Retenerse** para financiar activos, pasando a denominarse **reservas** (fondo propio que se recoge en el pasivo).
+
+***Dividendos.*** Cantidades que, como beneficios anuales de la empresa, se reparten a los socios.
 
 El objetivo financiero de la empresa
 ------------------------------------
 
-***Objetivo financiero primario:*** maximizar la riqueza de sus
-accionistas por su vinculación a la empresa, es decir, maximizar el
-precio de la acción. Se toma este objetivo porque:
+***Objetivo financiero primario.*** Maximizar la riqueza de sus accionistas por su vinculación a la empresa, es decir, maximizar el precio de la acción. Se toma este objetivo porque:
 
-1.  Es un objetivo razonablemente operativo sobre el que construir
-    modelos y reglas de decisión.
+1. Es un objetivo razonablemente operativo sobre el que construir modelos y reglas de decisión.
+2. Los accionistas son los propietarios de la empresa y eligen al equipo directivo que se supone, trabaja en pro de sus intereses.
+3. Supone someterse al juicio del mercado. Tomar las decisiones que más elevan el precio de la acción equivale a elegir las decisiones que provocarán una mayor mejora en la empresa.
 
-2.  Los accionistas son los propietarios de la empresa y eligen al
-    equipo directivo que, se supone, trabajará en pro de los intereses
-    de los accionistas.
-
-3.  Supone someterse al juicio del mercado. Tomar las decisiones que más
-    elevan el precio de la acción equivale a elegir las decisiones que
-    provocarán una mayor mejora en la empresa.
-
-Aunque una empresa no cotice en Bolsa, su objetivo debe ser el mismo, es
-decir, maximizar el precio que tendría la acción si la tuviera y
-cotizara en el mercado.
+Aunque una empresa no cotice en Bolsa, su objetivo debe ser el mismo: maximizar el precio que tendría la acción si la tuviera y cotizara en el mercado.
 
 Factores de los que depende el precio de la acción. Las decisiones financieras de la empresa
 --------------------------------------------------------------------------------------------
 
 En cuanto al precio de las acciones debe considerarse:
 
--   El beneficio no es tan importante como la rentabilidad. Si el
-    beneficio aumenta a costa de elevar el tamaño de la empresa en una
-    proporción superior, la rentabilidad de los propietarios puede verse
-    mermada.
+- El beneficio no es tan importante como la rentabilidad. Si el beneficio aumenta a costa de elevar el tamaño de la empresa en una proporción superior, la rentabilidad de los propietarios puede verse mermada.
+- El valor que tienen los fondos según el momento en el que se han generado.
+- Es más importante el beneficio por acción y la rentabilidad que el beneficio total.
 
--   El valor que tienen los fondos según el momento en el que se han
-    generado.
+***Rentabilidad.*** Beneficio obtenido cada período por cada unidad monetaria invertida.
 
--   Es más importante el beneficio por acción y la rentabilidad que el
-    beneficio total.
-
-***Rentabilidad:*** beneficio obtenido cada período por cada unidad
-monetaria invertida.
-
-***Riesgo:*** factor relevante en las decisiones financieras. Ante dos
-proyectos de inversión con la misma rentabilidad es preferible aquel que
-tenga un riesgo menor.
+***Riesgo.*** Factor relevante en las decisiones financieras. Ante dos proyectos de inversión con la misma rentabilidad es preferible aquel que tenga un riesgo menor.
 
 Factores influyentes en las decisiones financieras:
 
--   **Selección de inversiones.**
+- **Selección de inversiones.**
+- **Selección de fuentes de financiación.** El riesgo es proporcional al nivel de endeudamiento.
+- **Decisiones de distribución de dividendos.** Las empresas se suelen limitan a pagar el mismo dividendo todos los años, o a distribuir una proporción constante de los beneficios, sin embargo:
+    - Los accionistas pueden estar dispuestos a sacrificar una parte de sus dividendos para que se quede en la empresa y así:
+        - Reforzar su financiación
+        - Reduciéndose su riesgo
+        - Acometer inversiones lo suficientemente rentables como para pagar mayores dividendos en el futuro
 
--   **Selección de fuentes de financiación:** el riesgo será tanto más
-    elevado cuanto mayor sea su nivel de endeudamiento.
-
--   **Decisiones de distribución de dividendos.** Muchas empresas se
-    limitan a pagar el mismo dividendo todos los años, o a distribuir
-    una proporción constante de los beneficios. Sin embargo, los
-    accionistas pueden estar dispuestos a sacrificar una parte de sus
-    dividendos para que se quede en la empresa y así reforzar su
-    financiación, reduciéndose su riesgo, y acometer inversiones lo
-    suficientemente rentables como para pagar mayores dividendos en el
-    futuro. La mejor política de dividendos es la que maximiza el precio
-    de la acción. Las decisiones de política de dividendos afectan al
-    pasivo.
+    La mejor política de dividendos es la que maximiza el precio de la acción. Las decisiones de política de dividendos afectan al pasivo.
 
 La medida de la rentabilidad
 ----------------------------
 
-***Rentabilidad:*** relación entre los beneficios obtenidos y los fondos
-aplicados para obtenerlos.
+***Rentabilidad.*** Relación entre los beneficios obtenidos y los fondos aplicados para obtenerlos.
 
-***Beneficio:*** debe distinguirse:
+***Beneficio.*** Debe distinguirse:
 
--   **Beneficio económico,** $\mathbf{\text{BE}}$**:** es el generado
-    por los activos de la empresa, es decir, por sus inversiones.
-    También se le denomina beneficio operativo, de explotación o bruto.
-    No depende de la estructura financiera de la empresa.
+- **Beneficio económico, operativo, de explotación o bruto,** $\mathbf{\text{BE}}$**.*** Generado por los activos de la empresa: sus inversiones. No depende de la estructura financiera de la empresa.
 
--   **Beneficio neto,** $\mathbf{\text{BN}}$**:** es el beneficio que
-    queda para los propietarios de la empresa una vez deducidos del
-    beneficio económico los intereses de las deudas.
+- **Beneficio neto,** $\mathbf{\text{BN}}$**.*** El que queda para los propietarios de la empresa una vez deducidos del beneficio económico los intereses de las deudas:
 
 $$BN = BE - D \cdot i$$
 
-***Rentabilidad operativa, económica o bruta,*** $\text{RE}$***:*** es
-la rentabilidad de sus activos, es decir, el beneficio que estos han
-generado por cada unidad monetaria de activo.
+***Rentabilidad operativa, económica o bruta,*** $\text{RE}$***.*** Rentabilidad de sus activos: beneficio que estos han generado por cada unidad monetaria de activo:
 
 $$RE = \frac{\text{BE}}{A}$$
 
-***Rentabilidad financiera:*** es el beneficio que obtienen los
-propietarios de la empresa por cada unidad monetaria de capital que han
-aportado a la misma.
+***Rentabilidad financiera.*** Beneficio que obtienen los propietarios de la empresa por cada unidad monetaria de capital que han aportado a la misma:
 
 $$RF = \frac{\text{BN}}{K}$$
 
-***Beneficio líquido:*** al beneficio neto se resta la cantidad
-correspondiente a los impuestos (impuesto de sociedades) determinado
-como porción del beneficio en función de un tipo de gravamen, $t$. Es el
-beneficio de los accionistas.
+***Beneficio líquido.*** Beneficio de los accionistas: la diferencia del beneficio neto y los impuestos determinados como porción del benefición en función de un gravamen \(t\):
 
 $$BL = BN - BN \cdot t = \left( 1 - t \right) \cdot BN$$
 
@@ -181,192 +114,128 @@ $$BL = BN - BN \cdot t = \left( 1 - t \right) \cdot BN$$
 
 $$RF_{D} = \frac{\left( 1 - t \right) \cdot BN}{K} = \left( 1 - t \right) \cdot RF$$
 
-***Rentabilidad bruta de las ventas,*** $\text{RV}$***:*** es el
-cociente entre el beneficio económico y el volumen de ventas medido en
-unidades monetarias, $V$. La rotación del capital total, $r_{T}$, es el
-número de veces que el capital total está comprendido en las ventas:
+***Rentabilidad bruta de las ventas,*** $\text{RV}$***.*** Cociente entre el beneficio económico y el volumen de ventas medido en unidades monetarias, $V$. La rotación del capital total, $r_{T}$, es el número de veces que el capital total está comprendido en las ventas:
 
 $$RV \cdot r_{T} = \frac{\text{BE}}{V} \cdot \frac{V}{A} = RE$$
 
-Una baja rentabilidad puede deberse a que el margen de beneficio que
-dejan las ventas es bajo, a que el capital rota muy poco, o a ambas
-causas a la vez.
+Una baja rentabilidad puede deberse a que el margen de beneficio que dejan las ventas es bajo, a que el capital rota muy poco, o a ambas.
 
-***Rentabilidad bursátil:*** se calcula dividiendo el dividendo entre la
-capitalización bursátil, $P \cdot N$. El dividendo se obtiene a partir
-del beneficio líquido en forma de dividendo, $\text{BL}$, y el
-coeficiente de reparto, $b$.
+***Rentabilidad bursátil.*** División del dividendo entre la capitalización bursátil, $P \cdot N$. El dividendo se obtiene a partir del beneficio líquido en forma de dividendo, $\text{BL}$, y el coeficiente de reparto, $b$.
 
 $$RB_{D} = \frac{D}{P \cdot N} = \frac{BL \cdot b}{P \cdot N}$$
 
 El equilibrio económico-financiero de la empresa y el fondo de rotación o maniobra
 ----------------------------------------------------------------------------------
 
-La composición del **activo** determina la **estructura económica de la
-empresa**, la del **pasivo** determina su **estructura financiera** y el
-conjunto conforma su **estructura económico-financiera**.
+La composición del:
 
-***Composición del activo:*** está formado por el activo circulante y el
-activo fijo.
+- **Activo**. Determina **estructura económica de la empresa**
+- **Pasivo**. Determina **estructura financiera**
+- **Conjunto**. Conforma su **estructura económico-financiera**
 
-***Activo circulante,*** $A_{C}$***:*** está constituido por todos los
-bienes y derechos que no permanecen en la empresa, sino que circulan por
-ella y son reemplazados por otros. Está formado por:
+***Composición del activo:***
 
--   La **tesorería**: dinero en caja y saldos a la vista en
-    instituciones de crédito.
+- ***Activo circulante,*** $A_{C}$***.*** Constituido por todos los bienes y derechos que no permanecen en la empresa, sino que circulan por ella y son reemplazados por otros. Está formado por:
 
--   El **realizable**: partidas a corto plazo que pueden venderse o
-    liquidarse, es decir, transformarse en tesorería, sin que se detenga
-    la actividad de la empresa (créditos sobre clientes, letras de
-    cambio o efectos a cobrar, inversiones financieras temporales,
-    etc.).
+    - La **tesorería**.*** Dinero en caja y saldos a la vista en instituciones de crédito.
+    - El **realizable**.*** Partidas a corto plazo que pueden venderse o liquidarse (transformarse en tesorería) sin que se detenga la actividad de la empresa (créditos sobre clientes, letras de cambio o efectos a cobrar, inversiones financieras temporales, etc.).
+    - Las **existencias** almacenadas.
 
--   Las **existencias** almacenadas.
+- ***Activo fijo o inmovilizado,*** $A_{F}$***.*** Formado por todos aquellos bienes que permanecen en la empresa, que "se fijan" a ella durante un período prolongado de tiempo: terrenos, los edificios, el mobiliario, etc. La circulación de los activos es muy lenta.
 
-***Activo fijo o inmovilizado,*** $A_{F}$***:*** está formado por todos
-aquellos bienes que permanecen en la empresa, que "se fijan" a ella
-durante un período prolongado de tiempo. Está formado por los terrenos,
-los edificios, el mobiliario, etc. La circulación de los activos es muy
-lenta.
+- ***Composición del pasivo:***
 
-***Composición del pasivo:*** está formado por los capitales permanentes
-y el pasivo a corto plazo.
+    - ***Capitales permanentes,*** $\text{CP}$***.*** Son aquellas fuentes de financiación que se encuentran a disposición de la empresa en un período largo de tiempo (recursos financieros propios y créditos a medio y largo plazo).
+    - ***Pasivo a corto plazo,*** $P_{C}$***.*** Integrado por las deudas que vencen en un período breve de tiempo (deudas con proveedores, créditos a corto plazo, etc.).
 
-***Capitales permanentes,*** $\text{CP}$***:*** son aquellas fuentes de
-financiación que se encuentran a disposición de la empresa en un período
-largo de tiempo (recursos financieros propios y créditos a medio y largo
-plazo).
+> El activo fijo ha de ser financiado con capitales permanentes y sólo el activo circulante ha de serlo con pasivo a corto plazo. De esta forma se evita el riesgo de que la empresa se vea en la necesidad de perder sus pagos durante un plazo más o menos largo.
+>
+> Además, una parte del activo circulante ha de ser financiado con capitales permanentes, evitando así el riesgo de un desfase entre el ritmo de cobros generados por el activo circulante y el ritmo de pagos derivado de la exigibilidad del pasivo a corto.
 
-***Pasivo a corto plazo,*** $P_{C}$***:*** integrado por las deudas que
-vencen en un período breve de tiempo (deudas con proveedores, créditos a
-corto plazo, etc.).
+Es decir:
 
-El activo fijo ha de ser financiado con capitales permanentes y sólo el
-activo circulante ha de serlo con pasivo a corto plazo. De esta forma se
-evita el riesgo de que la empresa se vea en la necesidad de pender sus
-pagos durante un plazo más o menos largo.
+1. Lo que dura mucho (activo fijo) se financia con dinero que tienes mucho tiempo (capitales permanentes).
+2. Lo que dura poco (activo circulante) se financia con dinero que debes devolver pronto (pasivo a corto plazo).
+3. Pero, para evitar problemas, una parte de ese dinero que dura poco (activo circulante) también debería financiarse con dinero que tienes mucho tiempo (capitales permanentes) para tener un "colchón" y evitar desequilibrios en tus pagos.
 
-Además, una parte del activo circulante ha de ser financiado con
-capitales permanentes, evitando así el riesgo de un desfase entre el
-ritmo de cobros generados por el activo circulante y el ritmo de pagos
-derivado de la exigibilidad del pasivo a corto.
+***Fondo de rotación o fondo de maniobra.*** Diferencia entre el activo circulante y el pasivo a corto plazo.
 
-***Fondo de rotación o fondo de maniobra:*** diferencia entre el activo
-circulante y el pasivo a corto plazo.
+![](./assets/images/image14.png)
 
-![](./assets/images/image14.png){width="2.4067738407699037in"
-height="1.6647397200349956in"}
-
-Figura . Activo, pasivo y fondo de maniobra
+*Figura 6.1 Activo, pasivo y fondo de maniobra*
 
 El fondo de maniobra se puede definir como:
 
--   Parte del activo circulante que no se financia con pasivo a corto
-    plazo, sino con capitales permanentes, denominándose **capital de
-    trabajo**.
+- Parte del activo circulante que no se financia con pasivo a corto plazo, sino con capitales permanentes, denominándose **capital de trabajo**.
 
 $$FM = A_{C} - P_{C}$$
 
--   Parte de capitales permanentes que no financia activo fijo, sino
-    activo circulante.
+- Parte de capitales permanentes que no financia activo fijo, sino activo circulante.
 
 $$FM = CP - A_{F}$$
 
 Los ciclos de actividad de la empresa y el período medio de maduración
 ----------------------------------------------------------------------
 
-***Ciclo de explotación, ciclo corto o ciclo
-dinero-mercancías-dinero:*** este ciclo se corresponde con el de los
-bienes del activo circulante. Está formado por el proceso en el que se
-adquieren los materiales inventariables, se almacenan hasta incorporarse
-al proceso de transformación, se realiza la fabricación, se obtienen los
-productos terminados, estos son almacenados, vendidos y remitidos a los
-clientes, a quienes se cobra, recuperando fondos de dinero con los que
-retribuir a los factores de producción.
+***Ciclo de explotación, ciclo corto o ciclo dinero-mercancías-dinero.*** Se corresponde con el de los bienes del activo circulante. Está formado por el proceso en el que se:
 
-***Período de maduración:*** duración del ciclo de explotación.
+1. Adquieren los materiales inventariables
+1. Almacenan hasta incorporarse al proceso de transformación
+1. Realiza la fabricación
+1. Obtienen los productos terminados
+1. Almacenan
+1. Venden
+1. Remiten a los clientes
+1. Cobra a los clientes
 
-***Período medio de maduración:*** duración media del ciclo de
-explotación.
+Recuperando fondos de dinero con los que retribuir a los factores de producción.
 
-***Ciclo largo, ciclo de amortizaciones o ciclo de depreciación:***
-ciclo al que está sometido el activo fijo. La adquisición de este tipo
-de bienes, por ejemplo, maquinaria, supone una inversión que se irá
-depreciando a lo largo del tiempo, hasta el momento en que se reemplace
-por otra.
+***Período de maduración.*** Duración del ciclo de explotación.
+
+***Período medio de maduración.*** Duración media del ciclo de explotación.
+
+***Ciclo largo, ciclo de amortizaciones o ciclo de depreciación.*** Ciclo al que está sometido el activo fijo. La adquisición de este tipo de bienes, por ejemplo, maquinaria, supone una inversión que se irá depreciando a lo largo del tiempo, hasta el momento en que se reemplace por otra.
 
 Las fases del ciclo de explotación y el período medio de maduración económico
 -----------------------------------------------------------------------------
 
 Las fases del ciclo de explotación son:
 
-1.  **Almacenamiento de las materias primas.** Constituyen una inversión
-    que es valorada a precio de coste (precio de adquisición).
-
-2.  **Fabricación.** Al entrar en el proceso de producción, se consumen
-    las materias primas y su coste, junto con el de otros factores,
-    determina el coste de los productos semiterminados.
-
-3.  **Almacenamiento de los productos terminados o fase de venta.** El
-    valor de los productos terminados almacenados se determina sumando
-    los cotes de los factores que tienen incorporados.
-
-4.  **Cobro a los clientes.** La venta de la producción implica una
-    reducción en el valor del almacén de productos terminados, pero se
-    incrementará el crédito que se tenga sobre los clientes. Este
-    crédito se valora en el precio de venta, es decir, al resultado de
-    añadir al coste el margen de beneficios de la empresa. El saldo del
-    crédito sobre clientes se reducirá a media que se vaya cobrando su
-    importe.
+1. **Almacenamiento de las materias primas.** Constituyen una inversión que es valorada a precio de coste (precio de adquisición).
+2. **Fabricación.** Al entrar en el proceso de producción se consumen las materias primas y su coste junto con el de otros factores, lo que determina el coste de los productos semiterminados.
+3. **Almacenamiento de los productos terminados o fase de venta.** El valor de los productos terminados almacenados se determina sumando los cotes de los factores que tienen incorporados.
+4. **Cobro a los clientes.** La venta de la producción implica una reducción en el valor del almacén de productos terminados, incrementando el crédito que se tenga sobre los clientes. Este crédito se valora en el precio de venta; al resultado de añadir al coste el margen de beneficios de la empresa. El saldo del crédito sobre clientes se reducirá a media que se vaya cobrando su importe.
 
 El período medio de maduración económico está integrado por:
 
--   Período medio de almacenamiento de materias primas, $PM_{a}$.
-
--   Período medio de fabricación, $PM_{c}$.
-
--   Período medio de venta, $PM_{v}$.
-
--   Período medio de cobro a clientes, $PM_{e}$
+- Período medio de almacenamiento de materias primas, $PM_{a}$.
+- Período medio de fabricación, $PM_{c}$.
+- Período medio de venta, $PM_{v}$.
+- Período medio de cobro a clientes, $PM_{e}$
 
 $$PM = PM_{a} + PM_{c} + PM_{v} + PM_{e}$$
 
--   Si $A$ es el consumo anual de materias primas y $a$ es el nivel
-    medio de existencias en el almacén, el número de veces que, en un
-    año, se consume el stock medio de materias primas es:
+- Si $A$ es el consumo anual de materias primas y $a$ es el nivel medio de existencias en el almacén, el número de veces que, en un año, se consume el stock medio de materias primas es:
 
 $$n_{a} = \frac{A}{a}$$
 
-> Luego el número de días que tarda la empresa en consumir el nivel
-> medio, es decir, el período medio de almacenamiento es:
+El número de días que tarda la empresa en consumir el nivel medio, es decir, el período medio de almacenamiento es:
 
 $$PM_{a} = \frac{365}{n_{a}} = 365 \cdot \frac{a}{A}$$
 
--   Si $C$ es el coste total de la producción anual y $c$ es el nivel
-    medio de productos en curso de elaboración, $C/c$ indicará el número
-    de veces que, en un año, se renueva el stock en curso de
-    fabricación. Si dicho cociente se representa por $n_{c}$, el período
-    de medio de fabricación es:
+- Si $C$ es el coste total de la producción anual y $c$ es el nivel medio de productos en curso de elaboración, $C/c$ indicará el número de veces que, en un año, se renueva el stock en curso de fabricación. Si dicho cociente se representa por $n_{c}$, el período de medio de fabricación es:
 
 $$PM_{c} = \frac{365}{n_{c}} = 365 \cdot \frac{c}{C}$$
 
--   Siendo $V$ el volumen anual de ventas, valorado a precio de coste, y
-    $v$ el volumen medio de las existencias del almacén de productos
-    terminados, el número de veces que, en un año, se renuevan las
-    existencias de productos acabados es:
+- Siendo $V$ el volumen anual de ventas, valorado a precio de coste, y $v$ el volumen medio de las existencias del almacén de productos terminados, el número de veces que, en un año, se renuevan las existencias de productos acabados es:
 
 $$n_{v} = \frac{V}{v}$$
 
-El número de días que, por término medio, tarda en producirse dicha
-renovación o período de venta es:
+El número de días que, por término medio, tarda en producirse dicha renovación o período de venta es:
 
 $$PM_{v} = \frac{365}{n_{v}} = 365 \cdot \frac{v}{V}$$
 
--   Si $E$ es el volumen o montante anual de ventas y $e$ es el valor
-    medio de la deuda que los clientes tienen con la empresa, el número
-    de veces que, en un año, se renueva la deuda media de los clientes
-    es:
+- Si $E$ es el volumen o montante anual de ventas y $e$ es el valor medio de la deuda que los clientes tienen con la empresa, el número de veces que, en un año, se renueva la deuda media de los clientes es:
 
 $$n_{e} = \frac{E}{e}$$
 
@@ -378,24 +247,13 @@ Por tanto, el período medio de maduración económico es:
 
 $$PM = PM_{a} + PM_{c} + PM_{v} + PM_{e} = 365 \cdot \left( \frac{a}{A} + \frac{c}{C} + \frac{v}{V} + \frac{e}{E} \right)$$
 
-El período de maduración económico es el tiempo promedio que tarda en
-recuperase una unidad monetaria invertida en el ciclo de explotación, de
-la que se deduce:
+El período de maduración económico es el tiempo promedio que tarda en recuperase una unidad monetaria invertida en el ciclo de explotación, de la que se deduce:
 
--   Si se mantienen las ventas anuales, reduciéndose al mismo tiempo el
-    período de almacenamiento, el de fabricación o el de ventas, será
-    porque se ha conseguido reducir los recursos financieros
-    inmovilizados en almacenes de materias primas, o bien en stocks de
-    productos semielaborados o terminados.
+- Si se mantienen las ventas anuales, reduciéndose al mismo tiempo el período de almacenamiento, el de fabricación o el de ventas, será porque se ha conseguido reducir los recursos financieros inmovilizados en almacenes de materias primas, o bien en stocks de productos semielaborados o terminados.
 
--   La reducción del período medio de cobro da lugar a una menor
-    necesidad de capitales inmovilizados en créditos sobre terceros.
+- La reducción del período medio de cobro da lugar a una menor necesidad de capitales inmovilizados en créditos sobre terceros.
 
--   Si la producción y venta anual se mantienen y la duración del ciclo
-    de explotación se reduce, se reducirá también la necesidad de
-    activos de la empresa, porque éstos rotan más rápidamente y,
-    consiguientemente, se precisarán menos recursos financieros,
-    incrementándose así la rentabilidad de la empresa.
+- Si la producción y venta anual se mantienen y la duración del ciclo de explotación se reduce, se reducirá también la necesidad de activos de la empresa, porque éstos rotan más rápidamente y, consiguientemente, se precisarán menos recursos financieros, incrementándose así la rentabilidad de la empresa.
 
 El período medio de maduración financiero
 -----------------------------------------
