@@ -46,7 +46,7 @@ En este resumen:
   <em>
     Accede al resumen del proyecto –
     <a
-      href="https://ortegaestevez.github.io/resumen_gei"
+      href="https://ortegaestevez.github.io/gei_resumen"
     >https://ortegaestevez.github.io/gei_resumen</a>.
   </em>
 </p>
