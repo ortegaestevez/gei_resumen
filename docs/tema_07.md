@@ -4,108 +4,68 @@ Tema 7: Las inversiones y su selección. La rentabilidad de las inversiones
 Concepto y tipos de inversiones
 -------------------------------
 
-Las inversiones se pueden clasificar considerando distintos criterios,
-entre los que se encuentran:
+Las inversiones se pueden clasificar considerando distintos criterios, entre los que se encuentran:
 
--   **Inversiones de activo fijo y de activo circulante.** Las empresas
-    se plantean las decisiones de selección de activos fijos,
-    considerando a las inversiones en activo circulante anexas.
+- **Inversiones de activo fijo y de activo circulante.** Las empresas se plantean las decisiones de selección de activos fijos, considerando a las inversiones en activo circulante anexas.
 
--   **Inversiones financieras y productivas.** Las inversiones
-    financieras se materializan en activos de carácter financiero, como
-    las obligaciones, las acciones, los pagarés, etc., y las inversiones
-    productivas, son las que se concretan en activos que sirven para
-    producir bienes y consumos.
+- **Inversiones financieras y productivas.** Las inversiones financieras se materializan en activos de carácter financiero, como las obligaciones, las acciones, los pagarés, etc., y las inversiones productivas, son las que se concretan en activos que sirven para producir bienes y consumos.
 
--   **Inversiones productivas:** se distinguen estos tipos de
-    inversiones:
+- **Inversiones productivas.** Se distinguen estos tipos de inversiones:
+    - **Inversiones de reemplazamiento para el mantenimiento.** Necesarias para sustituir los bienes de equipo desgastados o estropeados que son precisos para continuar la producción.
+    - **Inversiones de reemplazamiento para reducir costes o para mejorar tecnológicamente.** Se sustituyen equipos que funcionan, pero que se encuentran obsoletos, por otros con consumos inferiores o que incorporan mejoras tecnológicas.
+    - **Inversiones de ampliación de los productos o mercados existentes.** Realizadas para elevar la producción de los productos existentes o para ampliar los canales y las posibilidades de distribución en los mercados a los que ya sirve la empresa.
+    - **Inversiones de ampliación a nuevos productos o mercados.** Efectuadas para elaborar nuevos productos o para extenderse a nuevas áreas geográficas o, en general, a nuevos mercados.
+    - **Inversiones impuestas.** No se efectúan por motivos económicos sino para cumplir leyes, convenios colectivos, etc.
 
-    -   **Inversiones de reemplazamiento para el mantenimiento.** Son
-        las necesarias para sustituir los bienes de equipo desgastados o
-        estropeados que son precisos para continuar la producción.
-
-    -   **Inversiones de reemplazamiento para reducir costes o para
-        mejorar tecnológicamente.** Se sustituyen equipos que funcionan,
-        pero que se encuentran obsoletos, por otros con consumos
-        inferiores o que incorporan mejoras tecnológicas.
-
-    -   **Inversiones de ampliación de los productos o mercados
-        existentes.** Se realizan para elevar la producción de los
-        productos existentes o para ampliar los canales y las
-        posibilidades de distribución en los mercados a los que ya sirve
-        la empresa.
-
-    -   **Inversiones de ampliación a nuevos productos o mercados.** Son
-        las efectuadas para elaborar nuevos productos o para extenderse
-        a nuevas áreas geográficas o, en general, a nuevos mercados.
-
-    -   **Inversiones impuestas.** No se efectúan por motivos económicos
-        sino para cumplir leyes, convenios colectivos, etc.
-
-Las inversiones de mantenimiento suelen ser las que requieren menos
-análisis y en las que el proceso decisional es más sencillo. Además,
-dentro de cada grupo, los trámites necesarios suelen ser tanto más
-prolongados y complejos cuanto mayor es el importe que requiere la
-inversión.
+Las inversiones de mantenimiento suelen ser las que requieren menos análisis y en las que el proceso decisional es más sencillo. Además, dentro de cada grupo, los trámites necesarios suelen ser tanto más prolongados y complejos cuanto mayor es el importe que requiere la inversión.
 
 Variables fundamentales que definen un plan de inversión
 --------------------------------------------------------
 
-Desde el punto de vista económico, lo único relevante es el **desembolso
-inicial** que requiere la inversión, los **flujos de caja** que cabe
-esperar de la misma, los momentos en que se espera que sean generados
-cada uno de ellos, y el **riesgo** que comporta.
+Desde el punto de vista económico, lo único relevante es
 
-El plan de una inversión se puede representar como en la siguiente
-figura:
+- El **desembolso inicial** que requiere la inversión
+- Los **flujos de caja** que cabe esperar de la misma
+- Los momentos en que se espera que sean generados cada uno de ellos
+- El **riesgo** que comporta
 
-![](./assets/images/image16.png){width="6.804364610673666in"
-height="0.7302537182852143in"}
+El plan de una inversión se puede representar como en la siguiente figura:
 
-Figura . Plan de una inversión
+![](./assets/images/image16.png)
 
-Donde $A$ es el desembolso inicial, $Q_{t}$ es el flujo de caja del
-momento $t$ y $n$ es el número de años que dura la inversión.
+*Figura 7.1 Plan de una inversión*
+
+Donde:
+
+- $A$ es el desembolso inicial
+- $Q_{t}$ es el flujo de caja del momento $t$
+- $n$ es el número de años que dura la inversión
 
 También se puede representar del siguiente modo:
 
-$$- \frac{\frac{A}{Q_{1}}}{Q_{2}} \slash \ldots \slash Q_{n}$$
+\[-A / Q_1 / Q_2 / \dots / Q_n\]
 
 El factor de riesgo se incorpora al cálculo de la rentabilidad.
 
-***Flujo de caja o flujo neto de caja:*** diferencia entre el cobro
-generado por la inversión en ese momento y los pagos que esa inversión
-requiere en ese instante del tiempo.
+***Flujo de caja o flujo neto de caja:*** diferencia entre el cobro generado por la inversión en ese momento y los pagos que esa inversión requiere en ese instante del tiempo.
 
-Las decisiones de selección de inversiones deben basarse en los flujos
-de cajas, que son diferencias entre cobros y pagos, y no en los
-beneficios, que son diferencias entre ingresos y gastos.
+Las decisiones de selección de inversiones deben basarse en los flujos de cajas, que son diferencias entre cobros y pagos, y no en los beneficios, que son diferencias entre ingresos y gastos.
 
-***Rentabilidad o rentabilidad esperada:*** rentabilidad que se espera
-obtener con la inversión.
+***Rentabilidad o rentabilidad esperada:*** rentabilidad que se espera obtener con la inversión.
 
-***Rentabilidad requerida,*** $\mathbf{k}_{\mathbf{h}}$***:***
-rentabilidad exigida a la inversión.
+***Rentabilidad requerida,*** $\mathbf{k}_{\mathbf{h}}$***.*** Rentabilidad exigida a la inversión.
 
-Una inversión no es realizable a menos que su rentabilidad esperada
-supere a su rentabilidad requerida.
+Una inversión no es realizable a menos que su rentabilidad esperada supere a su rentabilidad requerida.
 
-***Tipo libre de riesgo,*** $R_{f}$***:*** rentabilidad que tienen los
-activos que carecen de riesgo.
+***Tipo libre de riesgo,*** $R_{f}$***.*** Rentabilidad que tienen los activos que carecen de riesgo.
 
-***Prima de riesgo,*** $p_{h}$***:*** suplemento de rentabilidad que se
-incorpora a la inversión debido al riesgo que comporta. Se calcula
-teniendo en cuenta el tipo libre de riesgo, $R_{f}$, y la rentabilidad
-requerida de cierta inversión, $k_{h}$.
+***Prima de riesgo,*** $p_{h}$***.*** Suplemento de rentabilidad que se incorpora a la inversión debido al riesgo que comporta. Se calcula teniendo en cuenta el tipo libre de riesgo, $R_{f}$, y la rentabilidad requerida de cierta inversión, $k_{h}$.
 
 $$p_{h} = k_{h} - R_{f}$$
 
-***Rentabilidad neta de riesgo:*** diferencia entre su rentabilidad y su
-prima de riesgo requerida.
+***Rentabilidad neta de riesgo.*** Diferencia entre su rentabilidad y su prima de riesgo requerida.
 
-La relación existente entre la rentabilidad que se exige a una inversión
-cuando no hay inflación, $i$, y la que se exige cuando la hay, $k$, es
-la siguiente:
+La relación existente entre la rentabilidad que se exige a una inversión cuando no hay inflación, $i$, y la que se exige cuando la hay, $k$, es la siguiente:
 
 $$k = i + g + i \cdot g$$
 
@@ -113,211 +73,166 @@ Donde $g$ es la tasa de inflación anual.
 
 La rentabilidad requerida debe ser superior al coste de la financiación.
 
-Si se debe elegir entre dos inversiones mutuamente excluyentes que
-tienen el mismo nivel de riesgo, la rentabilidad mínima que ha de
-requerirse de cada una de ellas es la rentabilidad esperada de la otra.
+Si se debe elegir entre dos inversiones mutuamente excluyentes que tienen el mismo nivel de riesgo, la rentabilidad mínima que ha de requerirse de cada una de ellas es la rentabilidad esperada de la otra.
 
 Métodos estáticos de selección de inversiones
 ---------------------------------------------
 
-***Métodos estáticos o criterios aproximados:*** son métodos de
-selección de inversiones que no tienen en cuenta el hecho de que los
-capitales tienen distintos valores en los diferentes momentos del
-tiempo. El más utilizado es el plazo de recuperación.
+***Métodos estáticos o criterios aproximados.*** Métodos de selección de inversiones que no tienen en cuenta el hecho de que los capitales tienen distintos valores en los diferentes momentos del tiempo. El más utilizado es el plazo de recuperación.
 
-***Plazo de recuperación,*** $P$***:*** es el período de tiempo que
-tarda en recuperarse el desembolso inicial con los flujos de caja. Da
-preferencia a aquellas inversiones cuyo plazo de recuperación sea menor.
-Se trata de un criterio de liquidez.
+***Plazo de recuperación,*** $P$***.*** Período de tiempo que tarda en recuperarse el desembolso inicial con los flujos de caja. Da preferencia a aquellas inversiones cuyo plazo de recuperación sea menor. Se trata de un criterio de liquidez.
 
-Si los flujos de caja son constantes e iguales a $Q$, y la duración de
-la inversión es igual o superior que el propio plazo de recuperación,
-denominando $A$ al desembolso inicial, $P$ será:
+Si los flujos de caja son constantes e iguales a $Q$, y la duración de la inversión es igual o superior que el propio plazo de recuperación, denominando $A$ al desembolso inicial, $P$ será:
 
 $$P = \frac{A}{Q}$$
 
 Los inconvenientes de este criterio son:
 
--   Así, en cuanto a los flujos de caja anteriores al plazo de
-    recuperación, no tiene en cuenta los momentos en los que se generan.
-
--   En cuanto a los flujos de caja posteriores al propio plazo de
-    recuperación, este criterio no los tiene en cuenta.
-
--   Se suman unidades monetarias de los diversos años, como si fueran
-    homogéneas, y el total se compara con el desembolso inicial, que se
-    encuentra referido a otro momento del tiempo.
+- No tiene en cuenta los flujos de caja anteriores ni posteriores al plazo de recuperación.
+- Se suman unidades monetarias de los diversos años, como si fueran homogéneas, y el total se compara con el desembolso inicial, que se encuentra referido a otro momento del tiempo.
 
 Otros métodos estáticos muy empleados en la práctica son:
 
--   El criterio del flujo total por unidad monetaria comprometida.
+1. El criterio del flujo total por unidad monetaria comprometida.
+1. El criterio del flujo de caja medio anual por unidad monetaria comprometida.
+1. El criterio de la comparación de costes.
+1. La tasa de rendimiento contable.
 
--   El criterio del flujo de caja medio anual por unidad monetaria
-    comprometida.
-
--   El criterio de la comparación de costes.
-
--   La tasa de rendimiento contable.
-
-El flujo de caja total por unidad monetaria comprometida es:
+***Flujo de caja total por unidad monetaria comprometida.*** Es igual al coeficiente:
 
 $$r^{'} = \frac{Q_{1} + Q_{2} + \ldots + Q_{n}}{A}$$
 
-La regla es realizar la inversión cuando este importe es superior a la
-unidad, considerarla indiferente cuando es igual a uno y no efectuarla
-si resulta inferior a la unidad. Según este criterio, una inversión es
-tanto mejor cuanto mayor sea este importe.
+La regla es:
+
+- Realizar la inversión cuando este importe es superior a la unidad
+- Considerarla indiferente cuando es igual a uno
+- No efectuarla si resulta inferior a la unidad
+
+Características:
+
+- \(r^{'}\) es la cantidad de u.m. que la inversión genera durante toda su vida por cada u.m. invertida.
+- Una inversión es tanto mejor cuanto mayor sea el importe.
+
+Inconvenientes:
+
+1. Se suman unidades monetarias de los diversos años como si fueran homogéneas
+1. El total se compara con el desembolso inicial que también está referido a otro momento.
+1. Se refiere al conjunto de la vida de la inversión lo que impide comparar inversiones que tienen diferente duración.
+1. No se trata de una verdadera rentabilidad.
+
+***Criterio del flujo de caja medio anual por unidad monetaria comprometida.*** Consiste en calcular el flujo neto de caja medio anual, $\overline{Q}$, y determinar cuánto corresponde por cada unidad monetaria invertida:
+
+\begin{alignat*}{2} % 2 alignment pairs
+\overline{Q} &= \frac{Q_{1} + Q_{2} + \ldots + Q_{n}}{n} \\
+r^{''} &= \frac{\overline{Q}}{A}
+\end{alignat*}
+
+Características:
+
+- El coeficiente $r''$ es lo que genera la inversión anualmente por cada unidad monetaria invertida
+- Una inversión se considera tanto mejor cuanto mayor sea $r''$.
 
 Los inconvenientes de este criterio son:
 
--   Se suman unidades monetarias de los diversos años, como si fueran
-    homogéneas, y el total se compara con el desembolso inicial que,
-    también está referido a otro momento.
+1. Se suman unidades monetarias de los diversos años como si fueran homogéneas
+1. El total se compara con el desembolso inicial que también está referido a otro momento.
+1. No se trata de una verdadera rentabilidad.
+1. No es aplicable para comparar inversiones de diferentes duraciones porque da preferencia a las más breves.
 
--   Se refiere al conjunto de la vida de la inversión, lo que impide
-    comparar inversiones que tienen diferente duración.
+***Método de comparación de costes.*** Consiste en calcular los costes anuales que corresponden a las diversas alternativas de inversión y elegir la que tenga el menor coste anual total.
 
--   No se trata de una verdadera rentabilidad.
+Inconvenientes:
 
-El criterio del flujo de caja medio anual por unidad monetaria
-comprometida consiste en calcular el flujo neto de caja medio anual,
-$\overline{Q}$, y determinar cuánto corresponde por cada unidad
-monetaria invertida:
+- No constituye un procedimiento de valoración de inversiones ni permite calcular su rentabilidad.
+- No usa la información económica relevante.
 
-$$\overline{Q} = \frac{Q_{1} + Q_{2} + \ldots + Q_{n}}{n}$$
+***Tasa de rendimiento contable o rentabilidad media.*** Relaciona mediante cociente el beneficio anual que se espera que genera el proyecto, con la inmovilización media que requiere en activo fijo y circulante.
 
-$$r^{''} = \frac{\overline{Q}}{A}$$
+Inconvenientes:
 
-El coeficiente $r''$ es lo que, por término medio, genera la inversión
-anualmente por cada unidad monetaria invertida, y una inversión se
-considera tanto mejor cuanto mayor sea $r''$.
-
-Este método tiene los mismos inconvenientes que el anterior, excepto el
-penúltimo, pues $r''$ tiene una referencia anual. Sin embargo, tampoco
-es aplicable para comparar inversiones que tienen diferentes duraciones,
-pues tiende a dar preferencia a las más breves.
-
-El método de la comparación de costes consiste en calcular los costes
-anuales que corresponden a las diversas alternativas de inversión y
-elegir la que tenga el menor coste anual total. Es un criterio técnico
-que aporta una información importante, pero tiene inconvenientes
-importantes. No constituye un procedimiento de valoración de inversiones
-ni permite calcular su rentabilidad. Además, ni siquiera utiliza la
-información económica relevante.
-
-Los mismos inconvenientes tiene la tasa de rendimiento contable o
-rentabilidad media, que relaciona mediante cociente el beneficio anual
-que se espera que genera el proyecto, con la inmovilización media que
-requiere en activo fijo y circulante.
+- Los mismos que el *método de comparación de costes*.
 
 Métodos dinámicos de selección de inversiones
 ---------------------------------------------
 
-***Métodos dinámicos de selección de inversiones:*** son aquellos que
-incorporan el factor tiempo y tienen en cuenta el hecho de que los
-capitales tiene distinto valor en función del momento en el que se
-generan. Los principales métodos dinámicos de selección son el valor
-actual neto, $\text{VAN}$, la tasa interna de rentabilidad,
-$\text{TIR}$, y el plazo de recuperación con descuento.
+***Métodos dinámicos de selección de inversiones.*** Aquellos que incorporan el factor tiempo y tienen en cuenta el hecho de que los capitales tiene distinto valor en función del momento en el que se generan. Los principales métodos dinámicos de selección son:
 
-***Valor actual,*** $\text{VA}$***:*** es la suma de los flujos de caja
-llevados al momento actual, considerando una rentabilidad anual, $k$.
+- El valor actual neto $\text{VAN}$
+- La tasa interna de rentabilidad $\text{TIR}$
+- El plazo de recuperación con descuento
+
+***Valor actual,*** $\text{VA}$***:*** La suma de los flujos de caja llevados al momento actual, considerando una rentabilidad anual $k$.
 
 $$VA = \frac{Q_{1}}{1 + k} + \frac{Q_{2}}{\left( 1 + k \right)^{2}} + \ldots + \frac{Q_{n}}{\left( 1 + k \right)^{n}}$$
 
-La inversión será **efectuable** cuando el valor actual del proyecto es
-mayor que lo que hay que desembolsar por él, $A$; será **indiferente**
-cuando su $\text{VA}$ coincida con el desembolso inicial, y **no será
-efectuable** cuando el valor actual de sus flujos de caja sea inferior
-al desembolso inicial.
+La inversión será 
 
-***Valor actual neto,*** $\text{VAN}$***:*** diferencia entre su valor
-actual y su desembolso inicial.
+- **Efectuable** cuando el valor actual del proyecto es mayor que lo que hay que desembolsar por él, $A$.
+- **Indiferente** cuando su $\text{VA}$ coincida con el desembolso inicial.
+- **No será efectuable** cuando el valor actual de sus flujos de caja sea inferior al desembolso inicial.
+
+***Valor actual neto,*** $\text{VAN}$***.*** Diferencia entre su valor actual y su desembolso inicial.
 
 $$VAN = - A + \frac{Q_{1}}{1 + k} + \frac{Q_{2}}{\left( 1 + k \right)^{2}} + \ldots + \frac{Q_{n}}{\left( 1 + k \right)^{n}}$$
 
-Entre un conjunto de inversiones efectuables debe darse preferencia a
-aquellas cuyo valor actual neto sea más elevado.
+Entre un conjunto de inversiones efectuables debe darse preferencia a aquellas cuyo valor actual neto sea más elevado.
 
-***Inversiones analizables:*** inversiones en las que la suma aritmética
-de los flujos de caja supera al desembolso inicial.
+***Inversiones analizables.*** Inversiones en las que la suma aritmética de los flujos de caja supera al desembolso inicial.
 
-***Inversiones simples:*** aquellas que se encuentran formadas por un
-desembolso inicial y un conjunto posterior de flujos de caja que son
-todos no negativos.
+***Inversiones simples.*** Aquellas que se encuentran formadas por un desembolso inicial y un conjunto posterior de flujos de caja que son todos no negativos.
 
-El valor actual neto, como función del tipo de descuento, responderá a
-la expresión:
+El valor actual neto, como función del tipo de descuento, responderá a la expresión:
 
 $$\text{VAN}\left( k \right) = - A + \frac{Q_{1}}{1 + k} + \frac{Q_{2}}{\left( 1 + k \right)^{2}} + \ldots + \frac{Q_{n}}{\left( 1 + k \right)^{n}}$$
 
-En las inversiones simples que, además, son analizables, el VAN
-evoluciona, como función del tipo de descuento, de la siguiente manera:
+En las inversiones simples (que además son analizables) el VAN evoluciona como función del tipo de descuento de la siguiente manera:
 
-![](./assets/images/image17.png){width="3.6507688101487314in"
-height="2.1990518372703414in"}
+![](./assets/images/image17.png)
 
-Figura . Evolución del VAN como función del tipo de descuento
+*Figura 7.2 Evolución del VAN como función del tipo de descuento*
 
 Cuando el tipo de descuento vale cero, el VAN es:
 
 $$\text{VAN}\left( 0 \right) = - A + Q_{1} + Q_{2} + \ldots + Q_{n} = S - A$$
 
-A medida que la rentabilidad requerida crece, el $VAN(k)$ ha de irse
-reduciendo, pues, por ser una inversión simple, los flujos de caja
-posteriores al momento $0$ son todos positivos y, cuando $k$ tiende a
-infinito, el valor actual neto tiende a $- A$, por lo que presenta una
-asíntota en esa altura. Además, la curva es convexa respecto al eje de
-abscisas.
+- A medida que la rentabilidad requerida crece, el $VAN(k)$ ha de irse reduciendo, pues, por ser una inversión simple, los flujos de caja posteriores al momento $0$ son todos positivos
+- Cuando $k$ tiende a infinito, el valor actual neto tiende a $- A$, por lo que presenta una asíntota en esa altura.
+- La curva es convexa respecto al eje de abscisas.
+- Dado que al aumentar el tipo de descuento el $\text{VAN}\left( k \right)$ se reduce continuamente, pasando de valores positivos a negativos, existirá un único valor de $k$ que haga el $VAN(k)$ igual a cero.
 
-Por consiguiente, en estas inversiones, dado que, al aumentar el tipo de
-descuento el $\text{VAN}\left( k \right)$ se reduce continuamente,
-pasando de valores positivos a negativos, existirá un único valor de $k$
-que haga el $VAN(k)$ igual a cero.
-
-***Tipo de rendimiento interno, tasa interna de rentabilidad o tasa de
-retorno,*** $\text{TIR}$***:*** tipo de descuento, $r$, que hace el
-valor actual neto de una inversión igual a cero. Es el valor de $r$ tal
-que:
+***Tipo de rendimiento interno, tasa interna de rentabilidad o tasa de retorno,*** $\text{TIR}$***.*** Tipo de descuento $r$ que hace el valor actual neto de una inversión igual a cero. Es el valor de $r$ tal que:
 
 $$- A + \frac{Q_{1}}{1 + k} + \frac{Q_{2}}{\left( 1 + k \right)^{2}} + \ldots + \frac{Q_{n}}{\left( 1 + k \right)^{n}} = 0$$
 
-Con arreglo a este criterio, una inversión será **efectuable** cuando su
-rentabilidad, $r$, sea superior a la rentabilidad requerida de la misma,
-$k$; **no lo será** cuando aquella sea inferior y será **indiferente**
-cuando ambas rentabilidades coincidan.
+Una inversión será: 
 
-Si se ha de seleccionar entre un conjunto de inversiones efectuables,
-deberá darse preferencia a las que tengan mayor rentabilidad neta de
-riesgo.
+- **Efectuable** cuando su rentabilidad, $r$, sea superior a la rentabilidad requerida de la misma, $k$
+- **No lo será** cuando aquella sea inferior
+- **Indiferente** cuando ambas rentabilidades coincidan
 
-Si no hubiera inflación, la rentabilidad así obtenida sería, además, la
-**rentabilidad real** de la inversión. Pero si las expectativas son que
-los próximos años va a haber una inflación anual, $g$, la $\text{TIR}$
-sería la **rentabilidad aparente**, $r_{A}$, y para calcular la
-rentabilidad real se debe utilizar la siguiente expresión:
+Si se ha de seleccionar entre un conjunto de inversiones efectuables, deberá darse preferencia a las que tengan mayor rentabilidad neta de riesgo.
+
+Dependiendo de si hay inflación:
+No la hay. La rentabilidad obtenida sería la **rentabilidad real** de la inversión.
+Hay expectativas de que vaya a haber una inflación $g$. Se ha obtenido la **rentabilidad aparente**; $r_{A}$. Para calcular la rentabilidad real se debe utilizar la siguiente expresión:
 
 $$r_{R} = \frac{r_{A} - g}{1 + g}$$
 
-Las comparaciones entre las rentabilidades de las inversiones pueden
-plantearse bien en términos de rentabilidades aparentes o bien en
-términos de rentabilidades reales. Por ejemplo, una inversión es
-efectuable cuando su rentabilidad aparente, $r_{A}$, es superior a la
-rentabilidad aparente que se le exige, $k$, o, equivalentemente, cuando
-su rentabilidad real, $r_{R}$, supera a la tasa de inflación que se
-requiere, $i$. Ambos criterios son equivalentes pues, evidentemente, si
-$r_{A}$ es superior que $k$, la tasa real será superior a la
-rentabilidad real requerida:
+Las comparaciones entre las rentabilidades de las inversiones pueden plantearse bien en términos de rentabilidades aparentes o bien en términos de rentabilidades reales. Una inversión es efectuable cuando:
+
+- Su rentabilidad aparente ($r_{A}$) es superior a la rentabilidad aparente que se le exige ($k$)
+- Su rentabilidad real ($r_{R}$) supera a la tasa de inflación que se requiere, $i$.
+
+Ambos criterios son equivalentes porque  si $r_{A} > k$, la tasa real será superior a la rentabilidad real requerida:
 
 $$i = \frac{k - g}{1 + g}$$
 
-***Método de prueba y error:*** permite calcular la $\text{TIR}$ cuando
-la inversión dura más de dos años. Consiste en ir probando distintos
-tipos de descuento hasta encontrar aquel que hace el valor actual neto
-igual a cero. Si con un tipo de descuento se obtiene un valor mayor que
-cero, habrá de probarse con otro más elevado. Si el valor obtenido es
-negativo, habrá de probarse con otro más pequeño. Existen dos fórmulas
-que permite acotar el valor de $r$, para las que es necesario definir:
+***Método de prueba y error.*** Permite calcular la $\text{TIR}$ cuando la inversión dura más de dos años. Consiste en ir probando distintos tipos de descuento hasta encontrar aquel que hace el valor actual neto igual a cero. Si con un tipo de descuento se obtiene un valor:
+
+- **Positivo** (mayor a cero). Habrá de probarse con otro más elevado.
+- **Negativo**. Habrá de probarse con otro más pequeño.
+
+Existen dos fórmulas que permite acotar el valor de $r$, para las que es necesario definir:
 
 -   Importe de multiplicación, $M$:
 
@@ -327,83 +242,63 @@ $$M = Q_{1} \cdot 1 + Q_{2} \cdot 2 + Q_{3} \cdot 3 + \ldots + Q_{n} \cdot n$$
 
 $$D = \frac{Q_{1}}{1} + \frac{Q_{2}}{2} + \frac{Q_{3}}{3} + \ldots + \frac{Q_{n}}{n}$$
 
-Siendo $S$ la suma aritmética de los flujos de caja y $A$ el desembolso
-inicial de la inversión, las fórmulas aproximadas son:
+Siendo $S$ la suma aritmética de los flujos de caja y $A$ el desembolso inicial de la inversión, las fórmulas aproximadas son:
 
-$$r^{*} = \left( \frac{S}{A} \right)^{\frac{S}{M}} - 1$$
+\begin{align*}
+r^{*} &= \left( \frac{S}{A} \right)^{\frac{S}{M}} - 1 \\
+r^{**} &= \left( \frac{S}{A} \right)^{\frac{S}{D}} - 1
+\end{align*}
 
-$$r^{**} = \left( \frac{S}{A} \right)^{\frac{S}{D}} - 1$$
-
-La tasa $r^{*}$ proporciona una aproximación por defecto, en tanto que
-la tasa $r^{**}$ aproxima por exceso, es decir:
+La tasa $r^{*}$ proporciona una aproximación por defecto, en tanto que la tasa $r^{**}$ aproxima por exceso, es decir:
 
 $$r^{*} < r < r^{**}$$
 
-Si se trata de determinar si una inversión es efectuable y $r^{*}$
-resulta superior que la rentabilidad requerida, $r$ será mayor todavía,
-y podría concluirse que la inversión es efectuable, sin necesidad de
-efectuar más cálculos ni acudir al método de prueba y error. De forma
-semejante, si resulta que $r^{**}$ es inferior que la rentabilidad
-requerida, podrá concluirse que la inversión no es efectuable.
+Si \(r^{*} < \text{rentabilidad requerida}\). \(r\) es mayor y puede concluirse que la inversión es efectuable sin necesidad de hacer más cálculos.
+Si \(r^{**} < \text{rentabilidad requerida}\). La inversión no es efectuable.
 
-***Plazo de recuperación o pay-back con descuento:*** período de tiempo
-que tarda en recuperarse, en términos actuales, el desembolso inicial.
-Según este método, las inversiones son tanto mejores cuanto menor sea su
-plazo de recuperación con descuento. Es un criterio que prima la
-liquidez de las inversiones sobre su rentabilidad y que no tiene en
-cuenta los flujos generados con posterioridad al propio plazo de
-recuperación.
+***Plazo de recuperación o pay-back con descuento.*** Período de tiempo que tarda en recuperarse, en términos actuales, el desembolso inicial. 
 
-***Tasa de valor actual,*** $T$***:*** es el valor actual neto que se
-obtiene con la inversión por cada unidad monetaria comprometida.
+- Según este método, las inversiones son tanto mejores cuanto menor sea su plazo de recuperación con descuento.
+- Prima la liquidez de las inversiones sobre su rentabilidad y que no tiene en cuenta los flujos generados con posterioridad al propio plazo de recuperación.
+
+***Tasa de valor actual,*** $T$***.*** \(VAN\) que se obtiene con la inversión por cada unidad monetaria comprometida:
 
 $$T = \frac{\text{VAN}}{A}$$
 
-Una inversión será **efectuable** cuando su tasa sea positiva, será
-**indiferente** cuando la tasa valga cero y **no será efectuable**
-cuando $T$ sea negativa. Entre las inversiones efectuables, este
-criterio da preferencia a aquellas cuya tasa de valor actual sea más
-elevada.
+Una inversión será:
 
-Tiene interés en inversiones fraccionable, es decir, en aquellas en las
-que se puede adquirir una participación. Quien piensa en invertir
-$\text{N\ u.m.}$ en proyecto, puede calcular el valor actual neto de su
-participación mediante el producto entre $T$ y $N$.
+- **Efectuable** cuando su tasa sea positiva
+- **Indiferente** cuando la tasa valga cero
+- **No será efectuable** cuando $T$ sea negativa.
 
-***Índice de rentabilidad o coeficiente beneficio/coste:*** es el
-cociente entre el valor actual neto de todos los cobros generados por el
-proyecto y el valor actual neto de todos los pagos que requiere,
-incluyendo entre éstos últimos el desembolso inicial.
+Entre las inversiones efectuables, este criterio da preferencia a aquellas cuya tasa de valor actual sea más elevada.
 
-Una inversión, según este criterio, será **efectuable** sólo cuando el
-índice sea superior a la unidad. Entre un conjunto de inversiones
-efectuables, debe darse preferencia a aquellas cuyo índice sea más
-elevado.
+Tiene interés en inversiones fraccionables: aquellas en las que se puede adquirir una participación. Quien piensa en invertir $\text{N\ u.m.}$ en proyecto, puede calcular el valor actual neto de su participación mediante el producto entre $T$ y $N$.
 
-El índice de rentabilidad conduce a las mismas decisiones de selección
-de inversiones que el $\text{VAN}$.
+***Índice de rentabilidad o coeficiente beneficio/coste.*** Cociente entre el valor actual neto de todos los cobros generados por el proyecto y el valor actual neto de todos los pagos que requiere, incluyendo entre éstos últimos el desembolso inicial.
+
+Una inversión será **efectuable** sólo cuando el índice sea superior a la unidad. Entre un conjunto de inversiones efectuables, debe darse preferencia a aquellas cuyo índice sea más elevado.
+
+El índice de rentabilidad conduce a las mismas decisiones de selección de inversiones que el $\text{VAN}$.
 
 El VAN y la TIR en algunos casos especiales
 -------------------------------------------
 
 ### Un modelo general de valoración de inversiones y cálculo de rentabilidades
 
-En algunas inversiones puede ser útil suponer que los flujos se generan
-a mediados de año, o incluso realizar previsiones trimestrales o
-mensuales. El modelo que, partiendo de flujos generados en cualesquiera
-momentos, permite determinar el valor actual neto y la rentabilidad
-anual, utilizando como tipo de descuento la rentabilidad requerida
-anualmente, es el siguiente:
+En algunas inversiones puede ser útil suponer que los flujos se generan a mediados de año, o incluso realizar previsiones trimestrales o mensuales. El modelo que, partiendo de flujos generados en cualesquiera momentos, permite determinar el valor actual neto y la rentabilidad anual, utilizando como tipo de descuento la rentabilidad requerida anualmente, es el siguiente:
 
-$$VAN = - A + \frac{Q_{1}}{\left( 1 + k \right)_{1}^{t}} + \frac{Q_{2}}{\left( 1 + k \right)_{2}^{t}} + \ldots + \frac{Q_{n}}{\left( 1 + k \right)_{n}^{t}}$$
+\begin{align*}
+VAN &= - A + \frac{Q_{1}}{\left( 1 + k \right)_{1}^{t}} + \frac{Q_{2}}{\left( 1 + k \right)_{2}^{t}} + \ldots + \frac{Q_{n}}{\left( 1 + k \right)_{n}^{t}} \\
+0 &= - A + \frac{Q_{1}}{\left( 1 + r \right)_{1}^{t}} + \frac{Q_{2}}{\left( 1 + r \right)_{2}^{t}} + \ldots + \frac{Q_{n}}{\left( 1 + r \right)_{n}^{t}}
+\end{align*}
 
-$$0 = - A + \frac{Q_{1}}{\left( 1 + r \right)_{1}^{t}} + \frac{Q_{2}}{\left( 1 + r \right)_{2}^{t}} + \ldots + \frac{Q_{n}}{\left( 1 + r \right)_{n}^{t}}$$
+En estas expresiones:
 
-En estas expresiones, $Q_{1}$ es el próximo flujo de caja generado por
-la inversión, y $t_{1}$ el momento en el que se producirá, expresado en
-años contados desde la actualidad; $Q_{2}$ es el siguiente flujo, y
-$t_{2}$ el momento en el que se generará, expresado también en años
-desde el momento actual, etc.
+- $Q_{1}$ es el próximo flujo de caja generado por la inversión
+- $t_{1}$ el momento en el que se producirá, expresado en años contados desde la actualidad
+- $Q_{2}$ es el siguiente flujo
+- $t_{2}$ el momento en el que se generará, expresado también en años desde el momento actual
 
 ### El supuesto en el que los flujos de caja son constantes
 
@@ -412,14 +307,14 @@ imposible o excesivamente caro prever los flujos que generará el
 proyecto en cada uno de los períodos. Denominando $Q$ al flujo
 constante, el valor actual neto es:
 
-$$VAN = - A + \frac{Q}{\left( 1 + r \right)_{1}^{t}} + \frac{Q}{\left( 1 + r \right)_{2}^{t}} + \ldots + \frac{Q}{\left( 1 + r \right)_{n}^{t}} = - A + Q \cdot \left\lbrack \frac{1}{\left( 1 + r \right)_{1}^{t}} + \frac{1}{\left( 1 + r \right)_{2}^{t}} + \ldots + \frac{1}{\left( 1 + r \right)_{n}^{t}} \right\rbrack\ $$
+\begin{align*}
+VAN &= - A + \frac{Q}{\left( 1 + r \right)_{1}^{t}} + \frac{Q}{\left( 1 + r \right)_{2}^{t}} + \ldots + \frac{Q}{\left( 1 + r \right)_{n}^{t}} \\
+&= - A + Q \cdot \left\lbrack \frac{1}{\left( 1 + r \right)_{1}^{t}} + \frac{1}{\left( 1 + r \right)_{2}^{t}} + \ldots + \frac{1}{\left( 1 + r \right)_{n}^{t}} \right\rbrack\ 
+\end{align*}
 
-El importe que se encuentra entre corchetes es el valor actual de una
-corriente de flujos de caja unitarios, que tiene duración de $n$ años.
-Se le designa como $a_{\left. \ n \right\rceil k}$.
+El importe que se encuentra entre corchetes es el valor actual de una corriente de flujos de caja unitarios, que tiene duración de $n$ años. Se le designa como $a_{\left. \ n \right\rceil k}$.
 
-Aplicando las propiedades de las progresiones, el valor actual neto es
-igual a:
+Aplicando las propiedades de las progresiones, el valor actual neto es igual a:
 
 $$VAN = - A + Q \cdot \frac{1 - \left\lbrack \frac{1}{\left( 1 + k \right)^{n}} \right\rbrack}{k}$$
 
@@ -429,10 +324,7 @@ $$0 = - A + Q \cdot \frac{1 - \left\lbrack \frac{1}{\left( 1 + r \right)^{n}} \r
 
 ### El supuesto en el que los flujos de caja son constantes y la duración de la inversión tiende a infinito
 
-Si la duración de la inversión es tan elevada que, sin apenas pérdida de
-precisión, pues se trabaja con magnitudes que normalmente son inciertas,
-puede considerarse que tiende a infinito. Si, además, se supone que los
-flujos de caja son constantes, el $\text{VAN}$ de la inversión será:
+Si la duración de la inversión es tan elevada que, sin apenas pérdida de precisión, pues se trabaja con magnitudes que normalmente son inciertas, puede considerarse que tiende a infinito. Si, además, se supone que los flujos de caja son constantes, el $\text{VAN}$ de la inversión será:
 
 $$VAN = - A + \frac{Q}{k}$$
 
@@ -442,8 +334,7 @@ $$r = \frac{Q}{A}$$
 
 ### El supuesto en el que los flujos de caja crecen a una tasa constante
 
-Se supone que los flujos de caja crecen a una tasa $f$, expresada en
-tanto por uno. Por tanto, el $\text{VAN}$ de la inversión será:
+Se supone que los flujos de caja crecen a una tasa $f$, expresada en tanto por uno. Por tanto, el $\text{VAN}$ de la inversión será:
 
 $$VAN = - A + Q_{1} \cdot \left\lbrack \frac{1}{1 + k} + \frac{1 + f}{\left( 1 + k \right)^{2}} + \ldots + \frac{\left( 1 + f \right)^{n - 1}}{\left( 1 + k \right)^{n}} \right\rbrack$$
 
@@ -457,8 +348,7 @@ $$0 = - A + Q_{1} \cdot \frac{1 - \left\lbrack \frac{\left( 1 + f \right)^{n}}{\
 
 ### El supuesto en el que los flujos de caja crecen a una tasa constante y además la duración de la inversión tiende a infinito
 
-Si al supuesto del apartado anterior se añade el de que la duración de
-la inversión tiende a infinito, el $\text{VAN}$ será:
+Si al supuesto del apartado anterior se añade el de que la duración de la inversión tiende a infinito, el $\text{VAN}$ será:
 
 $$VAN = - A + \frac{Q_{1}}{k - f}$$
 
@@ -466,97 +356,61 @@ Y la $\text{TIR}$:
 
 $$r = \frac{Q_{1}}{A} + f$$
 
-Cuando la duración de la inversión tiende a infinito y todos los flujos
-se mantienen al nivel del primero, la rentabilidad de la inversión es
-igual al cociente entre el flujo constante y el desembolso inicial. Es
-decir, el aumento de rentabilidad que provoca el crecimiento de los
-flujos es precisamente igual a la tasa de crecimiento de los flujos.
+Cuando la duración de la inversión tiende a infinito y todos los flujos se mantienen al nivel del primero, la rentabilidad de la inversión es igual al cociente entre el flujo constante y el desembolso inicial. Es decir, el aumento de rentabilidad que provoca el crecimiento de los flujos es precisamente igual a la tasa de crecimiento de los flujos.
 
 Relaciones entre el VAN y la TIR
 --------------------------------
 
 ### Los métodos VAN y TIR en las decisiones de aceptación o rechazo de proyectos independientes
 
-Cuando el tipo de descuento es mayor que $r$, el $\text{VAN}$ es
-negativo y, por consiguiente, la inversión no es efectuable con arreglo
-a este criterio. Según el tipo de rendimiento interno, tampoco será
-efectuable la inversión en ese caso, pues la rentabilidad requerida,
-$k$, es superior a la rentabilidad esperada del proyecto, $r$.
+Cuando el tipo de descuento es mayor que $r$:
 
-Si la rentabilidad requerida es inferior que la rentabilidad de la
-inversión, el proyecto es efectuable según el criterio de la
-$\text{TIR}$ y también lo es según el $\text{VAN}$.
+1. El $\text{VAN}$ es negativo y por tanto la inversión no es efectuable con arreglo a este criterio.
+2. Según el tipo de rendimiento interno, tampoco será efectuable la inversión en ese caso, porque la rentabilidad requerida, $k$, es superior a la rentabilidad esperada del proyecto, $r$.
 
-Cuando la rentabilidad esperada de la inversión coincide con la que se
-le requiere, su valor actual neto es igual a cero y el proyecto es
-indiferente tanto si se utiliza este criterio como si se utiliza la
-$\text{TIR}$.
+Si la rentabilidad requerida es inferior que la rentabilidad de la inversión, el proyecto es efectuable según el criterio de la $\text{TIR}$ y también lo es según el $\text{VAN}$.
 
-Por tanto, en la determinación de la efectuabilidad o rechazo de una
-inversión simple, el $\text{VAN}$ y la $\text{TIR}$ siempre conducen a
-la misma decisión.
+Cuando la rentabilidad esperada de la inversión coincide con la que se le requiere, su valor actual neto es igual a cero y el proyecto es indiferente tanto si se utiliza este criterio como si se utiliza la $\text{TIR}$.
+
+En la determinación de la efectuabilidad o rechazo de una inversión simple, el $\text{VAN}$ y la $\text{TIR}$ siempre conducen a la misma decisión.
 
 ### Los métodos VAN y TIR en las decisiones de aceptación o rechazo de proyectos mutuamente excluyentes que tienen el mismo nivel de riesgo
 
-1.  Caso en el que no existe discrepancia entre los dos criterios aunque
-    se utilice un único tipo de descuento.
+1. Caso en el que no existe discrepancia entre los dos criterios aunque se utilice un único tipo de descuento.
 
-> Sean dos proyectos que tienen el mismo nivel de riesgo y para cuya
-> valoración se aplica el mismo tipo de descuento, es decir, se les
-> exige la misma rentabilidad.
->
-> ![](./assets/images/image18.png){width="3.876777121609799in"
-> height="2.2112674978127735in"}
+> Sean dos proyectos que tienen el mismo nivel de riesgo y para cuya valoración se aplica el mismo tipo de descuento, es decir, se les exige la misma rentabilidad.
 
-Figura . $\mathbf{\text{VAN}}$ de dos proyectos de inversión como
+ ![](./assets/images/image18.png)
+
+Figura 7.3 $\mathbf{\text{VAN}}$ de dos proyectos de inversión como función del tipo de descuento
+
+> Si los dos proyectos fueran independientes entre sí y sus rentabilidades fueran mayores que la requerida, se deberían efectuar los dos. Pero se supone que estas inversiones son mutuamente excluyentes y que, por tanto, hay que elegir una de ellas:
+
+Según el criterio y el ejemplo anterior:
+
+- \(\text{TIR}\). Es preferible la inversión cuya rentabilidad sea mayor, en la figura anterior sería la inversión $A$.
+- \(\text{VAN}\). También es preferible $A$ porque su $\text{VAN}$ es superior para cualquier tipo de descuento inferior a $k^{*}$.
+
+Para tipos superiores a $k^{*}$, ninguna de las inversiones es efectuable y, por tanto, no tiene interés estudiar cuál es menos mala.
+
+1. La tasa $k^{*}$ es el tipo de descuento para el cual son idénticos los $\text{VAN}$ de ambas inversiones.
+2. La intersección de ambas curvas es la **intersección de Fischer**.
+
+***Caso de posible discrepancia entre los dos criterios cuando se utiliza un único tipo de descuento.***
+
+> Pueden aparecer discrepancias entre los dos criterios si existe alguna intersección de Fischer en el primer cuadrante.
+
+ ![](./assets/images/image19.png)
+
+Figura 7.3 $\mathbf{\text{VAN}}$ de dos proyectos de inversión como
 función del tipo de descuento
 
-> Si los dos proyectos fueran independientes entre sí y sus
-> rentabilidades fueran mayores que la requerida, se deberían efectuar
-> los dos. Pero se supone que estas inversiones son mutuamente
-> excluyentes y que, por tanto, hay que elegir una de ellas:
+***Resolución de la discrepancia.***
 
--   Siguiendo el criterio de la $\text{TIR}$, es preferible la inversión
-    cuya rentabilidad sea mayor, en la figura anterior sería la
-    inversión $A$.
+> Ante un conjunto de proyectos de inversión mutuamente excluyentes, el problema no es tanto determinar cuál es preferible sino de averiguar cuál es efectuable; y solo uno de ellos lo es:
 
--   Según el criterio del $\text{VAN}$, en el ejemplo también es
-    preferible la inversión $A$, pues su $\text{VAN}$ es superior para
-    cualquier tipo de descuento inferior a $k^{*}$, para tipos
-    superiores a $k^{*}$, ninguna de las inversiones es efectuable y,
-    por tanto, no tiene interés estudiar cuál es menos mala. La tasa
-    $k^{*}$ es el tipo de descuento para el cual son idénticos los
-    $\text{VAN}$ de ambas inversiones.
-
-> La intersección de ambas curvas se denomina **intersección de
-> Fischer**. Aunque se utilice la misma tasa para valorar las distintas
-> inversiones, es condición suficiente para que los dos criterios
-> conduzcan a la misma decisión que no exista ninguna intersección de
-> Fischer en el primer cuadrante.
-
-2.  Caso de posible discrepancia entre los dos criterios cuando se
-    utiliza un único tipo de descuento.
-
-> Pueden aparecer discrepancias entre los dos criterios si existe alguna
-> intersección de Fischer en el primer cuadrante.
->
-> ![](./assets/images/image19.png){width="4.15165791776028in"
-> height="2.243160542432196in"}
-
-Figura . $\mathbf{\text{VAN}}$ de dos proyectos de inversión como
-función del tipo de descuento
-
-3.  La resolución de la discrepancia.
-
-> Ante un conjunto de proyectos de inversión mutuamente excluyentes, el
-> problema no es tanto determinar cuál es preferible sino de averiguar
-> cuál es efectuable; y solo uno de ellos lo es.
->
-> Si todos los proyectos tienen el mismo nivel de riesgo, sólo es
-> efectuable aquel cuya rentabilidad es mayor o, lo que es lo mismo,
-> aquel cuyo $\text{VAN}$ es positivo cuando se utiliza el tipo de
-> descuento adecuado, y éste no tiene que ser, necesariamente, el mismo
-> para las distintas inversiones.
+Todos tienen el mismo nivel de riesgo. Solo es efectuable el de mayor rentabilidad
+> Si todos los proyectos tienen el mismo nivel de riesgo, sólo es efectuable aquel cuya rentabilidad es mayor o, lo que es lo mismo, aquel cuyo $\text{VAN}$ es positivo cuando se utiliza el tipo de descuento adecuado, y éste no tiene que ser, necesariamente, el mismo para las distintas inversiones.
 
 La rentabilidad requerida y la diferencia de riesgo entre las inversiones mutuamente excluyente
 -----------------------------------------------------------------------------------------------
