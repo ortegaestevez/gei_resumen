@@ -88,7 +88,7 @@ Factores influyentes en las decisiones financieras:
 La medida de la rentabilidad
 ----------------------------
 
-Ver [la chuleta de la medida de la rentabilidad](chuletas/medida_rentabilidad.md).
+Ver [la chuleta de la medida de la rentabilidad](./chuletas/medida_rentabilidad.md).
 
 El equilibrio económico-financiero de la empresa y el fondo de rotación o maniobra
 ----------------------------------------------------------------------------------

@@ -4,113 +4,82 @@ Tema 9: Elementos productivos. El proceso de producción y el factor humano
 Introducción
 ------------
 
-***Función productiva:*** consiste en el empleo de factores humanos y
-materiales para la elaboración de bienes y la prestación de servicios.
+***Función productiva.*** Empleo de factores humanos y materiales para la elaboración de bienes y la prestación de servicios.
 
-***Dirección de la producción:*** proceso de toma de decisiones en el
-ámbito de la función productiva.
+***Dirección de la producción.*** Proceso de toma de decisiones en el ámbito de la función productiva.
 
-***Utilidad:*** las empresas crean utilidad y riqueza produciendo, y las
-familias destruyen la utilidad y riqueza consumiendo. Existen utilidades
-de **forma, tiempo, lugar y propiedad**. Las tres últimas se crean,
-mediante la función de marketing, poniendo los productos a disposición
-de los consumidores en los momentos y lugares que éstos desean, y
-facilitando la transferencia de su propiedad. La utilidad de forma es la
-creada mediante la conversión de materias primas y otros factores de
-producción, en productos terminados.
+***Utilidad.*** Las empresas crean utilidad y riqueza produciendo, y las familias destruyen la utilidad y riqueza consumiendo. Existen utilidades de **forma, tiempo, lugar y propiedad**.
 
-A medida que aumenta la utilidad de un bien, se incrementa su valor para
-los consumidores y, consiguientemente, el precio que están dispuestos a
-pagar por él.
+- **Forma.** Creada mediante la conversión de materias primas y otros factores de producción, en productos terminados.
+- **Tiempo, lugar y propiedad.** Creadas mediante:
 
-***Diseño del producto:*** no es competencia exclusiva de la dirección
-de producción. El proceso de diseño engloba las siguientes etapas
-(cuando está destinado al mercado en general):
+    1. La función de marketing
+    1. Poniendo los productos a disposición de los consumidores en los momentos y lugares que éstos desean
+    1. Facilitando la transferencia de su propiedad
 
--   Se precisan estudios de investigación comercial para conocer las
-    reacciones de los consumidores a diferentes alternativas, así como
-    pruebas de mercado y estimaciones de las ventas potenciales y de las
-    rentabilidades de los diferentes nuevos productos, todo lo cual
-    concierne a la dirección de marketing.
+> A medida que aumenta la utilidad de un bien, se incrementa su valor para los consumidores y, consiguientemente, el precio que están dispuestos a pagar por él.
 
--   La dirección de producción transforma el concepto inicial en un
-    producto final y diseña el sistema de modo que el nuevo producto se
-    elabore tan eficientemente como sea posible. Para que un nuevo
-    producto resulte rentable no es suficiente que el mercado lo acepte,
-    sino que además ha de ser producido económicamente.
+***Diseño del producto.*** No es competencia exclusiva de la dirección de producción. El proceso de diseño engloba las siguientes etapas (cuando está destinado al mercado en general) según al departamento que concierna:
+
+- **Dirección de marketing**:
+    1. Estudios de investigación comercial para conocer las reacciones de los consumidores a diferentes alternativas
+    1. Pruebas de mercado
+    1. Estimaciones de las ventas potenciales y de las rentabilidades de los diferentes nuevos productos
+- **Dirección de producción**:
+    1. Transformar el concepto inicial en un producto final
+    1. Diseñar el sistema de modo que el nuevo producto se elabore tan eficientemente como sea posible
+    1. Para que resulte rentable: 
+    1. El mercado lo debe aceptar 
+    1. Ha de ser producido económicamente.
 
 La primera decisión: producir o comprar
 ---------------------------------------
 
-***Decisión de producir o comprar:*** la primera decisión que ha de
-plantearse ante la producción de un nuevo producto, es la posibilidad de
-comprar fuera el producto terminado, en estado de semielaboración o
-algunos de sus componentes, en lugar de producirlos en la propia
-empresa.
-
-Esta decisión puede tomarse atendiendo al objetivo de minimizar costes.
-Así, siendo $p$ el precio que habría que pagar por cada unidad si se
-adquiere fuera, $c_{v}$ el coste variable asociado a la producción de
-una unidad, $C_{F}$ los costes fijos anuales necesarios para acometer la
-elaboración del bien, $P$ el número de unidades necesarias al año,
-interesará producir cuando:
-
-$$C_{F} + c_{v} \cdot P < p \cdot P$$
-
-$$P > \frac{C_{F}}{p - c_{v}}$$
-
-El problema y su resolución se ha presentado en la siguiente figura. En
-ella se supone que el precio de adquisición es superior al coste
-variable unitario, si no fuera así la compra sería preferible cualquiera
-que fuera el valor de $P$. El cociente $\frac{C_{F}}{p - c_{v}}$
-determina el nivel mínimo de unidades anuales necesarias para que la
-decisión de producción sea preferible a la de compra.
-
-![](./assets/images/image21.png){width="4.1753554243219595in"
-height="2.5466076115485565in"}
-
-Figura . Resolución gráfica del problema de producir o comprar
+Consultar [la chuleta de producir o comprar](./chuletas/producir_comprar.md).
 
 La dirección de la producción: objetivos y principales tipos de decisiones
 --------------------------------------------------------------------------
 
-***Principales objetivos de la dirección de la producción:*** hacen
-referencia a los costes, la productividad, la calidad, la fiabilidad y
-la capacidad de adaptación. En términos generales puede decirse que el
-objetivo de la dirección de la producción es minimizar los costes de
-producción, maximizar la productividad de los factores, o ambos,
-cumpliendo los niveles requeridos de calidad, fiabilidad y capacidad de
-adaptación.
+***Principales objetivos de la dirección de la producción.*** Hacen referencia a:
 
-***Clasificación de las decisiones tomadas en el ámbito de la
-producción:*** se pueden clasificar con arreglo a muy diversos
-criterios.
+1. Costes
+1. Productividad
+1. Calidad
+1. Fiabilidad
+1. Capacidad de adaptación
 
--   **Agrupación funcional:** distingue entre decisiones de proceso, de
-    capacidad productiva, de inventarios, de recursos humanos y de
-    calidad.
+Los objetivos principales de la misma son:
 
--   Agrupación que diferencia entre **decisiones estratégicas y
-    decisiones tácticas**: las primeras afectan a la empresa durante un
-    período de tiempo largo, durante el cual son irreversibles. Las
-    decisiones tácticas son más cotidianas y su efecto se extiende sobre
-    un período breve de tiempo.
+1. Minimizar los costes de producción
+1. Maximizar la productividad de los factores cumpliendo los niveles requeridos de:
+    1. Calidad
+    1. Fiabilidad
+    1. Capacidad de adaptación
 
-***Decisiones de proceso:*** son todas las que se relacionan con el
-diseño del proceso físico de producción. Estas decisiones requieren una
-gran coordinación entre el departamento de producción y el de marketing.
-Constituyen decisiones estratégicas la selección del tipo de proceso de
-producción y de los equipos productivos. Son decisiones tácticas las
-referentes al orden del flujo de procesos y las de mantenimiento y
-conservación de los equipos.
+***Clasificación de las decisiones tomadas en el ámbito de la producción.*** Se pueden clasificar en:
 
-***Decisiones de capacidad:*** tienen por objetivo que la empresa cuente
-con la capacidad de producción adecuada: ni excesiva ni escasa. Son
-decisiones estratégicas las relativas a la determinación del tamaño de
-las instalaciones, a su localización y al establecimiento del nivel de
-recursos humanos. Son tácticas las decisiones referentes a la
-utilización de horas extraordinarias, a la negociación de subcontratas y
-a la programación de las actividades.
+- **Agrupación funcional.** Distingue entre decisiones de:
+
+1. Proceso
+1. Capacidad productiva
+1. Inventarios
+1. Recursos humanos
+1. Calidad
+
+- Agrupación que diferencia entre:
+
+**Decisiones estratégicas**. Afectan a la empresa durante un período de tiempo largo, durante el cual son irreversibles.
+**Decisiones tácticas**. Son más cotidianas y su efecto se extiende sobre un período breve de tiempo.
+
+***Decisiones de proceso.*** Todas las que se relacionan con el diseño del proceso físico de producción:
+
+1. Requieren una gran coordinación entre el departamento de producción y el de marketing.
+1. La selección del tipo de proceso de producción y equipos productivos son **decisiones estratégicas**.
+1. Son decisiones tácticas:
+    1. El orden del flujo de procesos.
+    1. Las de mantenimiento y conservación de los equipos.
+
+***Decisiones de capacidad:*** tienen por objetivo que la empresa cuente con la capacidad de producción adecuada: ni excesiva ni escasa. Son decisiones estratégicas las relativas a la determinación del tamaño de las instalaciones, a su localización y al establecimiento del nivel de recursos humanos. Son tácticas las decisiones referentes a la utilización de horas extraordinarias, a la negociación de subcontratas y a la programación de las actividades.
 
 ***Decisiones en materia logística:*** son las decisiones estratégicas
 relativas a la fijación del tamaño general de los almacenes y al diseño
