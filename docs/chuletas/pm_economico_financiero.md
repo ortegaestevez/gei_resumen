@@ -56,3 +56,5 @@ PMF &= PM - PM_p &&= 365 \cdot ( a / A + c / C + v / V + e / E - p / P )
 
 - $PM$ - Periodo medio de maduración **ECONÓMICO**
 - $PMF$ - Periodo medio de maduración **FINANCIERO**
+
+[Ir a la teoría de esta chuleta](../tema_06.md#pmm_economico_financiero)

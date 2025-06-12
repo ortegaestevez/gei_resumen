@@ -1,8 +1,7 @@
 Tema 6: Elementos financieros
-=============================
+===========================
 
-Introducción
-------------
+## Introducción
 
 **Conjunto de bienes y derechos de la empresa.** Resultado del proceso de realización de inversiones que ha desarrollado a lo largo del tiempo.
 
@@ -12,8 +11,7 @@ Introducción
 
 ***Estructura económico-financiera de la empresa.*** Conjunto de la estructura económica y de la estructura financiera.
 
-El balance: conceptos básicos
------------------------------
+## El balance: conceptos básicos
 
 ***Balance.*** Documento financiero en el que se detallan las inversiones que la empresa ha ido realizando a lo largo de su existencia y las fuentes de financiación de esas inversiones. Consta de dos partes:
 
@@ -49,8 +47,7 @@ Si una empresa en un año concreto:
 
 ***Dividendos.*** Cantidades que, como beneficios anuales de la empresa, se reparten a los socios.
 
-El objetivo financiero de la empresa
-------------------------------------
+## El objetivo financiero de la empresa
 
 ***Objetivo financiero primario.*** Maximizar la riqueza de sus accionistas por su vinculación a la empresa, es decir, maximizar el precio de la acción. Se toma este objetivo porque:
 
@@ -60,8 +57,7 @@ El objetivo financiero de la empresa
 
 Aunque una empresa no cotice en Bolsa, su objetivo debe ser el mismo: maximizar el precio que tendría la acción si la tuviera y cotizara en el mercado.
 
-Factores de los que depende el precio de la acción. Las decisiones financieras de la empresa
---------------------------------------------------------------------------------------------
+## Factores de los que depende el precio de la acción. Las decisiones financieras de la empresa
 
 En cuanto al precio de las acciones debe considerarse:
 
@@ -85,13 +81,12 @@ Factores influyentes en las decisiones financieras:
 
     La mejor política de dividendos es la que maximiza el precio de la acción. Las decisiones de política de dividendos afectan al pasivo.
 
-La medida de la rentabilidad
-----------------------------
+<a id="medida_rentabilidad"></a>
+## La medida de la rentabilidad
 
 Ver [la chuleta de la medida de la rentabilidad](./chuletas/medida_rentabilidad.md).
 
-El equilibrio económico-financiero de la empresa y el fondo de rotación o maniobra
-----------------------------------------------------------------------------------
+## El equilibrio económico-financiero de la empresa y el fondo de rotación o maniobra
 
 La composición del:
 
@@ -137,8 +132,7 @@ El fondo de maniobra se puede definir como:
 
 $$FM = A_{C} - P_{C} = CP - A_{F}$$
 
-Los ciclos de actividad de la empresa y el período medio de maduración
-----------------------------------------------------------------------
+## Los ciclos de actividad de la empresa y el período medio de maduración
 
 ***Ciclo de explotación, ciclo corto o ciclo dinero-mercancías-dinero.*** Se corresponde con el de los bienes del activo circulante. Está formado por el proceso en el que se:
 
@@ -159,8 +153,8 @@ Recuperando fondos de dinero con los que retribuir a los factores de producción
 
 ***Ciclo largo, ciclo de amortizaciones o ciclo de depreciación.*** Ciclo al que está sometido el activo fijo. La adquisición de este tipo de bienes, por ejemplo, maquinaria, supone una inversión que se irá depreciando a lo largo del tiempo, hasta el momento en que se reemplace por otra.
 
-Las fases del ciclo de explotación y el período medio de maduración económicoy financiero
------------------------------------------------------------------------------
+<a id="pmm_economico_financiero"></a>
+## Las fases del ciclo de explotación y el período medio de maduración económicoy financiero
 
 Para ver todas las fórmulas referentes a este apartado, consulta [la chuleta](./chuletas/pm_economico_financiero.md).
 
@@ -179,8 +173,7 @@ El período de maduración económico es el tiempo promedio que tarda en recuper
 - La reducción del período medio de cobro da lugar a una menor necesidad de capitales inmovilizados en créditos sobre terceros.
 - Si la producción y venta anual se mantienen y la duración del ciclo de explotación se reduce, se reducirá también la necesidad de activos de la empresa, porque éstos rotan más rápidamente y, consiguientemente, se precisarán menos recursos financieros, incrementándose así la rentabilidad de la empresa.
 
-El cálculo del fondo de maniobra mínimo o necesario
----------------------------------------------------
+## El cálculo del fondo de maniobra mínimo o necesario
 
 ### Modelo analítico
 
@@ -238,8 +231,7 @@ FM &= PM \cdot \left( sp_{s} + mp_{m} + gp_{g} \right) - \left( x_{s} \cdot s \c
 &= s \cdot p_{s} \cdot \left( PM - x_{s} \right) + m \cdot p_{m} \cdot \left( PM - x_{m} \right) + g \cdot p_{g} \cdot \left( PM - x_{g} \right)
 \end{align*}
 
-El punto muerto
----------------
+## El punto muerto
 
 ***Punto muerto o umbral de rentabilidad***. Volumen de ventas, en unidades físicas, que hace el beneficio operativo igual a cero y a partir del cual comienza a ser positivo.
 
@@ -286,8 +278,7 @@ $$m \cdot X = C_{F}$$
 
 El riesgo también depende de la relación existente entre los costes fijos y los variables.
 
-Los ratios como instrumento de análisis de la estructura económico-financiera de la empresa
--------------------------------------------------------------------------------------------
+## Los ratios como instrumento de análisis de la estructura económico-financiera de la empresa
 
 ***Ratios de situación.*** Permiten estudiar cómo se distribuyen el activo y el pasivo. Se obtienen a partir de los datos del Balance y por tanto tienen un carácter estático: se refieren a un momento del tiempo. Las variables que usan son las siguientes:
 

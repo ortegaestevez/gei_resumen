@@ -15,3 +15,5 @@ Elaborar cuando:
 - $c_{v}$ - coste variable asociado a la producción de una unidad.
 - $C_{F}$ - costes fijos anuales necesarios para acometer la elaboración del bien o servicio.
 - $P$ - número de unidades necesarias al año.
+
+[Ir a la teoría de esta chuleta](../tema_09.md/#producir_comprar)

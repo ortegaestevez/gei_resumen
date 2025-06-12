@@ -1,13 +1,14 @@
 site_name: Resumen de Gestión de Empresas Informáticas
 site_url: https://ortegaestevez.github.io/resumen_gei
 repo_name: ortegaestevez/gei_resumen
-
 nav:
     - Introducción: 'index.md'
     - Chuletas:
         - Periodo Medio de Maduración Económico y Financiero: 'chuletas/pm_economico_financiero.md'
         - Medida de la Rentabilidad: 'chuletas/medida_rentabilidad.md'
         - La decisión de producir o comprar: 'chuletas/producir_comprar.md'
+        - Direct Costing: 'chuletas/direct_costing.md'
+        - Costes estándares: 'chuletas/costes_estandares.md'
     - Tema 1. Empresa y empresario: 'tema_01.md'
     - Tema 2. Proceso de dirección de la empresa: 'tema_02.md'
     - Tema 3. La dirección de los recursos humanos: 'tema_03.md'
@@ -39,7 +40,12 @@ theme:
       toggle:
         icon: material/weather-night
         name: Cambiar a modo claro
+  features:
+    - content.action.view
+    - content.action.edit
+    - navigation.path
 repo_url: https://github.com/ortegaestevez/gei_resumen
+edit_uri: edit/main/docs
 
 markdown_extensions:
   - def_list

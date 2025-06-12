@@ -1,8 +1,7 @@
-Tema 9: Elementos productivos. El proceso de producción y el factor humano
-==========================================================================
+ Tema 9: Elementos productivos. El proceso de producción y el factor humano
+===========================================================================
 
-Introducción
-------------
+## Introducción
 
 ***Función productiva.*** Empleo de factores humanos y materiales para la elaboración de bienes y la prestación de servicios.
 
@@ -32,13 +31,12 @@ Introducción
     1. El mercado lo debe aceptar 
     1. Ha de ser producido económicamente.
 
-La primera decisión: producir o comprar
----------------------------------------
+<a id="producir_comprar"></a>
+## La primera decisión: producir o comprar
 
 Consultar [la chuleta de producir o comprar](./chuletas/producir_comprar.md).
 
-La dirección de la producción: objetivos y principales tipos de decisiones
---------------------------------------------------------------------------
+## La dirección de la producción: objetivos y principales tipos de decisiones
 
 ***Principales objetivos de la dirección de la producción.*** Hacen referencia a:
 
@@ -68,8 +66,8 @@ Los objetivos principales de la misma son:
 
 - Agrupación que diferencia entre:
 
-**Decisiones estratégicas**. Afectan a la empresa durante un período de tiempo largo, durante el cual son irreversibles.
-**Decisiones tácticas**. Son más cotidianas y su efecto se extiende sobre un período breve de tiempo.
+    - **Decisiones estratégicas**. Afectan a la empresa durante un período de tiempo largo, durante el cual son irreversibles.
+    - **Decisiones tácticas**. Son más cotidianas y su efecto se extiende sobre un período breve de tiempo.
 
 ***Decisiones de proceso.*** Todas las que se relacionan con el diseño del proceso físico de producción:
 
@@ -79,201 +77,120 @@ Los objetivos principales de la misma son:
     1. El orden del flujo de procesos.
     1. Las de mantenimiento y conservación de los equipos.
 
-***Decisiones de capacidad:*** tienen por objetivo que la empresa cuente con la capacidad de producción adecuada: ni excesiva ni escasa. Son decisiones estratégicas las relativas a la determinación del tamaño de las instalaciones, a su localización y al establecimiento del nivel de recursos humanos. Son tácticas las decisiones referentes a la utilización de horas extraordinarias, a la negociación de subcontratas y a la programación de las actividades.
+***Decisiones de capacidad.*** Tienen por objetivo que la empresa cuente con la capacidad de producción adecuada: ni excesiva ni escasa. Son decisiones:
 
-***Decisiones en materia logística:*** son las decisiones estratégicas
-relativas a la fijación del tamaño general de los almacenes y al diseño
-de un sistema de control de inventarios. Son tácticas las decisiones
-sobre cuánto y cuándo ordenar en cada pedido.
+- **Estratégicas** las relativas a:
 
-***Decisiones de recursos humanos:*** tratan de optimizar el
-comportamiento de este factor en la producción. Constituyen decisiones
-estratégicas las referentes al diseño del puesto de trabajo y a la
-selección de un sistema de incentivos. Son decisiones tácticas las del
-control cotidiano y las de fijación de estándares de trabajo y
-rendimientos.
+    - Determinación del tamaño de las instalaciones y su localización
+    - Establecimiento del nivel de recursos humanos
 
-***Decisiones en materia de calidad:*** son estratégicas las decisiones
-de fijación de estándares de calidad y las referentes a la determinación
-de la estructura organizativa que permite optimizar la calidad. Son
-tácticas las decisiones sobre selección de muestras de control y las que
-han de tomarse en el control cotidiano que se realiza para comprobar el
-grado de cumplimiento de los estándares.
+- **Tácticas** las relativas a:
 
-Principales diferencias entre la elaboración de bienes y la producción de servicios
------------------------------------------------------------------------------------
+    - Utilización de horas extraordinarias
+    - Negociación de subcontratas
+    - Programación de las actividades
 
-***Producto:*** resultado del proceso productivo que pude ser un bien o
-un servicio.
+***Decisiones en materia logística.***
 
-***Bien:*** unidad tangible que puede almacenarse, transformarse
-físicamente y transportarse.
+- **Estratégicas** las relativas a:
 
-***Servicio:*** producto intangible que no es susceptible de ser
-almacenado ni transportado.
+    - Fijación del tamaño general de los almacenes
+    - Diseño de un sistema de control de inventarios
 
-***Diferencias en la dirección de producción de bienes y servicios:***
+- **Tácticas** las relativas a cuánto y cuándo ordenar en cada pedido.
 
-1.  **Inventarios y capacidad de producción.** Cuando la demanda se
-    reduce, el productor de bienes puede seguir utilizando toda su
-    capacidad de producción almacenando los productos que no se venden.
-    En los períodos en los que la demanda supera su capacidad de
-    producción puede atenderla con los bienes almacenados. Esta
-    flexibilidad que proporcionan los inventarios no la tiene el
-    productor de servicios, pues estos son como bienes extremadamente
-    perecederos. Por tanto, el productor de servicios debe prever la
-    demanda con mucha precisión. Si la demanda fuera muy inferior a su
-    capacidad de producción, incurriría en costes innecesarios. Si, por
-    el contrario, la demanda superara a su capacidad, no podría atender
-    el exceso.
+***Decisiones de recursos humanos.*** Tratan de optimizar el comportamiento de este factor en la producción.
 
-2.  **Medida de la calidad.** Debido a la naturaleza intangible de los
-    servicios, al productor le resulta difícil controlar su calidad y
-    también es difícil que el cliente la mida. Por ello, habitualmente
-    se considera que la reputación del productor de servicios depende
-    más de su imagen que de la calidad de sus productos.
+- **Estratégicas** las relativas a:
+    - Diseño del puesto de trabajo
+    - Selección de un sistema de incentivos
+- **Tácticas** las relativas a:
+    - Control cotidiano
+    - Fijación de estándares de trabajo y rendimientos
 
-3.  **Dispersión de los centros de producción.** El fabricante de bienes
-    puede centralizar su producción en un lugar y distribuir
-    posteriormente sus productos transportándolos a donde se encuentran
-    los consumidores. Por el contrario, el productor de servicios está
-    obligado a dispersar geográficamente sus instalaciones si desea
-    atender a consumidores situados en diversos lugares.
+***Decisiones en materia de calidad.***
 
-4.  **Integración entre producción y marketing.** En la producción de
-    bienes suele existir cierta distancia entre el productor y el
-    consumidor. Entre ellos median una serie de intermediarios que
-    forman el canal de distribución. Puesto que son estos intermediarios
-    quienes se encuentran más próximos al consumidor final, tiene gran
-    importancia la promoción que ellos realizan de los productos de la
-    empresa fabricante. Sin embargo, en el caso de los servicios la
-    relación entre el cliente y el fabricante es inmediata y esa
-    promoción la efectúan los empleados del productor. En general, la
-    integración que existe entre las actividades de marketing y
-    producción es mayor en la producción de servicios.
+- **Estratégicas** las relativas a:
+    - fijación de estándares de calidad 
+    - determinación de la estructura organizativa que permite optimizar la calidad
+- **Tácticas** las relativas a:
+    - selección de muestras de control
+    - control cotidiano realizado para comprobar el grado de cumplimiento de los estándares
 
-Los costes de producción y su control
--------------------------------------
+## Principales diferencias entre la elaboración de bienes y la producción de servicios
+
+***Producto.*** Resultado del proceso productivo que pude ser un bien o un servicio.
+
+***Bien.*** Unidad tangible que puede almacenarse, transformarse físicamente y transportarse.
+
+***Servicio.*** Producto intangible que no es susceptible de ser almacenado ni transportado.
+
+***Diferencias en la dirección de producción de bienes y servicios.*** Son las siguientes 4:
+
+1. **Inventarios y capacidad de producción.** Cuando la demanda:
+
+    1. **Se reduce.** El productor de bienes puede seguir utilizando toda su capacidad de producción almacenando los productos que no se venden.
+    1. **Supera su capacidad de producción.** Puede atenderla con los bienes almacenados.
+    1. **Es muy inferior a su capacidad de producción.** Incurre en costes innecesarios.
+    1. **Supera la capacidad de producción.** No se puede atender el exceso.
+
+    Esta flexibilidad que proporcionan los inventarios no la tiene el productor de servicios porque son como bienes extremadamente perecederos. El productor de servicios debe prever la demanda con mucha precisión.
+
+2. **Medida de la calidad.** Debido a la naturaleza intangible de los servicios:
+    1. Al productor le resulta difícil controlar su calidad
+    2. Al cliente le resulta difícil medir su calidad
+
+    Por eso se suele considerar que la reputación del productor de servicios depende más de su imagen que de la calidad de sus productos.
+
+3. **Dispersión de los centros de producción:**
+    - **El fabricante de bienes.** Puede centralizar su producción en un lugar y distribuir posteriormente sus productos transportándolos a donde se encuentran los consumidores.
+    - **El productor de servicios.** Está obligado a dispersar geográficamente sus instalaciones si desea atender a consumidores situados en diversos lugares.
+4. **Integración entre producción y marketing:**
+    - En la producción de bienes suele existir cierta distancia entre el productor y el consumidor; entre ellos hay una serie de intermediarios que forman el canal de distribución. Puesto que son ellos los que están más próximos al consumidor final, es importante la promoción que hagan de los productos de la empresa fabricante.
+    - En el caso de los servicios la relación entre el cliente y el fabricante es inmediata y esa promoción la efectúan los empleados del productor.
+
+## Los costes de producción y su control
 
 ***Clasificación de los costes:***
 
--   Costes variables.
-
--   Costes fijos:
-
-    -   Inactividad.
-
-    -   Puesta en marcha.
+- Costes variables.
+- Costes fijos:
+    - Inactividad.
+    - Puesta en marcha.
 
 ***Sistemas de producción:***
 
--   **Simples:** el output es solo un producto de características
-    técnicas homogéneas.
+- **Simples.** El output es un solo producto de características técnicas homogéneas[^1].
+- **Múltiple, compuesta o conjunta.** Se obtienen varios productos o parte del proceso es común a varios productos.
 
--   **Múltiple:** compuesta o conjunta: se obtienen varios productos o,
-    al menos, parte del proceso es común a varios productos.
+[^1]: Quiere decir que cada unidad del producto es exactamente la misma, no hay customizaciones o diferenciación en la línea de produción y el proceso de producción está estandarizado.
 
-***Imputación de los costes:*** es de suma importancia para la
-distribución del beneficio del ejercicio entre los distintos productos
-que contribuyan a su formación y para un apropiado control de los
-costes. Hay dos técnicas de imputación principales:
+***Imputación de los costes.*** Proceso para la distribución del beneficio del ejercicio entre los distintos productos que contribuyan a su formación y para un apropiado control de los costes. Hay dos técnicas de imputación principales:
 
--   ***Full-costing:*** los costes fijos se distribuyen entre los
-    productos prorrateándolos en proporción a sus costes variables
-    totales o a los costes de los materiales que llevan incorporados.
+- **Full-costing.** Los costes fijos se distribuyen entre los productos prorrateándolos[^2] en proporción a sus costes variables totales o a los costes de los materiales que llevan incorporados.
+<a id="direct_costing"></a>
+- **Direct costing.** A cada producto $j$ se le imputa como precio de coste solamente su coste variable. Consulta [la chuleta de direct costing](./chuletas/direct_costing.md) para ver las fórmulas relacionadas con esta técnica.
 
--   ***Direct costing:*** a cada producto $j$ se le imputa como precio
-    de coste solamente su coste variable. A la diferencia entre el
-    precio de venta, $p_{j}$, y el coste variable unitario, $c_{v_{j}}$,
-    se le denomina **margen unitario bruto**.
+[^2]: Prorratear es dividir o repartir una cantidad de forma proporcional entre varios elementos, conceptos o períodos.
 
-$$m_{j} = p_{j} - c_{v_{j}}$$
+<a id="costes_estandares"></a>
+***Costes estándares.*** Forma de control de costes más importante y difundida. Consulta la [chuleta de costes estándares](./chuletas/costes_estandares.md) para ver las fórmulas relacionadas.
 
-> Al multiplicar el margen unitario bruto por las unidades físicas
-> vendidas, $P_{j}$, se obtiene el **margen bruto total del producto**:
+## La medida de la productividad
 
-$$MB_{j} = m_{j} \cdot P_{j}$$
+***Productividad.*** Relación entre la producción de un periodo y la cantidad de recursos consumidos para alcanzarla.
 
-> Sumando los márgenes brutos de los diversos productos, se obtiene el
-> **margen bruto de la empresa**, del que, finalmente, se deducen los
-> costes fijos, $C_{F}$, para determinar el margen de beneficio neto.
+***Productividad global.*** Cociente entre su producción total (la de todos los productos) y la totalidad de los factores utilizados para alcanzarla.
 
-$$MB = MB_{1} + MB_{2} + \ldots + MB_{n}$$
+La única dificultad para calcular la productividad global es que los diferentes factores y los distintos productos son heterogéneos y, por tanto, sus cantidades físicas no son sumables. Por ello, la producción total y la cantidad total de factores empleados se han de valorar en unidades monetarias.
 
-$$MN = MB - C_{F}$$
-
-***Costes estándares:*** es la forma de control de costes más importante
-y difundida. Suponiendo que se trata de un sistema de producción simple
-y denominando:
-
--   $P$: cantidad de producción en unidades físicas.
-
--   $F$: consumo del factor cuyo coste se desea controlar en unidades
-    físicas.
-
--   $f$: precio de cada una de las unidades físicas del factor cuyo
-    coste se desea controlar.
-
--   $s$: subíndice empleado para la previsión (o estándar).
-
--   $r$: subíndice para hacer referencia al valor real o efectivo.
-
-Se denomina **desviación total**, $\text{DT}$, a la diferencia entre el
-coste real y el coste previsto correspondiente a la producción real:
-
-$$DT = x_{r} \cdot P_{r} \cdot f_{r} - x_{s} \cdot P_{r} \cdot f_{s} = P_{r} \cdot \left( x_{r} \cdot f_{r} - x_{s} \cdot f_{s} \right)$$
-
-El importe situado entre paréntesis es la desviación que existe por cada
-unidad de producto: se preveía consumir $x_{s}$ unidades físicas a
-$f_{s}$ u.m. cada una, y realmente se ha consumido $x_{r}$ u.f., cada
-una de las cuales costó $f_{r}$ u.m.
-
-***Causas de la desviación:*** la variación respecto al estándar que se
-ha producido en el precio del factor, y la habida en la cantidad de
-factor aplicado por cada unidad de producto elaborada:
-
--   Desviación en precios o económica:
-
-$$DP = \left( f_{r} - f_{s} \right) \cdot F_{r} = \left( f_{r} - f - s \right) \cdot x_{r} \cdot P_{r}$$
-
--   Desviación en cantidades o técnica:
-
-$$DC = \left( F_{r} - x_{s} \cdot P_{r} \right) \cdot f_{s} = \left( x_{r} \cdot P_{r} - x_{s} \cdot P_{r} \right) \cdot f_{s} = \left( x_{r} - x_{s} \right) \cdot P_{r} \cdot f_{s}$$
-
-Sumando la desviación en precios y la desviación en cantidades se
-obtiene la desviación total.
-
-Este análisis se realiza para cada uno de los factores de producción.
-
-La medida de la productividad
------------------------------
-
-***Productividad:*** es la relación entre la producción de un periodo y
-la cantidad de recursos consumidos para alcanzarla.
-
-***Productividad global:*** es el cociente entre su producción total (la
-de todos los productos) y la totalidad de los factores utilizados para
-alcanzarla. La única dificultad para calcular la productividad global es
-que los diferentes factores y los distintos productos son heterogéneos
-y, por tanto, sus cantidades físicas no son sumables. Por ello, la
-producción total y la cantidad total de factores empleados se han de
-valorar en unidades monetarias. Para poder efectuar comparaciones entre
-la productividad de un período y la de otro, sin que las oscilaciones de
-los precios de los factores y de los productos influyan en los
-resultados, las valoraciones han de efectuarse aplicando precios
-constantes.
+Para poder efectuar comparaciones entre la productividad de un período y la de otro, sin que las oscilaciones de los precios de los factores y de los productos influyan en los resultados, las valoraciones han de efectuarse aplicando precios constantes.
 
 Denominando:
 
--   $P_{j}$: número de unidades físicas elaboradas del producto $j$ en
-    período$0$, y $p_{j}$ a su precio unitario en ese periodo.
-
--   $F_{i}$: cantidad utilizada del factor $i$ en el periodo $0$ (en
-    unidades físicas), y $f_{i}$ a su coste unitario en ese periodo.
-
--   $\Delta$: variación positiva o negativa experimentada por la
-    variable ante la que se sitúa este símbolo en el período $1$
-    respecto al periodo $0$.
+- $P_{j}$: número de unidades físicas elaboradas del producto $j$ en período$0$, y $p_{j}$ a su precio unitario en ese periodo.
+- $F_{i}$: cantidad utilizada del factor $i$ en el periodo $0$ (en unidades físicas), y $f_{i}$ a su coste unitario en ese periodo.
+- $\Delta$: variación positiva o negativa experimentada por la variable ante la que se sitúa este símbolo en el período $1$ respecto al periodo $0$.
 
 Si la empresa utiliza $m$ factores para elaborar $n$ productos,
 efectuando las valoraciones con los precios $0$ ($p_{i}$ y $f_{i}$), la
@@ -318,8 +235,7 @@ global pude calcularse de este modo. Posteriormente, la tasa de
 productividad global se calcula como diferencia entre el $\text{IPG}$ y
 la unidad.
 
-La calidad
-----------
+## La calidad
 
 ***Calidad:*** grado de adecuación del producto para el uso al que se le
 destina. La adecuada planificación y control de la calidad requiere el
@@ -377,8 +293,7 @@ aboga por la realización de los esfuerzos motivacionales precisos para
 elaborar bien el producto desde el principio, para no tener que corregir
 posteriormente los errores, dado el coste que ello supone.
 
-Principales tipos de procesos de producción y alternativas tecnológicas
------------------------------------------------------------------------
+## Principales tipos de procesos de producción y alternativas tecnológicas
 
 ***Criterios de clasificación de los procesos de producción:***
 
@@ -476,14 +391,13 @@ precisos para el mantenimiento de una producción mecanizada o
 automática, provoca unos gastos que solo se compensan con unos ingresos
 elevados, lo cual requiere un alto nivel de demanda.
 
-Los bienes de equipo
---------------------
+## Los bienes de equipo
 
 Las principales decisiones que atañen a los equipos de producción son
 las concernientes a su selección, a la determinación de su duración a su
 amortización y a su mantenimiento.
 
-### Las decisiones de selección
+#### Las decisiones de selección
 
 La principal característica de los bienes de equipo es que constituyen
 **inversiones de renovación o reemplazo**, es decir, inversiones que han
@@ -517,7 +431,7 @@ Por tanto, son aplicables tanto el criterio del valor actual neto como
 el del tipo de rendimiento interno. Además, el tipo de descuento no
 tiene necesariamente que ser el mismo para los dos equipo alternativos.
 
-### La duración óptima
+#### La duración óptima
 
 ***Vida técnica de un equipo:*** duración potencial, es decir, aquel
 periodo de tiempo durante el cual puede ser útil y producir normalmente.
@@ -580,7 +494,7 @@ La duración óptima de este enfoque es aquella para la cual es mínimo el
 coste total, que es el resultado de sumar los costes crecientes y los
 decrecientes. Al coste total mínimo se le denomina **mínimo adverso**.
 
-### La amortización
+#### La amortización
 
 Los bienes de equipo se deprecian (pierden valor) por estos motivos:
 
@@ -689,7 +603,7 @@ $$V_{r} = V_{0} \cdot \left( 1 - t \right)^{n}$$
 
 $$t = 1 - \left\lbrack \frac{V_{r}}{V_{0}} \right\rbrack^{\frac{1}{n}}\ $$
 
-### El mantenimiento
+#### El mantenimiento
 
 ***Mantenimiento:*** función cuyo objetivo es minimizar el tiempo
 durante el cual se interrumpe el proceso de producción o su calidad
@@ -736,8 +650,7 @@ de mantenimiento:
     encuentran muy distantes y es primordial la rapidez de la
     intervención.
 
-El análisis del flujo del proceso
----------------------------------
+## El análisis del flujo del proceso
 
 ***Gráfico del flujo del proceso:*** incluye todas las fases por las que
 va pasando un material, especificándose, en cada una de ellas, si se
@@ -801,8 +714,7 @@ flujo de información requerido por el control administrativo del
 proceso, realizándose éste de forma semejante a la de aquél, sin más que
 sustituir materiales por documentos.
 
-La distribución de la planta
-----------------------------
+## La distribución de la planta
 
 ***Disposición por procesos***: las diversas funciones se realizan
 físicamente en lugares diferentes e inalterables, y los distintos
@@ -831,8 +743,7 @@ que en los externos se colocan los menos utilizados.
 otra en cada fase, o que toman elementos característicos de cada
 disposición en las distintas etapas.
 
-Principios en la dirección de la fuerza de trabajo
---------------------------------------------------
+## Principios en la dirección de la fuerza de trabajo
 
 ***Fuerza de trabajo:*** factor humano en la producción.
 
@@ -874,8 +785,7 @@ Principios en la dirección de la fuerza de trabajo
     responsabilidades que comportan y las tareas que los integran, y que
     estas descripciones se actualicen con cierta frecuencia.
 
-La organización del trabajo
----------------------------
+## La organización del trabajo
 
 ***Organización del trabajo:*** consiste en la síntesis de una serie de
 tareas o actividades para conformar un puesto de trabajo que se asigna a
@@ -883,7 +793,7 @@ un trabajador o a un grupo de trabajadores, especificándose así el
 contenido del puesto de trabajo y las responsabilidades de quienes lo
 desempeñan.
 
-### El enfoque sociotécnico
+#### El enfoque sociotécnico
 
 El enfoque sociotécnico para la organización y diseño del trabajo
 consiguió su reconocimiento gracias a una serie de estudios realizados
@@ -928,7 +838,7 @@ de una gran maquinaria.
 perspectiva exclusivamente técnica, ignorando las restricciones
 sociales.
 
-### La Escuela de la Dirección Científica
+#### La Escuela de la Dirección Científica
 
 La **Escuela de la Dirección Científica** se inició con los estudios
 realizados por Frederick W. Taylor en la Midvale Steel Company en 1882.
@@ -1001,7 +911,7 @@ La aplicación de los métodos de la Escuela de la Dirección Científica es
 posible, pero no con tanta rigidez como la preconizada por Taylor y sus
 seguidores.
 
-### El enfoque del enriquecimiento del puesto de trabajo
+#### El enfoque del enriquecimiento del puesto de trabajo
 
 Los cinco factores de motivación en el trabajo, a los que algunos
 autores denominan **ejes centrales del trabajo** son los siguientes:
@@ -1064,8 +974,7 @@ antes de enriquecerlos. El estudio debe seguir las siguientes fases:
     les satisfagan. Las alternativas son no enriquecer el trabajo, o
     enriquecerlo y transferir a esos trabajadores a otros puestos.
 
-El estudio de métodos y la medición del trabajo
------------------------------------------------
+## El estudio de métodos y la medición del trabajo
 
 ***Estudio de métodos y medición del trabajo:*** constituyen las dos
 áreas de lo que clásicamente se denomina estudio del trabajo, que
@@ -1074,7 +983,7 @@ factores físicos que influyen en él o introducir mejores para
 simplificarle, con el objetivo último de aumentar la productividad a
 corto plazo.
 
-### El estudio de métodos de trabajo
+#### El estudio de métodos de trabajo
 
 Un **estudio de los métodos de trabajo** debe seguir las siguientes
 fases:
@@ -1173,7 +1082,7 @@ cronológico y en una misma escala de tiempo, de las tareas que realizan
 los distintos trabajadores (**diagrama de equipo**) o el trabajador y
 las máquinas (**diagrama hombre-máquina**).
 
-### La medición del trabajo
+#### La medición del trabajo
 
 ***Medición del trabajo:*** consiste en un conjunto de técnicas cuyo
 principal objetivo es determinar el tiempo requerido para realizar una
@@ -1234,8 +1143,7 @@ encuentra en estado de inactividad o actividad. Se requiere que el
 número de observaciones sea bastante elevado y que los momentos en los
 que se realicen se seleccionen aleatoriamente.
 
-Sistemas de remuneración por incentivos
----------------------------------------
+## Sistemas de remuneración por incentivos
 
 Se supone que un trabajador tarda $t$ unidades de tiempo (u.t.) en
 realizar la tarea. Si cada u.t. de trabajo se remunera a $s_{0}$ u.m.,

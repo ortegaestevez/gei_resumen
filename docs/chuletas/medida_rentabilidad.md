@@ -1,3 +1,7 @@
+---
+hide:
+    - toc
+---
 <div class="grid" markdown>
 <div markdown>
 1. $BE$ - **Beneficio económico, operativo, de explotación o bruto**. Generado por los activos de la empresa: sus inversiones. No depende de la estructura financiera de la empresa.
@@ -24,7 +28,6 @@
 - $b$ - Coeficiente de reparto (proporción del beneficio líquido distribuido como dividendo).
 </div>
 </div>
-
 <div class="grid" markdown>
 <div markdown>
 \begin{align*}
@@ -42,3 +45,5 @@ R_B &= \frac{D}{P \cdot N} = \frac{BL \cdot b}{P \cdot N}
 \end{align*}
 </div>
 </div>
+
+[Ir a la teoría de esta chuleta](../tema_06.md#medida_rentabilidad)
