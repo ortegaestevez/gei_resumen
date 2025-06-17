@@ -3,7 +3,7 @@ Resumen de la asignatura Gestión de Empresas informáticas (GEI) de la UNED, en
 Para hacer el contenido se ha usado:
 
 - [Otro resumen hecho por Cristina Otero Rodríguez](https://t.me/c/1091335122/2010) ([crisuni88](https://github.com/crisluni88)), una antigua alumna de la asignatura. Para acceder al mismo es necesario que estés en el grupo de Telegram de la asignatura.
-- Una chuleta de la parte práctica de la asignatura, hecha por el usuario @geateo[^1]. Esta chuleta se ha divido en diferentes páginas reunidas dentro del apartado "Chuletas" del resumen.
+- Una chuleta de la parte práctica de la asignatura, hecha por el usuario @geateo (Telegram). Esta chuleta se ha divido en diferentes páginas reunidas dentro del apartado "Chuletas" del resumen.
 
 El resumen del actual proyecto se enfoca en la parte teórica de la asignatura, ya que para la parte práctica conviene hacer los ejercicios del libro complementario[^2]. Las fórmulas, como tal, se consideran dentro de la parte teórica.
 
@@ -41,7 +41,6 @@ En este resumen:
      entre esos mínimos.
 ```
 
-[^1]: No estoy seguro de si sigue existiendo como usuario. El usuario que publicó los documentos firmados como @geateo aparece como "Deleted Account", pero por otra parte existe un usuario llamado @Geateo. Estoy esperando a la respuesta del segundo sobre la autoría de esos documentos.
 [^2]: ISBN: 9788480049702
 
 ## Acceso a los resúmenes

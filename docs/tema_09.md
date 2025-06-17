@@ -709,134 +709,117 @@ El tipo de diagrama que se debe utilizar depende del nivel al que se va a realiz
     - Elegir a la persona que mejor realiza la tarea y tomar su método como estándar. Los demás trabajadores deberán realizar la tarea según su método, y quienes no puedan hacerlo son trasferidos a otras tareas. Este enfoque se atribuye a Taylor.
     - Observar los movimientos de varios trabajadores realizando la misma tarea y elegir de cada operario aquellos aspectos en los que destaca. Las observaciones se realizan mediante la filmación de la tarea y la determinación de los micromovimientos analizando la tarea fotograma a fotograma. Fue ideado por los esposos Gilbreth, quienes denominaron un movimiento elemental como Therblig.
 
-Una vez identificados los movimientos necesarios para realizar una tarea, se representan gráficamente:
+    Una vez identificados los movimientos necesarios para realizar una tarea, se representan gráficamente:
 
-- **Diagrama de operaciones.** Representación de las operaciones necesarias para realizar una tarea mediante la utilización de los símbolos de la A.S.M.E. (Sociedad Americana de Ingenieros Mecánicos):
+    - **Diagrama de operaciones.** Representación de las operaciones necesarias para realizar una tarea mediante la utilización de los símbolos de la A.S.M.E. (Sociedad Americana de Ingenieros Mecánicos):
 
-![](./assets/images/image24.png)
+    ![](./assets/images/image24.png)
 
-*Figura 9.4 Símbolos de la A.S.M.E. para la representación de las operaciones en un diagrama de operaciones*
+    *Figura 9.4 Símbolos de la A.S.M.E. para la representación de las operaciones en un diagrama de operaciones*
 
-- **Simograma.** Representación simultánea para ambas manos en la que se reflejan los movimientos que realizan y los tiempos precisos para efectuarlos. Se comprueba que se cumplen principios de economía de movimientos como que las dos manos no deben estar ociosas al mismo tiempo o que una mano no debe utilizarse como punto de sujeción ya que para ello hay herramientas especiales.
+    - **Simograma.** Representación simultánea para ambas manos en la que se reflejan los movimientos que realizan y los tiempos precisos para efectuarlos. Se comprueba que se cumplen principios de economía de movimientos como que:
+        - Las dos manos no deben estar ociosas al mismo tiempo.
+        - Una mano no debe utilizarse como punto de sujeción ya que para ello hay herramientas especiales.
 
 3. **La interacción del trabajador con otros trabajadores**. El objetivo es minimizar el tiempo ocioso y las interferencias entre trabajadores, utilizando un diagrama de actividades denominado **diagrama de equipo**.
 4. **La interacción del trabajador con la máquina**. El principal objetivo es minimizar el tiempo ocioso tanto del trabajador como de la máquina. Para ello es de gran utilidad otro tipo de diagrama de actividades que es el **diagrama hombre-máquina**.
 
-***Diagrama de actividades:*** representación simultánea por orden cronológico y en una misma escala de tiempo, de las tareas que realizan los distintos trabajadores (**diagrama de equipo**) o el trabajador y las máquinas (**diagrama hombre-máquina**).
+***Diagrama de actividades.*** Representación simultánea por orden cronológico y en una misma escala de tiempo de las tareas que realizan los distintos trabajadores (**diagrama de equipo**) o el trabajador y las máquinas (**diagrama hombre-máquina**).
 
 #### La medición del trabajo
 
-***Medición del trabajo:*** consiste en un conjunto de técnicas cuyo
-principal objetivo es determinar el tiempo requerido para realizar una
-tarea. Las principales técnicas son:
+***Medición del trabajo.*** Conjunto de técnicas cuyo principal objetivo es determinar el tiempo requerido para realizar una tarea. Las principales técnicas son:
 
--   **Estudio de tiempos**. Fue formalizado por Taylor y constituye el
-    método cuantitativo más utilizado en la práctica. Antes de
-    aplicarlo, se ha de dividir el trabajo en sus elementos, desarrollar
-    un método para cada elemento, y seleccionar y entrenar a un
-    trabajador o conjunto de trabajadores. Tras ello, comienza el
-    estudio de tiempos con la repetida medida del tiempo que tarda cada
-    uno de los trabajadores en realizar cada elemento del trabajo.
+- **Estudio de tiempos** ( Formalizado por Taylor ). Constituye el método cuantitativo más utilizado en la práctica; antes de aplicarlo, se:
 
-Se denomina **tiempo observado** **(**$\mathbf{\text{TO}}$**)** de un
-elemento del trabajo a la media aritmética de los tiempos medidos a los
-trabajadores, es decir, es lo que tarda por término medio un trabajador
-bien entrenado, en realizar el elemento en cuestión, sin realizar un
-esfuerzo anormal.
+    1. Divide el trabajo en sus elementos
+    1. Desarrolla un método para cada elemento
+    1. Selecciona y entrenar a un trabajador o conjunto de trabajadores
 
-Un **grado de eficiencia (**$\mathbf{\text{GE}}$**)** del 100%
-representa un ritmo de trabajo normal. Un alto porcentaje de los
-trabajadores debe ser capaz de trabajar a este ritmo.
+Tras ello, comienza el estudio de tiempos con la repetida medida del tiempo que tarda cada uno de los trabajadores en realizar cada elemento del trabajo.
 
-Se denomina **tiempo normalizado (**$\mathbf{\text{TE}}$**)** al
-resultado de multiplicar el tiempo observado por el grado de eficiencia.
-En el cálculo del tiempo normalizado se supone que el operario está
-trabajando constantemente, sin interrupciones debidas a necesidades
-personales o a contratiempos inevitables. Para tener en cuenta estas
-necesidades complementarias de tiempo, el **tiempo estándar
-(**$\mathbf{T}$**)** se calcula añadiendo un **tiempo suplementario
-(**$\mathbf{\text{TS}}$**)** al tiempo normalizado. Generalmente, el
-tiempo suplementario viene determinado como un cierto porcentaje del
-tiempo normalizado:
+1. **Tiempo observado** **(**$\mathbf{\text{TO}}$**)** de un elemento del trabajo. Media aritmética de los tiempos medidos a los trabajadores; lo que tarda de media un trabajador bien entrenado en realizar el elemento en cuestión sin realizar un esfuerzo anormal.
+1. Un **grado de eficiencia (**$\mathbf{\text{GE}}$**)** del 100% representa un ritmo de trabajo normal. Un alto porcentaje de los trabajadores debe ser capaz de trabajar a este ritmo.
+1. **Tiempo normalizado ($\mathbf{\text{TE}}$)**. Resultado de multiplicar el tiempo observado por el grado de eficiencia. Se supone que el operario está trabajando constantemente, sin interrupciones debidas a necesidades personales o a contratiempos inevitables.
+    
+    Para tener en cuenta necesidades complementarias de tiempo del trabajador, se calcular el **tiempo estándar (**$\mathbf{T}$**)** añadiendo un **tiempo suplementario (**$\mathbf{\text{TS}}$**)** al tiempo normalizado. Generalmente, el tiempo suplementario viene determinado como un cierto porcentaje del tiempo normalizado:
 
-$$T = TN + TS = TN + s \cdot TN = TN \cdot (1 + s)$$
+    \begin{align*}
+    T &= TN + TS \\
+    &= TN + s \cdot TN \\
+    &= TN \cdot (1 + s)
+    \end{align*}
 
--   **Tiempos predeterminados**. Figuran en una relación estandarizada
-    de movimientos básicos junto con sus tiempos de ejecución. Para
-    utilizar la relación, se divide la actividad que se desea medir en
-    sus movimientos básicos, a cada movimiento básico se le asigna un
-    grado de dificultad, y con las tablas se determina el tiempo
-    requerido para cada movimiento básico. Posteriormente, el tiempo
-    normal de la actividad se calcula sumando los tiempos requeridos por
-    sus movimientos básicos. El tiempo estándar se determina añadiendo
-    un tiempo suplementario al tiempo normal.
+- **Tiempos predeterminados**. Figuran en una relación estandarizada de movimientos básicos junto con sus tiempos de ejecución. Para utilizar la relación:
+    1. Se divide la actividad que se desea medir en sus movimientos básicos.
+    1. A cada movimiento básico se le asigna un grado de dificultad.
+    1. Con las tablas se determina el tiempo requerido para cada movimiento básico.
+    1. Posteriormente
+        1. El tiempo normal de la actividad se calcula sumando los tiempos requeridos por sus movimientos básicos.
+        1. El tiempo estándar se determina añadiendo un tiempo suplementario al tiempo normal.
+- **Muestreo del trabajo**. Consiste en realizar un gran número de observaciones directas e instantáneas de una determinada operación y registrar lo que ocurre en ese instante para determinar el porcentaje de tiempo en que la operación se encuentra en determinado estado.
 
--   **Muestreo del trabajo**. Consiste en realizar un gran número de
-    observaciones directas e instantáneas de una determinada operación y
-    registrar lo que ocurre en ese instante para determinar el
-    porcentaje de tiempo en que la operación se encuentra en determinado
-    estado.
+Se distinguen dos estados principales: el de actividad y el de inactividad. Se basa en la idea de que el porcentaje de observaciones que registran inactividad o actividad del trabajador o máquina, es una estimación razonable del porcentaje de tiempo en que la operación se encuentra en estado de inactividad o actividad.
 
-Se distinguen dos estados principales: el de actividad y el de
-inactividad. Se basa en la idea de que el porcentaje de observaciones
-que registran inactividad o actividad del trabajador o máquina, es una
-estimación razonable del porcentaje de tiempo en que la operación se
-encuentra en estado de inactividad o actividad. Se requiere que el
-número de observaciones sea bastante elevado y que los momentos en los
-que se realicen se seleccionen aleatoriamente.
+Se requiere que el número de observaciones sea bastante elevado y que los momentos en los que se realicen se seleccionen aleatoriamente.
 
 ## Sistemas de remuneración por incentivos
 
-Se supone que un trabajador tarda $t$ unidades de tiempo (u.t.) en
-realizar la tarea. Si cada u.t. de trabajo se remunera a $s_{0}$ u.m.,
-la remuneración del tiempo de trabajo de este trabajador será:
+Se supone que un trabajador tarda $t$ unidades de tiempo (u.t.) en realizar la tarea. Si cada u.t. de trabajo se remunera a $s_{0}$ u.m., la remuneración del tiempo de trabajo de este trabajador será:
 
 $$s_{0} \cdot t$$
 
-Si el tiempo estándar previsto para realizar esta tarea es $T$ u.t., al
-efectuarla en $t$ u.t., este trabajador le ahorra a la empresa la
-diferencia entre $T$ y $t$ u.t., por cada una de las cuales hubiera
-tenido que pagarle $s_{0}$ u.m. si hubiera trabajado a ritmo normal.
-Para incentivarle, por cada u.t. ahorrada se le abona un **incentivo**
-igual a $I$ u.m., de manera que la **prima por tarea realizada** vale:
+Si el tiempo estándar previsto para realizar esta tarea es $T$ u.t., al efectuarla en $t$ u.t., este trabajador le ahorra a la empresa la diferencia entre $T$ y $t$ u.t., por cada una de las cuales hubiera tenido que pagarle $s_{0}$ u.m. si hubiera trabajado a ritmo normal. Para incentivarle, por cada u.t. ahorrada se le abona un **incentivo** igual a $I$ u.m., de manera que la **prima por tarea realizada** vale:
 
 $$P = I \cdot (T - t)$$
 
 En total, por cada tarea recibirá un salario igual a:
 
-$$S = s_{0} \cdot t + P = s_{0} \cdot t + I \cdot (T - t)$$
+\begin{align*}
+S &= s_{0} \cdot t + P \\
+&= s_{0} \cdot t + I \cdot (T - t)
+\end{align*}
 
 Hay cuatro sistemas principales de remuneración por incentivos, cuya
 diferencia es el valor que asigna a $I$:
 
--   **Destajo:** al trabajador se le paga un incentivo igual a la
-    remuneración unitaria del tiempo de trabajo:
+- **Destajo:** al trabajador se le paga un incentivo igual a la remuneración unitaria del tiempo de trabajo:
 
-$$I = s_{0} \rightarrow P = s_{0} \cdot \left( T - t \right) \rightarrow S = s_{0} \cdot t + s_{0} \cdot \left( T - t \right) = s_{0} \cdot T$$
+    \begin{align*}
+    I &= s_0 \\
+    P &= s_0 \cdot (T - t) \\ \\
+    S &= s_0 \cdot t + s_0 \cdot (T - t) \\
+    &= s_0 \cdot T
+    \end{align*}
 
--   **Sistema Halsey:** el valor de cada u.t. que el trabajador ahorra
-    se reparte entre él y la empresa, de modo que:
+- **Sistema Halsey.** El valor de cada u.t. que el trabajador ahorra se reparte entre él y la empresa, de modo que:
 
-$$I = \frac{s_{0}}{m} \rightarrow P = \frac{s_{0}}{m} \cdot \left( T - t \right) \rightarrow S = s_{0} \cdot t + \frac{s_{0}}{m} \cdot \left( T - t \right)$$
+    \begin{align*}
+    I &= \frac{s_{0}}{m} \\
+    P &= \frac{s_{0}}{m} \cdot \left( T - t \right) \\ \\
+    S &= s_{0} \cdot t + \frac{s_{0}}{m} \cdot \left( T - t \right) \\
+    &= TN + TS
+    \end{align*}
 
--   **Sistema Rowan:** la proporción que representa el incentivo
-    unitario, $I$, sobre el salario unitario, $s_{0}$, es igual al que
-    representa el tiempo efectivo de trabajo, $t$ sobre el previsto para
-    realizar la tarea, $T$, es decir:
+- **Sistema Rowan.** La proporción que representa el incentivo unitario, $I$, sobre el salario unitario, $s_{0}$, es igual al que representa el tiempo efectivo de trabajo, $t$ sobre el previsto para realizar la tarea, $T$, es decir:
 
-$$\frac{I}{s_{0}} = \frac{t}{T} \rightarrow I = s_{0} \cdot \frac{t}{T} \rightarrow P = s_{0} \cdot \frac{t}{T} \cdot \left( T - t \right) \rightarrow S = s_{0} \cdot t + s_{0} \cdot \frac{t}{T} \cdot \left( T - t \right)$$
+    \begin{align*}
+    \frac{I}{s_{0}} &= \frac{t}{T} \\
+    I &= s_{0} \cdot \frac{t}{T} \\
+    P &= s_{0} \cdot \frac{t}{T} \cdot \left( T - t \right) \\
+    S &= s_{0} \cdot t + s_{0} \cdot \frac{t}{T} \cdot \left( T - t \right)
+    \end{align*}
 
--   **Sistema York o con prima por pieza:** la proporción que representa
-    el incentivo, $I$, sobre el salario unitario, $s_{0}$, es igual a la
-    que representa el tiempo estándar, $T$, sobre el ahorro de tiempo,
-    $T - t$:
+- **Sistema York o con prima por pieza.** La proporción que representa el incentivo, $I$, sobre el salario unitario, $s_{0}$, es igual a la que representa el tiempo estándar, $T$, sobre el ahorro de tiempo, $T - t$:
 
-$$\frac{I}{s_{0}} = \frac{T}{T - t} \rightarrow I = s_{0} \cdot \frac{T}{T - t} \rightarrow P = s_{0} \cdot \frac{T}{T - t} \cdot \left( T - t \right) = s_{0} \cdot T \rightarrow S = s_{0} \cdot \left( t + T \right)$$
+    \begin{align*}
+    \frac{I}{s_{0}} &= \frac{T}{T - t} \\
+    I &= s_{0} \cdot \frac{T}{T - t} \\
+    S &= s_{0} \cdot \left( t + T \right) \\ \\
+    P &= s_{0} \cdot \frac{T}{T - t} \cdot \left( T - t \right) \\
+    &= s_{0} \cdot T
+    \end{align*}
 
-Este tipo de incentivos no siempre da lugar a aumentos de productividad
-debido al efecto que tienen las presiones del grupo sobre las personas
-cuyo desempeño es superior a la media. A menos que exista un ambiente
-general de competencia entre las personas, si una de ellas trabaja más
-rápido que las otras pude terminar encontrándose con un clima de
-desconfianza y hostilidad hacia ella en el grupo.
+Este tipo de incentivos (todos los comentados) no siempre dan lugar a aumentos de productividad por el efecto que tienen las presiones del grupo sobre las personas cuyo desempeño es superior a la media.
 
+A menos que exista un ambiente general de competencia entre las personas, si una de ellas trabaja más rápido que las otras pude terminar encontrándose con un clima de desconfianza y hostilidad hacia ella en el grupo.
