@@ -58,11 +58,11 @@ Los objetivos principales de la misma son:
 
 - **Agrupación funcional.** Distingue entre decisiones de:
 
-1. Proceso
-1. Capacidad productiva
-1. Inventarios
-1. Recursos humanos
-1. Calidad
+  1. Proceso
+  1. Capacidad productiva
+  1. Inventarios
+  1. Recursos humanos
+  1. Calidad
 
 - Agrupación que diferencia entre:
 
