@@ -109,6 +109,7 @@ de proyectos que:
 *Tabla 5.1 Diferencias de notación entre el método PERT y el CPM*
 
 **Diferencias Formales:**
+
 * **PERT vs. CPM**: PERT usa tres estimaciones de tiempo, mientras que CPM usa solo una.
 * **Método Roy vs. PERT/CPM**: 
     * PERT/CPM. Las actividades son flechas y los nudos interconectan actividades.
