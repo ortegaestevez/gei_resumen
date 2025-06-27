@@ -115,8 +115,8 @@ Tabla 1. Clases de empresas por su tamaño según la Comisión Europea
 
 ***Según su forma jurídica***. 
 
-Empresario individual.
-Sociedad.
+- Empresario individual.
+- Sociedad.
 
 La mayoría de empresas se configuran como:
 
