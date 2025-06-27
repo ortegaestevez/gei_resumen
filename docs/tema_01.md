@@ -209,11 +209,11 @@ La **ética empresarial** implica que un trabajador debe actuar buscando el bene
 
 * **Enfoque de primacía del beneficio**. Sostiene que la empresa solo debe ser rentable y generar beneficios, ya que de esta forma crea:
 
-- Riqueza
-- Empleo
-- Promueve el crecimiento económico
-- El bienestar
-- El desarrollo social y político
+  * Riqueza
+  * Empleo
+  * Promueve el crecimiento económico
+  * El bienestar
+  * El desarrollo social y político
 
 La empresa cumple con su responsabilidad social simplemente no dañando a la sociedad.
 
