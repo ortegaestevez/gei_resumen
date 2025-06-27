@@ -17,10 +17,10 @@ Conjunto de personas y recursos materiales bajo el principio de división del tr
 **Elementos clave**.
 
 1. **Objetivo** - Razón de ser de la organización.
-2. **Recursos**.
+2. **Recursos**:
 
-   - *Humanos*: Personal (elemento central).
-   - *Materiales*: Medios disponibles.
+      - *Humanos*: Personal (elemento central).
+      - *Materiales*: Medios disponibles.
 
 3. **Dirección** - Coordina esfuerzos hacia metas comunes.
 4. **División del trabajo** - Especialización para eficiencia.
