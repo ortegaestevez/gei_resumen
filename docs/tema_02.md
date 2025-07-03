@@ -101,13 +101,13 @@ Si las unidades operan con objetivos contradictorios, la organización es inefic
 
 ### Departamentación
 
-La **departamentación** implica dividir y subdividir el trabajo entre grupos de personas, creando **unidades organizativas** o **departamentos**.
+La **departamentación** implica dividir y subdividir el trabajo entre grupos de personas, creando **unidades organizativas** o **departamentos** por:
 
-1. **Por funciones**. Divide el trabajo según las principales actividades de la empresa (ej. finanzas, marketing, producción). Es común en la alta dirección.
-2. **Por territorios**. Agrupa las tareas geográficamente, frecuente en marketing, permitiendo decisiones adaptadas a cada región.
-3. **Por productos**. Crea un departamento para cada producto o tipo de producto.
-4. **Por procesos**. Común en fabricación, donde cada departamento se encarga de una fase específica del proceso.
-5. **Por clientes y canales de distribución**. Usado en distribución, segmenta el trabajo según los tipos de clientes e intermediarios.
+1. **Funciones**. Usado en alta dirección; divide el trabajo según las principales actividades de la empresa (ej. finanzas, marketing, producción).
+2. **Territorios**. Usado en marketing; agrupa las tareas geográficamente permitiendo decisiones adaptadas a cada región.
+3. **Productos**. Crea un departamento para cada producto o tipo de producto.
+4. **Procesos**. Común en fabricación; cada departamento se encarga de una fase específica del proceso.
+5. **Clientes y canales de distribución**. Usado en distribución; segmenta el trabajo según los tipos de clientes e intermediarios.
 
 En la práctica la mayoría de las grandes empresas emplean una **departamentación combinada**, utilizando varias de estas formas en diferentes niveles.
 
@@ -119,30 +119,31 @@ Las estructuras organizativas definen cómo se distribuyen la autoridad y las re
     1. Basada en la **autoridad directa** del jefe sobre los subordinados.
     2. Cadena de mando clara y decisiones rápidas a nivel individual.
     3. Comunicaciones lentas.
-    4. Directivos asumen amplias responsabilidades sin ser expertos en todo organizaciones suelen ser rígidas e inflexibles.
+    4. Los Directivos asumen amplias responsabilidades sin ser expertos en todo.
+    5. La organización suelen ser rígida e inflexible.
 2. **En línea y *staff***:
     1. Combina la autoridad directa (línea) con **relaciones de consulta y asesoramiento** de departamentos especializados (*staff*). 
-    2. Permite rapidez en la toma de decisiones directas y el acceso a conocimientos expertos.
+    2. Rapidez en la toma de decisiones directas y el acceso a conocimientos expertos.
     3. Los directivos de *staff* tienen autoridad limitada a sus subordinados internos.
 3. **Comité**:
-    1. **Autoridad y responsabilidad se comparten** entre un grupo de personas.
-    2. Se utiliza a menudo junto con la estructura en línea y *staff* para decisiones específicas.
+    1. Autoridad y responsabilidad se comparten entre un grupo de personas.
+    2. Se suele usar junto con la estructura en línea y *staff* para decisiones específicas.
     3. Inconvenientes (algunos). Lentitud, conservadurismo y decisiones basadas en compromisos más que en la mejor alternativa.
 4. **Matricial**.
-    1. Especialistas de diferentes áreas se agrupan para trabajar en **proyectos específicos**, generalmente en combinación con la estructura en línea y *staff*.
+    1. **Especialistas** de diferentes áreas se agrupan para trabajar en proyectos específicos, generalmente en combinación con la estructura en línea y *staff*.
     2. **Doble autoridad**. Característica en la que los miembros responden al director del proyecto (autoridad horizontal) y a su departamento funcional (autoridad vertical).
-    3. Es **flexible** y eficaz para proyectos importantes, pero requiere un director de proyecto que integre bien al equipo y una autoridad considerable para evitar problemas de coordinación.
+    3. Es **flexible y eficaz** para proyectos importantes, pero requiere un director de proyecto que integre bien al equipo y una autoridad considerable para evitar problemas de coordinación.
 
 ### Conceptos Clave en Organización
 
 1. **Autoridad**. Derecho o capacidad de mandar, hacerse obedecer y tomar decisiones que afectan a otros.
 2. **Responsabilidad**. Obligación de la persona de ejecutar las tareas asignadas.
-3. **Delegación de autoridad**. Asignar una tarea a un subordinado, otorgarle libertad y autoridad para ejecutarla, y controlarle para verificar su desempeño.
+3. **Delegación de autoridad**. Asignar una tarea a un subordinado, otorgarle libertad y autoridad para ejecutarla, controlándole para verificar su desempeño.
 4. **Límite de la dirección o límite de control**. Número de personas que un directivo puede supervisar directamente.
 5. **Concentración**. La mayoría de las decisiones importantes recaen en pocos puestos.
 6. **Centralización**. Concentración que se da en la cúspide.
 7. **Descentralización**. Implica que los puestos de niveles inferiores tienen cierta capacidad de decisión, autonomía y responsabilidad. Generalmente, las decisiones rutinarias tienden a descentralizarse, mientras que las menos repetitivas y críticas se centralizan.
-8. **Organización formal**. La estructura planificada e implementada oficialmente, con unidades departamentales y relaciones definidas.
+8. **Organización formal**. Estructura planificada e implementada oficialmente, con unidades departamentales y relaciones definidas.
 9. **Organización informal**. Desarrollada con el tiempo dentro de los equipos de trabajo, creando normas, roles, relaciones sociales, estatus y canales de comunicación informales. Los directivos deben reconocerla y buscar que funcione a favor de la organización.
 
 La función de gestión, o dirección en sentido restringido
@@ -150,11 +151,11 @@ La función de gestión, o dirección en sentido restringido
 
 ***Gestionar***. Implica que las personas de una organización cumplan sus funciones para alcanzar objetivos.
 
-***Liderazgo***. Ejercicio de influencia y poder para armonizar intereses y dar dirección a un grupo. Se ha estudiado desde tres enfoques:
+***Liderazgo***. Ejercicio de influencia y poder para armonizar intereses y dar dirección a un grupo. Se ha estudiado desde tres enfoques; como:
 
-1. Como **proceso de incidencia social** a través de la comunicación, influyendo en las conductas individuales.
-2. Como un **elemento vinculado a la motivación**, donde la obediencia depende de la motivación que el líder genere.
-3. Como **propiedad personal**, refiriéndose a rasgos y conductas eficaces del líder para influir en los seguidores (teorías de la personalidad y situacional).
+1. **Proceso de incidencia social**. A través de la comunicación, influyendo en las conductas individuales.
+2. **Elemento vinculado a la motivación**. La obediencia depende de la motivación que el líder genere.
+3. **Propiedad personal**. Rasgos y conductas eficaces del líder para influir en los seguidores (teorías de la personalidad y situacional).
 
 ***Estilos de liderazgo***. Forma de comportarse del líder:
 
@@ -204,7 +205,7 @@ El ***proceso de control*** se desarrolla en:
 
 1. **Planificación**. Comunicar objetivos, políticas y procedimientos, asegurando su difusión.
 2. **Recogida de información**. Obtener datos sobre los resultados reales.
-3. **Evaluación de los resultados**. Analizar las diferencias; si son negativas y significativas, investigar las causas.
+3. **Evaluación de resultados**. Analizar las diferencias; si son negativas y significativas, investigar las causas.
 4. **Medidas correctoras**. Aplicarlas si las diferencias persisten. Las causas pueden ser organizativas, de ejecución o de planificación, y las correcciones a menudo implican mejorar procedimientos o reasignar recursos.
 
 Los principales **inconvenientes del control** son:
@@ -220,12 +221,12 @@ Los principales **inconvenientes del control** son:
 
 1. Aquella que busca que el control sea parte integral del trabajo para **prevenir errores** en lugar de solo corregirlos.
 2. Se basa en que el comportamiento de las personas es un reflejo del trato recibido.
-3. Valores sólidos y compartidos, como la satisfacción del cliente y la calidad, facilitan la unidad, el autocontrol y la autogestión.
+3. Tiene valores sólidos y compartidos, como la satisfacción del cliente y la calidad; que facilitan la unidad, el autocontrol y la autogestión.
 
-Las empresas se distinguen por su orientación.
+Según su orientación, las empresas se distinguen por ser orientadas:
 
-1. ***Empresas orientadas hacia sí mismas***. Siguen normas y directivas internas, con menos foco directo en el cliente.
-2. ***Empresas orientadas hacia el cliente***:
+1. ***Hacia sí mismas***. Siguen normas y directivas internas, con menos foco directo en el cliente.
+2. ***Hacia el cliente***:
 
     1. Centran toda la organización en el cliente, siendo el servicio, la calidad y la fiabilidad estrategias clave para su satisfacción y lealtad.
     2. La autoridad de la dirección radica en su capacidad para inculcar esta orientación como un valor compartido.
@@ -235,10 +236,10 @@ El proceso de dirección en la pequeña empresa
 
 Las pequeñas empresas tienen las siguientes ventajas:
 
-1. Más informales y espontáneas, lo que implica que sea más sencillo conseguir que el personal participe en las decisiones.
-2. La comunicación es más fluida y es más sencillo que todos estén bien informados para participar en el proceso de decisión.
-3. Es más sencillo conseguir que todas las personas adquieran la idea de grupo, de equipo que tiene unos objetivos comunes, y que se encuentren motivadas para alcanzarlos.
-4. En las pequeñas empresas puede haber un mejor trato con los empleados, un trato más humano basado en un conocimiento personal y en unas relaciones humanas más estrechas.
+1. **Más informales y espontáneas**. Es más sencillo conseguir que el personal participe en las decisiones.
+2. **Comunicación más fluida**. Es más sencillo que todos estén bien informados para participar en el proceso de decisión.
+3. **Más sencillo que todas las personas adquieran la idea de grupo o equipo**. Hace que tengan unos objetivos comunes y se encuentren motivadas para alcanzarlos.
+4. **Mejor trato con los empleados**. Más humano, basado en un conocimiento personal y unas relaciones humanas más estrechas.
 
 
 La dirección y la empresa como sistema
