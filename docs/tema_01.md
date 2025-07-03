@@ -31,9 +31,10 @@ Conjunto de personas y recursos materiales bajo el principio de división del tr
 
 ### La empresa como sistema
 Integra y coordina:
-✅ **Factores de producción**
-✅ **Financiación**
-✅ **Marketing**
+
+- ✅ **Factores de producción**
+- ✅ **Financiación**
+- ✅ **Marketing**
 
 #### Características empresariales
 1. **Factores interconectados**. Producción, mercadotecnia y finanzas.
@@ -55,7 +56,7 @@ La empresa como sistema
 3.  Es un sistema **global**. Cualquier intervención sobre uno de sus elementos o subsistemas repercute sobre los demás y sobre el conjunto del sistema.
 4.  Es un sistema **autorregulado** en el que se produce **homeostasis**. El propio sistema se adapta y controla para mantener un equilibrio dinámico.
 
-> La empresa es un sistema abierto, que recibe del entorno una serie de *inputs* o entradas y que envía al exterior otra serie de *outputs* o salidas de diverso tipo. Si las salidas generadas por la empresa se apartan de ciertos límites, comienza un proceso de retroalimentación o *feed-back*, por el cual se modifican las entradas hasta conseguir que las salidas se ajusten a los límites deseados.
+> La empresa es un sistema abierto, que recibe del entorno una serie de *inputs* o entradas y que envía al exterior otra serie de *outputs* o salidas de diverso tipo. Si los *inputs* generados por la empresa se apartan de ciertos límites, comienza un proceso de retroalimentación o *feed-back*, por el cual se modifican los *inputs* hasta conseguir que los *outputs* se ajusten a los límites deseados.
 
 ***Subsistemas***. La empresa puede estudiarse descomponiéndola en subsistemas que mantienen las mismas propiedades que el sistema global. Las principales agrupaciones en subsistemas son las siguientes:
 
@@ -173,11 +174,11 @@ Las empresas operan dentro de un **sistema económico** y su existencia se justi
 Según R.H. Coase, las empresas también existen para **reducir los costes de transacción**:
 
 - Realizar intercambios directamente en el mercado puede ser más caro e incierto.
-- La empresa, en este sentido, actúa como un intermediario que:
+- En este sentido, la empresa actúa como un intermediario que:
 
     1. Organiza las relaciones económicas
     2. Minimiza el número de transacciones
-    3. Reduce tanto los costes como la incertidumbre
+    3. Reduce los costes y la incertidumbre
 
 #### Intervención del Estado
 
@@ -196,7 +197,7 @@ Al hablar del papel de una empresa en la sociedad, surgen tres conceptos clave: 
 
 #### Responsabilidad Social
 
-Se refiere a si una empresa es responsable por los perjuicios que causa o puede causar a la sociedad. Esto significa que al tomar decisiones empresariales se deben considerar tanot los efectos económicos como los sociales.
+Se refiere a si una empresa es responsable por los perjuicios que causa o puede causar a la sociedad. Esto significa que al tomar decisiones empresariales se deben considerar tanto los efectos económicos como los sociales.
 
 **Costes sociales.** Pérdidas directas o indirectas soportadas por terceros como resultado de las actividades de la empresa. Aunque los gobiernos en los países más desarrollados introducen normativas para mitigar estos costes, a menudo no pueden cubrir todos los aspectos y suelen elaborarse con cierto retraso.
 
@@ -214,9 +215,9 @@ Implica que un trabajador debe actuar buscando el beneficio de su empresa y no s
 
 #### Orientación Social
 
-Se refiere a si la empresa debe incorporar consideraciones sobre el bienestar social. Existen dos posturas extremas:
+Plantea si la empresa debe incorporar consideraciones sobre el bienestar social. Existen dos posturas extremas:
 
-- **Enfoque de primacía del beneficio**. Sostiene que la empresa solo debe ser rentable y generar beneficios, ya que de esta forma crea:
+- **Enfoque de primacía del beneficio**. Sostiene que la empresa solo debe ser rentable y generar beneficios porque crea:
 
     1. Riqueza
     2. Empleo
@@ -228,20 +229,18 @@ La empresa cumple con su responsabilidad social simplemente no dañando a la soc
 
 - **Enfoque de primacía del bienestar social**. La principal responsabilidad de la empresa es contribuir al bienestar social, y su existencia solo se justifica en la medida en que se aproxima a ese objetivo.
 
-Para situar el tema en sus justos términos, parece evidente que:
+  Para situar el tema en sus justos términos, parece evidente que:
 
-- Al operar con economicidad, eficacia y eficiencia, las empresas contribuyen al bienestar social. Al optimizar la consecución de sus objetivos económicos, desarrollan actividades socialmente deseables.
-- Es conveniente que las empresas incorporen objetivos que favorezcan el bienestar de la sociedad. El problema es que las actividades orientadas socialmente generan costes y reducen la rentabilidad y las posibilidades de crecimiento de la empresa. Evidentemente, es deseable que las empresas estén orientadas socialmente, pero para lograrlo de manera que la carga se reparta entre todas ellas, debe hacerse de forma imperativa y generalizada.
+  - Al operar con economicidad, eficacia y eficiencia, las empresas contribuyen al bienestar social. Al optimizar la consecución de sus objetivos económicos, desarrollan actividades socialmente deseables.
+  - Es conveniente que las empresas incorporen objetivos que favorezcan el bienestar de la sociedad. El problema es que las actividades orientadas socialmente generan costes y reducen la rentabilidad y las posibilidades de crecimiento de la empresa. Evidentemente, es deseable que las empresas estén orientadas socialmente, pero para lograrlo de manera que la carga se reparta entre todas ellas, debe hacerse de forma imperativa y generalizada.
 
 Teorías sobre la empresa
 ------------------------
 
-Las teorías de la empresa son marcos que explican su funcionamiento y existencia.
+Las teorías de la empresa son marcos que explican su funcionamiento y existencia:
 
 1. **Teoría Neoclásica**. La empresa es una "caja negra" que transforma factores en productos, enfocándose en la eficiencia económica y el mercado perfecto sin considerar la dimensión humana o interna.
 2. **Teoría de la Agencia**. La empresa es un conjunto de relaciones contractuales donde el principal delega tareas al agente. Los problemas surgen por la divergencia de intereses, incertidumbre y asimetría de información, generando "costes de agencia" (vigilancia, atención, oportunidad).
-3. **Teoría de los Costes de Transacción**. Explora por qué la empresa sustituye al mercado como coordinador de actividades. La empresa surge para reducir los costes de información, negociación y contratación inherentes al mercado, aunque su crecimiento se limita cuando los costes de coordinación interna superan los de transacción del mercado.
-4. **Teoría de los Derechos de Propiedad (Contractual)**. Ligada a los costes de transacción, concibe la empresa como una "caja transparente" de contratos bilaterales y relaciones de jerarquía. El resultado empresarial depende del sistema de contratos y derechos de propiedad.
-5. **Teoría de Recursos y Capacidades**. Explica las diferencias entre empresas por la heterogeneidad de sus recursos financieros, físicos, humanos, organizativos, tecnológicos, intangibles, capacidades organizativas y habilidades colectivas.
-
-Estas capacidades se materializan en **rutinas organizativas**, que son pautas de actuación que definen lo que la empresa puede hacer y son clave para la estrategia interna.
+3. **Teoría de los Costes de Transacción**. Explora por qué la empresa sustituye al mercado como coordinador de actividades. La empresa surge para reducir los costes de información, negociación y contratación inherentes al mercado, aunque su crecimiento se limita cuando los costes de coordinación interna superan a los de transacción del mercado.
+4. **Teoría de los Derechos de Propiedad (contractual)**. Ligada a los costes de transacción, concibe la empresa como una "caja transparente" de contratos bilaterales y relaciones de jerarquía. El resultado empresarial depende del sistema de contratos y derechos de propiedad.
+5. **Teoría de Recursos y Capacidades**. Explica las diferencias entre empresas por la heterogeneidad de sus recursos financieros, físicos, humanos, organizativos, tecnológicos, intangibles, capacidades organizativas y habilidades colectivas. Estas capacidades se materializan en **rutinas organizativas**, que son pautas de actuación que definen lo que la empresa puede hacer y son clave para la estrategia interna.
