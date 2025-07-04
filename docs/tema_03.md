@@ -10,7 +10,7 @@ Tema 3. La dirección de los recursos humanos
 3. Desarrollo
 4. Consecución
 
-De las personas cualificadas necesarias para conseguir los objetivos de la organización que incluye las actividades necesarias para conseguir la máxima satisfacción y eficiencia de los trabajadores.
+de las personas cualificadas necesarias para conseguir los objetivos de la organización, que incluye las actividades necesarias para conseguir la máxima satisfacción y eficiencia de los trabajadores.
 
 ## Las funciones de la dirección de los recursos humanos
 
@@ -22,7 +22,13 @@ Las **funciones básicas** de la dirección de los recursos humanos son:
 4. Evaluación del trabajo.
 5. Remuneración del personal, seguridad social y otros beneficios como planes de pensiones.
 
-Los departamentos de recursos humanos también asumen **funciones complementarias** de prestación de servicios, de control y de asesoramiento a otros departamentos en materias tales como la promoción de los directivos, las modificaciones en la estructura organizativa, la motivación de los empleados, etc.
+Los departamentos de recursos humanos también asumen **funciones complementarias** de:
+
+1. Prestación de servicios
+2. Control
+3. Asesoramiento
+
+a otros departamentos en materias tales como la promoción de los directivos, las modificaciones en la estructura organizativa, la motivación de los empleados, etc.
 
 ## La planificación de los recursos humanos
 
@@ -71,25 +77,26 @@ El **reclutamiento** comienza proyectando una imagen pública que atraiga person
 
 1. **Entrevista preliminar.** Se realizan algunas preguntas generales sobre su experiencia, estudios, etc., y se observa su apariencia (si es importante para el puesto):
 
-    - El candidato no está cualificado para el puesto \(\rightarrow\) el proceso finaliza aquí.
-    - Probabilidad razonable de que ocupe el puesto \(\rightarrow\) se le pide que cumplimente el documento de solicitud de empleo.
+    - **El candidato no está cualificado para el puesto** \(\rightarrow\) el proceso finaliza aquí.
+    - **Probabilidad razonable de que ocupe el puesto** \(\rightarrow\) se le pide que cumplimente el documento de solicitud de empleo.
 
 2. **Solicitud de empleo.** Instrumento para obtener datos sobre la formación, experiencia, aspiraciones y referencias personales del candidato.
 3. **Realización de test.** Tratan de determinar la capacidad de la persona, aptitud, conocimiento, personalidad, etc. Su principal misión es conseguir cierta objetividad.
-4. **Contrastación de referencias.** Se contrastan las referencias para comprobar su nivel de formación. La mayoría se limita a comprobar los empleos anteriores.
-    - Las cartas de recomendación no son de gran utilidad porque no suelen contener datos negativos y ningún candidato mencionaría empleos en los que las referencias pudieran no ser a su favor.
-    - Lo más efectivo es la visita personal o una llamada a las empresas en las que el candidato trabajó anteriormente.
+4. **Contrastación de referencias.** Se contrastan las referencias para comprobar su nivel de formación:
+    1. La mayoría se limita a comprobar los empleos anteriores.
+    2. Las cartas de recomendación no son de gran utilidad porque no suelen contener datos negativos y ningún candidato mencionaría empleos en los que las referencias pudieran no ser a su favor.
+    3. Lo más efectivo es la visita personal o una llamada a las empresas en las que el candidato trabajó anteriormente.
 5. **Entrevista personal.** Casi todas las empresas utilizan la entrevista personal. Dependiendo del modelo de entrevista que se prefiera:
-    - Estructuradas. Siguen un formato establecido previamente. 
+    - Estructuradas. Siguen un formato establecido previamente.
     - No estructuradas. Más espontáneas; se formulan preguntas de tipo general con objeto de que el candidato termine revelando cosas sobre sí mismo.
 6. **Revisión médica.** Se deja para el final del proceso cuando restan pocos candidatos. Tiene un triple objetivo:
-    - Tratar de evitar pagar por problemas de salud que el empleado ya tenía cuando se incorporó a la misma.
-    - Se ha de asegurar de que el empleado es capaz físicamente de realizar el trabajo.
-    - Cumplir la obligación de contratar a alguien que padezca una enfermedad contagiosa.
+    1. Tratar de evitar pagar por problemas de salud que el empleado ya tenía cuando se incorporó a la misma.
+    2. Se ha de asegurar de que el empleado es capaz físicamente de realizar el trabajo.
+    3. Cumplir la obligación de contratar a alguien que padezca una enfermedad contagiosa.
 
 7. **Decisión final.** Dependiendo de si la persona:
-    - No es adecuada. El sustituirla por otra comporta incurrir en elevadísimos costes de despido y el proceso de reclutamiento y selección; que también tiene costes. El proceso se inicia de nuevo.
-    - Es adecuada. La empresa hace una **oferta formal** al candidato en cuanto a salario y otras ventajas y condiciones. Puede haber algunas **negociaciones** entre las dos partes para buscar un acuerdo que interese a ambas.
+    - **No es adecuada**. El sustituirla por otra comporta incurrir en elevadísimos costes de despido y el proceso de reclutamiento y selección; que también tiene costes. El proceso se inicia de nuevo.
+    - **Es adecuada**. La empresa hace una **oferta formal** al candidato en cuanto a salario y otras ventajas y condiciones. Puede haber algunas **negociaciones** entre las dos partes para buscar un acuerdo que interese a ambas.
 
 La orientación, formación y desarrollo
 --------------------------------------
@@ -106,17 +113,20 @@ La orientación, formación y desarrollo
 ***Formación del personal***:
 
 - **Formación en el puesto de trabajo:**
-    - Programa de formación en el que el nuevo trabajador aprende las tareas de su puesto de trabajo llevándolas a cabo bajo la orientación de otra persona con experiencia.
-    - Usado en trabajos relativamente sencillos de modo que los trabajadores aprenden con la práctica.
-- **Formación fuera del puesto de trabajo:**
-    - Evita la presión derivada de estar al mismo tiempo haciendo el trabajo y aprendiendo a hacerlo.
-    - Puede reducir las pérdidas materiales y de tiempo de trabajo.
-    - Habitualmente incluyen las clases y la simulación en la que los trabajadores realizan operaciones semejantes a las que tendrán que efectuar posteriormente.
+    1. Programa de formación en el que el nuevo trabajador aprende las tareas de su puesto de trabajo llevándolas a cabo bajo la orientación de otra persona con experiencia.
+    2. Usado en trabajos relativamente sencillos de modo que los trabajadores aprenden con la práctica.
+-. **Formación fuera del puesto de trabajo:**
+    1. Evita la presión derivada de estar al mismo tiempo haciendo el trabajo y aprendiendo a hacerlo.
+    2. Puede reducir las pérdidas materiales y de tiempo de trabajo.
+    3. Habitualmente incluyen las clases y la simulación en la que los trabajadores realizan operaciones semejantes a las que tendrán que efectuar posteriormente.
 
-***Capital humano***. Inversión que realiza la empresa para formar a sus trabajadores; rentable mientras el valor de las ventajas que obtenga con ello supere a los pagos que tenga que realizar. Desde el punto de vista del trabajador se distingue:
+***Capital humano***:
 
-- **Formación general.** Aquella que puede ser útil en diversos tipos de empresas.
-- **Formación especial.** Solo tiene utilidad en la empresa en la que trabaja.
+1. Inversión que realiza la empresa para formar a sus trabajadores
+2. Rentable mientras el valor de las ventajas que obtenga con ello supere a los pagos que tenga que realizar
+3. Desde el punto de vista del trabajador se distingue:
+    - **Formación general.** Puede ser útil en diversos tipos de empresas.
+    - **Formación especial.** Solo tiene utilidad en la empresa en la que trabaja.
 
 ***Programas de formación para puestos directivos o de desarrollo de la dirección***. Diseñados para mejorar la capacidad y aumentar los conocimientos de los directivos de la empresa y de sus empleados que tienen posibilidades de llegar a serlo. Constan de los siguientes elementos:
 
@@ -167,10 +177,10 @@ También se evalúa la **personalidad**; no solo aisladamente sino en relación 
 Las técnicas para la evaluación son:
 
 - **Formulario de evaluación.** Figura toda una relación de criterios de valoración y en cada uno de ellos el evaluador señala el nivel en el que se encuentra el evaluado.
-    - Procedimiento más antiguo y más utilizado.
-    - Efectuada por el superior inmediato del trabajador evaluado.
+    1. Procedimiento más antiguo y más utilizado.
+    2. Efectuada por el superior inmediato del trabajador evaluado.
 - **Fijar objetivos.** Al comenzar el período (de seis meses o un año) el directivo y el trabajador fijan conjuntamente un objetivo que éste puede alcanzar en ese período.
-    - La evaluación se obtiene comparando lo realmente conseguido y el objetivo propuesto.
+    1. La evaluación se obtiene comparando lo realmente conseguido y el objetivo propuesto.
 
 La determinación de las remuneraciones y la promoción
 -----------------------------------------------------

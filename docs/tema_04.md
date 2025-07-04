@@ -4,37 +4,37 @@ Tema 4: Análisis de problemas y toma de decisiones
 La modelización
 ---------------
 
-***Modelo.*** Representación simplificada de una parte de la realidad. El principal objetivo de un modelo es permitir una mejor comprensión y descripción de la parte de la realidad que representa. Se pueden clasificar considerando diversos criterios:
+***Modelo:***
 
-1. **Modelos objetivos y subjetivos.** Cuando en la toma de decisiones interviene sucesos no experimentables objetivamente, y no existen métodos formales, los modelos han de ser:
-    - Informales
-    - Subjetivos
-    - Basarse en la intuición
+1. Representación simplificada de una parte de la realidad.
+2. Su principal objetivo es permitir una mejor comprensión y descripción de la parte de la realidad que representa.
+
+Un modelo se pueden clasificar considerando diversos criterios:
+
+1. **Modelos objetivos y subjetivos.** Cuando en la toma de decisiones interviene sucesos no experimentables objetivamente y no existen métodos formales, los modelos han de ser:
+    1. Informales
+    2. Subjetivos
+    3. Basarse en la intuición
 2. **Modelos analíticos y de simulación.** Los modelos analíticos sirven para obtener soluciones; información sobre los efectos de las posibles decisiones de forma que el decisor elija la alternativa que le resulte más conveniente. En este sentido, pueden ser prescriptivos o descriptivos.
 
     Entre estos modelos se encuentran:
 
-    - **Modelos de optimización**. Permiten determinar los valores que ha de darse a las variables de modo que se maximice o minimice otra variable que se tiene como objetivo. Son **prescriptivos**.
-    - **Modelos de simulación**. Representaciones simplificadas Re la realidad sobre las que se opera para estudiar los efectos de distintas alternativas de actuación. Son **descriptivos**.
-
-3. **Modelos estáticos y dinámicos:**
-    - Estáticos. Aquellos que no utilizan la variable tiempo. 
-    - Dinámicos. Incorporan como variable o parámetro fundamental.
-
-4. **Modelos deterministas y probabilísticos:**
-
-    - Deterministas. Los datos se suponen conocidos con certeza.
-    - Probabilísticos, aleatorios o estocásticos. Uno o varios datos solo se conocen en términos de probabilidades.
+    1. **De optimización**. Permiten determinar los valores que ha de darse a las variables de modo que se maximice o minimice otra variable que se tiene como objetivo. Son **prescriptivos**.
+    2. **De simulación**. Representaciones simplificadas Re la realidad sobre las que se opera para estudiar los efectos de distintas alternativas de actuación. Son **descriptivos**.
+    3. **Estáticos**. Aquellos que no utilizan la variable tiempo.
+    4. **Dinámicos**. Incorporan como variable o parámetro fundamental.
+    5. **Deterministas**. Los datos se suponen conocidos con certeza.
+    6. **Probabilísticos aleatorios o estocásticos**. Uno o varios datos solo se conocen en términos de probabilidades.
 
 Ambientes de decisión
 ---------------------
 
 El nivel de información determina el tipo de ambiente de la decisión. Se distinguen los siguientes **ambientes de decisión**:
 
-- **Certeza.** El decisor conoce con absoluta seguridad los estados de la naturaleza que van a presentarse.
-- **Riesgo.** El decisor no sabe qué estados de la naturaleza se presentarán, pero sí cuales pueden presentarse y la probabilidad que tiene cada uno de ellos.
-- **Incertidumbre estructurada.** Se conocen los estados de la naturaleza, pero no la probabilidad de cada uno de ellos.
-- **Incertidumbre no estructurada.** Es aquél en el que ni siquiera se conocen los posibles estados de la naturaleza.
+1. **Certeza.** El decisor conoce con absoluta seguridad los estados de la naturaleza que van a presentarse.
+2. **Riesgo.** El decisor no sabe qué estados de la naturaleza se presentarán, pero sí cuales pueden presentarse y la probabilidad que tiene cada uno de ellos.
+3. **Incertidumbre estructurada.** Se conocen los estados de la naturaleza, pero no la probabilidad de cada uno de ellos.
+4. **Incertidumbre no estructurada.** Es aquél en el que ni siquiera se conocen los posibles estados de la naturaleza.
 
 Para pasar de un tipo de ambiente a otro es necesario obtener un cierto grado de información: cuando mayor se la información, menor será la incertidumbre.
 
@@ -45,21 +45,21 @@ Criterios de decisión en ambiente de incertidumbre
 
 En un entorno de escasez de información como es el de incertidumbre, ha de intervenir en gran medida la subjetividad:
 
-- Si la incertidumbre no está estructurada, ni se puede obtener más información, la decisión deberá basarse en la intuición.
-- Si la incertidumbre está estructurada, la decisión continúa incorporando una carga de subjetividad muy elevada.
+- **Incertidumbre no está estructurada**. Ni se puede obtener más información la decisión deberá basarse en la intuición.
+- **Incertidumbre está estructurada**. La decisión continúa incorporando una carga de subjetividad muy elevada.
 
 Los principales **criterios de decisión** en un entorno de incertidumbre estructurada son los siguientes:
 
 1. **Criterio de Laplace, racionalista o de igual verosimilitud**. Parte del postulado de Bayes: si no se conocen las probabilidades asociadas a cada uno de los estados de la naturaleza no hay razón para pensar que uno tenga más probabilidades que otros.
 
-Se calcula la media aritmética de los resultados que se pueden derivar de cada una de las decisiones y, dependiendo de los resultados: 
+    Se calcula la media aritmética de los resultados que se pueden derivar de cada una de las decisiones y, dependiendo de los resultados: 
 
-- Favorables. Se elije el resultado medio más elevado.
-- Desfavorables. Se elige el resultado medio más bajo.
+    - **Favorables**. Se elije el resultado medio más elevado.
+    - **Desfavorables**. Se elige el resultado medio más bajo.
 
 2. **Criterio optimista.** Aquel que seguiría una persona que pensara que, para cualquier estrategia elegida, el estado presentado sería el más favorable para ella:
-    - Resultados favorables \(\rightarrow\) **criterio maxi-max**. Se determina cuál es el resultado más elevado que puede alcanzarse con cada estrategia y, posteriormente, se elige aquella a la que le corresponda el máximo entre esos máximos.
-    - Resultados desfavorables \(\rightarrow\) **criterio mini-min**. Se determina cuál es el mejor resultado que puede obtenerse con cada estrategia (el menor) y se elige aquella a la que le corresponda el mínimo entre esos mínimos.
+    - **Resultados favorables** \(\rightarrow\) **criterio maxi-max**. Se determina cuál es el resultado más elevado que puede alcanzarse con cada estrategia y, posteriormente, se elige aquella a la que le corresponda el máximo entre esos máximos.
+    - **Resultados desfavorables** \(\rightarrow\) **criterio mini-min**. Se determina cuál es el mejor resultado que puede obtenerse con cada estrategia (el menor) y se elige aquella a la que le corresponda el mínimo entre esos mínimos.
 3. **Criterio pesimista o de Wald.** Seguido por una persona que piense que para cualquier estrategia elegida, el estado presentado es el menos favorable para ella.
 4. **Criterio de optimismo parcial de Hurwicz.** Compromiso entre los criterios optimista y pesimista mediante un **coeficiente de optimismo** ($\alpha$); comprendido entre $0$ y $1$, y de su complemento a la unidad; que es el denominado **coeficiente de pesimismo** ($1 - \alpha$).
     - El mejor de los resultados de cada estrategia se pondera con el coeficiente de optimismo, en tanto que el peor de los resultados se pondera con el de pesimismo.
@@ -72,19 +72,21 @@ La teoría de los juegos de estrategia
 
 En los **juegos de estrategia** el resultado final depende de las decisiones tomadas por los diversos jugadores. Se pueden clasificar de acuerdo con diversos criterios:
 
-1. Según el **número de participantes** en los juegos.
-2. Según se la **ganancia total obtenida por el conjunto de todos los participantes**. Cuando el total de lo que unos ganan coincide con el total de lo que otros pierden, el saldo total es cero, o de suma nula.
+1. **Número de participantes** en los juegos.
+2. **Ganancia total obtenida por el conjunto de todos los participantes**. Cuando el total de lo que unos ganan coincide con el total de lo que otros pierden, el saldo total es cero, o de suma nula.
     - Los juegos de suma no nula pueden ser de suma constante o de suma variable, según sea constante o variable ese saldo neto total.
-3. Según el **número de jugadas** que comprenden.
-4. Según sea la **información de la que disponen los participantes** en el momento de jugar. Los juegos pueden ser de información completa y de información incompleta.
-5. Finalmente, según los **elementos que intervengan en las decisiones**, se distingue:
+3. **Número de jugadas** que comprenden.
+4. **Información de la que disponen los participantes** en el momento de jugar. Los juegos pueden ser de información completa y de información incompleta.
+5. **Elementos que intervengan en las decisiones**. Se distingue:
 
-- **Juegos de estrategia pura**. En las decisiones de los jugadores solo interviene su actuación.
-- **Juegos de estrategia mixta**. Interviene algún elemento aleatorio introducido por los propios jugadores.
+    - **Juegos de estrategia pura**. En las decisiones de los jugadores solo interviene su actuación.
+    - **Juegos de estrategia mixta**. Interviene algún elemento aleatorio introducido por los propios jugadores.
+
+---
 
 **Juego rectangular**. Para obtener una solución de un juego rectangular tendremos que hallar las mejores estrategias de los jugadores y el **valor del juego**: la cantidad que gana un jugador y que el otro la pierde.
 
-**Juegos con punto de silla**. Juegos en los que el maxi-min del ganador coincide con el mini-max del perdedor. 
+**Juegos con punto de silla**. Juegos en los que el maxi-min del ganador coincide con el mini-max del perdedor.
 
 - La técnica para encontrar un punto de silla es determinar un número que sea el menor de su fila y el mayor de su columna (supuesto que las columnas se correspondan con las posibles decisiones del perdedor y las filas con las del ganador). Puede cero o más puntos de silla.
 
@@ -116,18 +118,18 @@ P\left( T \middle| S \right) &= P(S)
 
 ***Esperanza matemática, valor esperado o media:***
 
-- Media aritmética ponderada de los valores que puede tomar la variable.
-- La probabilidad de cada valor se usa como coeficiente de ponderación.
-- Es un valor de referencia que señala donde se encuentra centrada la distribución de probabilidad.
-- Fórmula:
+1. Media aritmética ponderada de los valores que puede tomar la variable.
+2. La probabilidad de cada valor se usa como coeficiente de ponderación.
+3. Es un valor de referencia que señala donde se encuentra centrada la distribución de probabilidad.
+4. Fórmula:
 
     $$E\left( x \right) = x_{1} \cdot p_{1} + x_{2} \cdot p_{2} + \ldots + x_{n} \cdot p_{n} = \overline{x}$$
 
 ***Varianza:***
 
-- Esperanza matemática de los cuadrados de las desviaciones de los valores probables respecto a su media.
-- Da idea de la forma de la distribución de probabilidad.
-- La unidad de medida de la varianza es el cuadrado de la unidad de medida de la variable de que se trate:
+1. Esperanza matemática de los cuadrados de las desviaciones de los valores probables respecto a su media.
+2. Da idea de la forma de la distribución de probabilidad.
+3. La unidad de medida de la varianza es el cuadrado de la unidad de medida de la variable de que se trate:
 
 $$\sigma^{2}\left( x \right) = \left( x_{1} - \overline{x} \right)^{2} \cdot p_{1} + \left( x_{2} - \overline{x} \right)^{2} \cdot p_{2} + \ldots + \left( x_{n} - \overline{x} \right)^{2} \cdot p_{n}$$
 
@@ -135,9 +137,9 @@ $$\sigma^{2}\left( x \right) = \left( x_{1} - \overline{x} \right)^{2} \cdot p_{
 
 $$\sigma\left( x \right) = \sqrt{\sigma^{2}(x)}$$
 
-- Desviación típica muy pequeña \(\rightarrow\) probabilidad elevada de que la variable tome un valor próximo al esperado.
-- Desviación típica muy elevada \(\rightarrow\) probabilidad elevada de que la variable se desvíe al alza o baja respecto ese valor medio.
-- Caso de certeza \(\rightarrow\) la dispersión vale cero y va creciendo a medida que el riesgo va siendo mayor.
+1. **Desviación típica muy pequeña** \(\rightarrow\) probabilidad elevada de que la variable tome un valor próximo al esperado.
+2. **Desviación típica muy elevada** \(\rightarrow\) probabilidad elevada de que la variable se desvíe al alza o baja respecto ese valor medio.
+3. **Caso de certeza** \(\rightarrow\) la dispersión vale cero y va creciendo a medida que el riesgo va siendo mayor.
 
 Si hay varias alternativas, a cada una de las cuales le corresponde un valor esperado diferente y un nivel de riesgo distinto, la decisión depende de su **aversión al riesgo**; subjetividad del decisor:
 
@@ -168,11 +170,11 @@ La determinación del grado de confianza
 
 Características de las distribuciones normales:
 
-- Simétricas y forma acampanada, por lo que su representación se denomina **campana de Gauss**.
-- Probabilidad de que la variable tome un valor concreto es cero.
-- Probabilidad de que variable tome un valor comprendido en un cierto intervalo finito es una cantidad finita e igual al área existente bajo la campana en ese intervalo. El área total que hay bajo la campana vale $1$.
-- Esperanza matemática de la variable se encuentra en el centro de la distribución y, dado que ésta es simétrica y que su área total es igual a $1$, tanto el área situada a la izquierda de su valor esperado, como la existente a su derecha, han de valer $0,5$.
-- Esta distribución queda descrita conociendo su esperanza matemática y de su varianza:
+1. Simétricas y forma acampanada, por lo que su representación se denomina **campana de Gauss**.
+2. Probabilidad de que la variable tome un valor concreto es cero.
+3. Probabilidad de que variable tome un valor comprendido en un cierto intervalo finito es una cantidad finita e igual al área existente bajo la campana en ese intervalo. El área total que hay bajo la campana vale $1$.
+4. Esperanza matemática de la variable se encuentra en el centro de la distribución y, dado que ésta es simétrica y que su área total es igual a $1$, tanto el área situada a la izquierda de su valor esperado, como la existente a su derecha, han de valer $0,5$.
+5. Esta distribución queda descrita conociendo su esperanza matemática y de su varianza:
     - La esperanza matemática determina el lugar en el que se encuentra centrada la distribución
     - La varianza determina su forma
 
