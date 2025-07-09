@@ -91,8 +91,8 @@ El **reclutamiento** comienza proyectando una imagen pública que atraiga person
     - No estructuradas. Más espontáneas; se formulan preguntas de tipo general con objeto de que el candidato termine revelando cosas sobre sí mismo.
 6. **Revisión médica.** Se deja para el final del proceso cuando restan pocos candidatos. Tiene un triple objetivo:
     1. Tratar de evitar pagar por problemas de salud que el empleado ya tenía cuando se incorporó a la misma.
-    2. Se ha de asegurar de que el empleado es capaz físicamente de realizar el trabajo.
-    3. Cumplir la obligación de contratar a alguien que padezca una enfermedad contagiosa.
+    2. Asegurar de que el empleado es capaz físicamente de realizar el trabajo.
+    3. Evitar contratar a alguien que padezca una enfermedad contagiosa.
 
 7. **Decisión final.** Dependiendo de si la persona:
     - **No es adecuada**. El sustituirla por otra comporta incurrir en elevadísimos costes de despido y el proceso de reclutamiento y selección; que también tiene costes. El proceso se inicia de nuevo.
@@ -101,7 +101,7 @@ El **reclutamiento** comienza proyectando una imagen pública que atraiga person
 La orientación, formación y desarrollo
 --------------------------------------
 
-***Programa de orientación.*** Su objetivo es evitar el sentimiento de soledad y aislamiento que es habitual los primeros días:
+***Programa de orientación.*** Su objetivo es evitar el sentimiento de soledad y aislamiento habitual de los primeros días:
 
 1. Desarrollado por el departamento de recursos humanos y el departamento en el que trabajará el nuevo empleado.
 2. Recursos humanos le entrega una copia del manual del empleado en el que se le explican sus derechos y la política de la empresa sobre diversas cuestiones. Si no existe, se le explican verbalmente todos esos aspectos.
@@ -115,22 +115,23 @@ La orientación, formación y desarrollo
 - **Formación en el puesto de trabajo:**
     1. Programa de formación en el que el nuevo trabajador aprende las tareas de su puesto de trabajo llevándolas a cabo bajo la orientación de otra persona con experiencia.
     2. Usado en trabajos relativamente sencillos de modo que los trabajadores aprenden con la práctica.
--. **Formación fuera del puesto de trabajo:**
+
+**Formación fuera del puesto de trabajo:**
     1. Evita la presión derivada de estar al mismo tiempo haciendo el trabajo y aprendiendo a hacerlo.
     2. Puede reducir las pérdidas materiales y de tiempo de trabajo.
     3. Habitualmente incluyen las clases y la simulación en la que los trabajadores realizan operaciones semejantes a las que tendrán que efectuar posteriormente.
 
 ***Capital humano***:
 
-1. Inversión que realiza la empresa para formar a sus trabajadores
-2. Rentable mientras el valor de las ventajas que obtenga con ello supere a los pagos que tenga que realizar
+1. Inversión que realiza la empresa para formar a sus trabajadores.
+2. Rentable mientras el valor de las ventajas que obtenga con ello supere a los pagos a realizar.
 3. Desde el punto de vista del trabajador se distingue:
     - **Formación general.** Puede ser útil en diversos tipos de empresas.
     - **Formación especial.** Solo tiene utilidad en la empresa en la que trabaja.
 
-***Programas de formación para puestos directivos o de desarrollo de la dirección***. Diseñados para mejorar la capacidad y aumentar los conocimientos de los directivos de la empresa y de sus empleados que tienen posibilidades de llegar a serlo. Constan de los siguientes elementos:
+***Programas de formación para puestos directivos o de desarrollo de la dirección***. Diseñados para mejorar la capacidad y aumentar los conocimientos de los directivos de la empresa y de los empleados que tienen posibilidades de llegar a serlo. Constan de los siguientes elementos:
 
-1. **Cursos.**
+1. **Cursos**.
 2. **Rotación de trabajos.** Sucesivas asignaciones temporales a diversos departamentos para que los jóvenes ejecutivos se familiaricen con las diversas actividades de la empresa y sepan la función que desempeña cada unidad organizativa.
 3. **Adiestramiento.** Asignar al joven ejecutivo a un directivo con experiencia.
 
@@ -153,34 +154,33 @@ La evaluación del trabajo
 
 1. Definir un nivel de rendimiento en el trabajo aceptable
 2. Valorar el rendimiento del trabajador
-3. Efectuar la comparación para tomar decisiones sobre
-4. Formación
-5. Remuneración
-6. Promoción
-7. Cambio de puesto de trabajo
-8. Despido
+3. Efectuar la comparación para tomar decisiones sobre:
+	1. Formación
+	2. Remuneración
+	3. Promoción
+	4. Cambio de puesto de trabajo
+	5. Despido
 
 Los objetivos de la evaluación son:
 
 1. **Informar al trabajador**. Para que conozca sus puntos fuertes y débiles y las cuestiones que necesita mejorar.
-2. **Informar a la dirección**. Para que tome las medidas que sean oportunas.
-3. **Motivar al trabajador**. Determinar quién merece remuneración mayor y promoción.
+2. **Informar a la dirección**. Para que tome las medidas oportunas.
+3. **Motivar al trabajador**. Para determinar quién merece remuneración mayor y promoción.
 
 Lo primero que se evalúan son los **resultados**, medidos en términos de:
 
-1. Calidad de trabajo
-2. Cantidad de trabajo
-3. Conocimiento del puesto de trabajo
+1. Calidad y cantidad de trabajo
+2. Conocimiento del puesto de trabajo
 
 También se evalúa la **personalidad**; no solo aisladamente sino en relación al grupo en el que el trabajador desempeña su actividad.
 
 Las técnicas para la evaluación son:
 
-- **Formulario de evaluación.** Figura toda una relación de criterios de valoración y en cada uno de ellos el evaluador señala el nivel en el que se encuentra el evaluado.
-    1. Procedimiento más antiguo y más utilizado.
-    2. Efectuada por el superior inmediato del trabajador evaluado.
+- **Formulario de evaluación.** Figura toda una relación de criterios de valoración donde el evaluador indica el nivel en el que se encuentra el evaluado.
+    - Procedimiento más antiguo y más utilizado.
+    - Efectuada por el superior inmediato del trabajador evaluado.
 - **Fijar objetivos.** Al comenzar el período (de seis meses o un año) el directivo y el trabajador fijan conjuntamente un objetivo que éste puede alcanzar en ese período.
-    1. La evaluación se obtiene comparando lo realmente conseguido y el objetivo propuesto.
+	- La evaluación se obtiene comparando lo realmente conseguido y el objetivo propuesto.
 
 La determinación de las remuneraciones y la promoción
 -----------------------------------------------------
@@ -193,12 +193,12 @@ La determinación de las remuneraciones está limitada por disposiciones legales
 2. Disponibilidad de personas cualificadas.
 3. Nivel de autoridad y responsabilidad del puesto.
 4. Grado de contribución del puesto a los objetivos de la empresa.
-5. Sueldos y salarios que se abonan en otras empresas.
+5. Sueldos y salarios abonados en otras empresas.
 
 De modo que:
 
 1. Mediante esos factores se fija una **escala salarial** en la que figuran la relación de puestos y la remuneración que corresponde a cada uno.
-2. La remuneración pude basarse en la cantidad de trabajo realizado o en el tiempo dedicado.
+2. La remuneración puede basarse en la cantidad de trabajo realizado o en el tiempo dedicado.
 3. Puede seguirse algún procedimiento en el que se tengan en cuenta ambos factores.
 4. Existen sistemas de remuneración por incentivos con los que se trata de que los trabajadores tengan la mayor productividad y rendimiento posibles; un ejemplo es la participación en beneficios.
 
@@ -206,12 +206,12 @@ De modo que:
 
 1. Efecto incentivador escaso por la falta de inmediatez entre el esfuerzo y el momento en el que se obtiene la compensación económica.
 2. Para incentivar a los directivos se entrega anualmente un número de acciones de la empresa proporcional a los resultados obtenidos en su labor y las bonificaciones.
-3. Dado que el número de acciones es mayor a medida que mejores son sus resultados:
-    1. Los directivos se encuentran incentivados.
-    2. Pasar a ser parcialmente propietarios de la empresa, lo que procura una mejora futura de su rendimiento.
-4. Las bonificaciones son pagas extras que dependen de los resultados obtenidos por las divisiones empresas filiales y que se abonan a los directivos de las mismas que tienen mayor nivel.
+3. Dado que el número de acciones es mayor a medida mejoran los resultados, los directivos:
+    1. Están incentivados.
+    2. Pasan a ser parcialmente propietarios de la empresa, lo que procura una mejora futura de su rendimiento.
+4. Las bonificaciones son pagas extras que dependen de los resultados obtenidos por las diferentes empresas filiales y que se abonan a los directivos de las mismas que tienen mayor nivel.
 
 ***Promoción.*** Ascenso de una persona a otro puesto de la organización al que le corresponde mayor autoridad, responsabilidad y (probablemente) una remuneración más elevada:
 
 1. Toda promoción ha de basarse en una adecuación entre la persona y el puesto.
-2. La experiencia puede constituir un criterio adecuado cuando es necesaria o conveniente para ocupar el nuevo puesto de trabajo, pero la antigüedad, por sí misma, nunca lo es.
+2. La experiencia puede constituir un criterio adecuado cuando es necesaria o conveniente para ocupar el nuevo puesto de trabajo; la antigüedad, por sí misma, nunca lo es.
