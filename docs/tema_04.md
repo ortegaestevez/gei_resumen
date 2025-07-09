@@ -11,7 +11,7 @@ La modelización
 
 Un modelo se pueden clasificar considerando diversos criterios:
 
-1. **Modelos objetivos y subjetivos.** Cuando en la toma de decisiones interviene sucesos no experimentables objetivamente y no existen métodos formales, los modelos han de ser:
+1. **Modelos objetivos y subjetivos.** Se emplean uando en la toma de decisiones intervienen sucesos no experimentables objetivamente y no existen métodos formales, los modelos han de ser:
     1. Informales
     2. Subjetivos
     3. Basarse en la intuición
@@ -20,9 +20,9 @@ Un modelo se pueden clasificar considerando diversos criterios:
     Entre estos modelos se encuentran:
 
     1. **De optimización**. Permiten determinar los valores que ha de darse a las variables de modo que se maximice o minimice otra variable que se tiene como objetivo. Son **prescriptivos**.
-    2. **De simulación**. Representaciones simplificadas Re la realidad sobre las que se opera para estudiar los efectos de distintas alternativas de actuación. Son **descriptivos**.
+    2. **De simulación**. Representaciones simplificadas de la realidad, sobre las que se opera para estudiar los efectos de distintas alternativas de actuación. Son **descriptivos**.
     3. **Estáticos**. Aquellos que no utilizan la variable tiempo.
-    4. **Dinámicos**. Incorporan como variable o parámetro fundamental.
+    4. **Dinámicos**. Incorporan el tiempo como variable o parámetro fundamental.
     5. **Deterministas**. Los datos se suponen conocidos con certeza.
     6. **Probabilísticos aleatorios o estocásticos**. Uno o varios datos solo se conocen en términos de probabilidades.
 
@@ -45,11 +45,11 @@ Criterios de decisión en ambiente de incertidumbre
 
 En un entorno de escasez de información como es el de incertidumbre, ha de intervenir en gran medida la subjetividad:
 
-- **Incertidumbre no está estructurada**. Ni se puede obtener más información la decisión deberá basarse en la intuición.
+- **Incertidumbre no está estructurada** y no se puede obtener más información. La decisión deberá basarse en la intuición.
 - **Incertidumbre está estructurada**. La decisión continúa incorporando una carga de subjetividad muy elevada.
 
 Los principales **criterios de decisión** en un entorno de incertidumbre estructurada son los siguientes:
-
+5
 1. **Criterio de Laplace, racionalista o de igual verosimilitud**. Parte del postulado de Bayes: si no se conocen las probabilidades asociadas a cada uno de los estados de la naturaleza no hay razón para pensar que uno tenga más probabilidades que otros.
 
     Se calcula la media aritmética de los resultados que se pueden derivar de cada una de las decisiones y, dependiendo de los resultados: 
