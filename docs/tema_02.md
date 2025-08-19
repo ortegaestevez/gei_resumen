@@ -15,7 +15,7 @@ Concepto de dirección y niveles directivos
 Los directivos se organizan en una estructura piramidal con tres niveles:
 
 1. **Alta dirección**. Nivel más alto compuesto por el presidente y otros directivos clave.
-    - Función. Supervisan el funcionamiento general de la empresa y desarrollan los **planes a largo plazo** de la empresa:
+    - Función. Supervisar el funcionamiento general de la empresa y desarrollar **planes a largo plazo** de la misma:
         - Creación de nuevos productos.
         - Adquisición de otras compañías.
         - Expansión internacional.
@@ -124,7 +124,7 @@ Las estructuras organizativas definen cómo se distribuyen la autoridad y las re
 2. **En línea y *staff***:
     1. Combina la autoridad directa (línea) con **relaciones de consulta y asesoramiento** de departamentos especializados (*staff*). 
     2. Rapidez en la toma de decisiones directas y el acceso a conocimientos expertos.
-    3. Los directivos de *staff* tienen autoridad limitada a sus subordinados internos.
+    3. Los directivos de *staff* tienen autoridad limitada sobre sus subordinados internos.
 3. **Comité**:
     1. Autoridad y responsabilidad se comparten entre un grupo de personas.
     2. Se suele usar junto con la estructura en línea y *staff* para decisiones específicas.
@@ -136,10 +136,10 @@ Las estructuras organizativas definen cómo se distribuyen la autoridad y las re
 
 ### Conceptos Clave en Organización
 
-1. **Autoridad**. Derecho o capacidad de mandar, hacerse obedecer y tomar decisiones que afectan a otros.
-2. **Responsabilidad**. Obligación de la persona de ejecutar las tareas asignadas.
-3. **Delegación de autoridad**. Asignar una tarea a un subordinado, otorgarle libertad y autoridad para ejecutarla, controlándole para verificar su desempeño.
-4. **Límite de la dirección o límite de control**. Número de personas que un directivo puede supervisar directamente.
+1. **Responsabilidad**. Obligación de la persona de ejecutar las tareas asignadas.
+2. **Límite de la dirección o de control**. Número de personas que un directivo puede supervisar directamente.
+3. **Autoridad**. Derecho o capacidad de mandar, hacerse obedecer y tomar decisiones que afectan a otros.
+4. **Delegación de autoridad**. Asignar una tarea a un subordinado, otorgarle libertad y autoridad para ejecutarla, controlándole para verificar su desempeño.
 5. **Concentración**. La mayoría de las decisiones importantes recaen en pocos puestos.
 6. **Centralización**. Concentración que se da en la cúspide.
 7. **Descentralización**. Implica que los puestos de niveles inferiores tienen cierta capacidad de decisión, autonomía y responsabilidad. Generalmente, las decisiones rutinarias tienden a descentralizarse, mientras que las menos repetitivas y críticas se centralizan.
