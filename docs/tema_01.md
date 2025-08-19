@@ -45,7 +45,7 @@ Integra y coordina:
 La empresa como sistema
 -----------------------
 
-***Sistema***. Conjunto de elementos o subsistemas interrelacionados entre sí y con el sistema global que trata de alcanzar ciertos objetivos.
+***Sistema***. Conjunto de elementos o subsistemas interrelacionados entre sí y con el sistema global, que trata de alcanzar ciertos objetivos.
 
 ***Sistema finalista***. Aquel que permite la elección de medios fines o ambos.
 
@@ -166,7 +166,7 @@ La Empresa y el Sistema Económico
 
 Las empresas operan dentro de un **sistema económico** y su existencia se justifica por varias razones, dependiendo de si el sistema es:
 
-- ***De libre mercado***. Las empresas compiten entre sí de forma independiente. La **"mano invisible" de Adam Smith** asegura que solo las compañías más eficientes y aquellas que mejor satisfacen a los consumidores sobreviven.
+- ***De libre mercado***. Las empresas compiten entre sí de forma independiente. La **"mano invisible" de Adam Smith** asegura que solo sobreviven las compañías más eficientes y que mejor satisfacen a los consumidores.
 - ***Economía centralizada***. El Estado controla todas las empresas y toma las decisiones para cumplir con un plan preestablecido.
 
 #### La "Mano Invisible" de la Empresa (Costes de Transacción)
@@ -176,9 +176,9 @@ Según R.H. Coase, las empresas también existen para **reducir los costes de tr
 - Realizar intercambios directamente en el mercado puede ser más caro e incierto.
 - En este sentido, la empresa actúa como un intermediario que:
 
-    1. Organiza las relaciones económicas
-    2. Minimiza el número de transacciones
-    3. Reduce los costes y la incertidumbre
+    1. **Organiza** las relaciones económicas
+    2. **Minimiza** el número de transacciones
+    3. **Reduce** los costes y la incertidumbre
 
 #### Intervención del Estado
 
@@ -217,13 +217,15 @@ Implica que un trabajador debe actuar buscando el beneficio de su empresa y no s
 
 Plantea si la empresa debe incorporar consideraciones sobre el bienestar social. Existen dos posturas extremas:
 
-- **Enfoque de primacía del beneficio**. Sostiene que la empresa solo debe ser rentable y generar beneficios porque crea:
+- **Enfoque de primacía del beneficio**. Sostiene que la empresa solo debe ser rentable y generar beneficios porque:
 
-    1. Riqueza
-    2. Empleo
-    3. Promueve el crecimiento económico
-    4. El bienestar
-    5. El desarrollo social y político
+    * Crea:
+        1. Riqueza
+        2. Empleo
+    * Promueve:
+        1. El crecimiento económico
+        2. El bienestar
+        3. El desarrollo social y político
 
 La empresa cumple con su responsabilidad social simplemente no dañando a la sociedad.
 
@@ -231,8 +233,8 @@ La empresa cumple con su responsabilidad social simplemente no dañando a la soc
 
   Para situar el tema en sus justos términos, parece evidente que:
 
-  - Al operar con economicidad, eficacia y eficiencia, las empresas contribuyen al bienestar social. Al optimizar la consecución de sus objetivos económicos, desarrollan actividades socialmente deseables.
-  - Es conveniente que las empresas incorporen objetivos que favorezcan el bienestar de la sociedad. El problema es que las actividades orientadas socialmente generan costes y reducen la rentabilidad y las posibilidades de crecimiento de la empresa. Evidentemente, es deseable que las empresas estén orientadas socialmente, pero para lograrlo de manera que la carga se reparta entre todas ellas, debe hacerse de forma imperativa y generalizada.
+- Al operar con economicidad, eficacia y eficiencia, las empresas contribuyen al bienestar social. Al optimizar la consecución de sus objetivos económicos, desarrollan actividades socialmente deseables.
+- Es conveniente que las empresas incorporen objetivos que favorezcan el bienestar de la sociedad. El problema es que las actividades orientadas socialmente generan costes y reducen la rentabilidad y las posibilidades de crecimiento de la empresa. Evidentemente, es deseable que las empresas estén orientadas socialmente, pero para lograrlo de manera que la carga se reparta entre todas ellas, debe hacerse de forma imperativa y generalizada.
 
 Teorías sobre la empresa
 ------------------------
@@ -243,4 +245,4 @@ Las teorías de la empresa son marcos que explican su funcionamiento y existenci
 2. **Teoría de la Agencia**. La empresa es un conjunto de relaciones contractuales donde el principal delega tareas al agente. Los problemas surgen por la divergencia de intereses, incertidumbre y asimetría de información, generando "costes de agencia" (vigilancia, atención, oportunidad).
 3. **Teoría de los Costes de Transacción**. Explora por qué la empresa sustituye al mercado como coordinador de actividades. La empresa surge para reducir los costes de información, negociación y contratación inherentes al mercado, aunque su crecimiento se limita cuando los costes de coordinación interna superan a los de transacción del mercado.
 4. **Teoría de los Derechos de Propiedad (contractual)**. Ligada a los costes de transacción, concibe la empresa como una "caja transparente" de contratos bilaterales y relaciones de jerarquía. El resultado empresarial depende del sistema de contratos y derechos de propiedad.
-5. **Teoría de Recursos y Capacidades**. Explica las diferencias entre empresas por la heterogeneidad de sus recursos financieros, físicos, humanos, organizativos, tecnológicos, intangibles, capacidades organizativas y habilidades colectivas. Estas capacidades se materializan en **rutinas organizativas**, que son pautas de actuación que definen lo que la empresa puede hacer y son clave para la estrategia interna.
+5. **Teoría de Recursos y Capacidades**. Explica las diferencias entre empresas por la heterogeneidad de sus diferentes recursos (financieros, físicos, humanos, organizativos, tecnológicos, intangibles, capacidades organizativas y habilidades colectivas). Estas capacidades se materializan en **rutinas organizativas**, que son pautas de actuación que definen lo que la empresa puede hacer y son clave para la estrategia interna.
