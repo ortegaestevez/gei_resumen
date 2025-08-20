@@ -44,12 +44,12 @@ Este proceso consta de las siguientes **etapas**:
 
 1. **Análisis del puesto de trabajo.** Estudio sistemático y detallado del mismo que identifica y examina:
     1. Elementos y tareas que le conforman
-    2. Características y los requisitos que ha de cumplir la persona que se le asigne
+    2. Características y requisitos que ha de cumplir la persona que se le asigne
 2. **Descripción del puesto de trabajo.** Documento en el que se especifica
     1. Objetivos del puesto
-    2. Trabajo que se ha de realizar
+    2. Trabajo a realizar
     3. Responsabilidades que comporta
-    4. Capacitación que requiere
+    4. Capacitación requerida
     5. Relación con otros puestos
     6. Condiciones de trabajo
 3. **Especificación del puesto de trabajo.** Relación de los requisitos necesarios para ocupar el puesto de trabajo en términos de cualidades físicas, mentales y emocionales:
@@ -65,7 +65,7 @@ Lo más frecuente es que la descripción y la especificación se incorporen en u
 
 El **reclutamiento** comienza proyectando una imagen pública que atraiga personas cualificadas, pudiéndose realizar en el interior o exterior de la propia empresa:
 
-- **En el interior.** La mayoría de empresas siguen esta política: primero tener en cuenta a sus propios empleados para cubrir un puesto. Esto es porque:
+- **En el interior.** La mayoría de empresas primero suelen ver si pueden usar a sus propios empleados para cubrir un puesto. Esto es porque:
     1. Es más sencillo y barato evaluar personas que ya se conocen y sobre cuya formación, experiencia, capacidades, actitudes y hábitos de trabajo se tienen datos o se pueden obtener fácilmente.
     2. El cambio de puesto de trabajo y la promoción resultan motivadores e incentivan a las personas.
     3. **Inconvenientes**:
@@ -78,23 +78,21 @@ El **reclutamiento** comienza proyectando una imagen pública que atraiga person
 1. **Entrevista preliminar.** Se realizan algunas preguntas generales sobre su experiencia, estudios, etc., y se observa su apariencia (si es importante para el puesto):
 
     - **El candidato no está cualificado para el puesto** \(\rightarrow\) el proceso finaliza aquí.
-    - **Probabilidad razonable de que ocupe el puesto** \(\rightarrow\) se le pide que cumplimente el documento de solicitud de empleo.
-
-2. **Solicitud de empleo.** Instrumento para obtener datos sobre la formación, experiencia, aspiraciones y referencias personales del candidato.
-3. **Realización de test.** Tratan de determinar la capacidad de la persona, aptitud, conocimiento, personalidad, etc. Su principal misión es conseguir cierta objetividad.
-4. **Contrastación de referencias.** Se contrastan las referencias para comprobar su nivel de formación:
+    - **Probabilidad razonable de que ocupe el puesto** \(\rightarrow\) se le pide que cumplimente el documento de solicitud de empleo; un instrumento para obtener datos sobre la formación, experiencia, aspiraciones y referencias personales del candidato.
+2. **Realización de test.** Tratan de determinar la capacidad de la persona, aptitud, conocimiento, personalidad, etc. Su principal misión es conseguir cierta objetividad.
+3. **Contrastación de referencias.** Se contrastan las referencias para comprobar su nivel de formación:
     1. La mayoría se limita a comprobar los empleos anteriores.
     2. Las cartas de recomendación no son de gran utilidad porque no suelen contener datos negativos y ningún candidato mencionaría empleos en los que las referencias pudieran no ser a su favor.
     3. Lo más efectivo es la visita personal o una llamada a las empresas en las que el candidato trabajó anteriormente.
-5. **Entrevista personal.** Casi todas las empresas utilizan la entrevista personal. Dependiendo del modelo de entrevista que se prefiera:
-    - Estructuradas. Siguen un formato establecido previamente.
-    - No estructuradas. Más espontáneas; se formulan preguntas de tipo general con objeto de que el candidato termine revelando cosas sobre sí mismo.
-6. **Revisión médica.** Se deja para el final del proceso cuando restan pocos candidatos. Tiene un triple objetivo:
+4. **Entrevista personal.** Casi todas las empresas utilizan la entrevista personal. Dependiendo del modelo de entrevista que se prefiera:
+    - **Estructuradas**. Siguen un formato establecido previamente.
+    - **No estructuradas**. Más espontáneas; se formulan preguntas de tipo general con objeto de que el candidato termine revelando cosas sobre sí mismo.
+5. **Revisión médica.** Se deja para el final del proceso cuando restan pocos candidatos. Tiene un triple objetivo:
     1. Tratar de evitar pagar por problemas de salud que el empleado ya tenía cuando se incorporó a la misma.
     2. Asegurar de que el empleado es capaz físicamente de realizar el trabajo.
     3. Evitar contratar a alguien que padezca una enfermedad contagiosa.
 
-7. **Decisión final.** Dependiendo de si la persona:
+6. **Decisión final.** Dependiendo de si la persona:
     - **No es adecuada**. El sustituirla por otra comporta incurrir en elevadísimos costes de despido y el proceso de reclutamiento y selección; que también tiene costes. El proceso se inicia de nuevo.
     - **Es adecuada**. La empresa hace una **oferta formal** al candidato en cuanto a salario y otras ventajas y condiciones. Puede haber algunas **negociaciones** entre las dos partes para buscar un acuerdo que interese a ambas.
 
@@ -116,7 +114,7 @@ La orientación, formación y desarrollo
     1. Programa de formación en el que el nuevo trabajador aprende las tareas de su puesto de trabajo llevándolas a cabo bajo la orientación de otra persona con experiencia.
     2. Usado en trabajos relativamente sencillos de modo que los trabajadores aprenden con la práctica.
 
-**Formación fuera del puesto de trabajo:**
+- **Formación fuera del puesto de trabajo:**
     1. Evita la presión derivada de estar al mismo tiempo haciendo el trabajo y aprendiendo a hacerlo.
     2. Puede reducir las pérdidas materiales y de tiempo de trabajo.
     3. Habitualmente incluyen las clases y la simulación en la que los trabajadores realizan operaciones semejantes a las que tendrán que efectuar posteriormente.
@@ -179,17 +177,15 @@ Las técnicas para la evaluación son:
 - **Formulario de evaluación.** Figura toda una relación de criterios de valoración donde el evaluador indica el nivel en el que se encuentra el evaluado.
     - Procedimiento más antiguo y más utilizado.
     - Efectuada por el superior inmediato del trabajador evaluado.
-- **Fijar objetivos.** Al comenzar el período (de seis meses o un año) el directivo y el trabajador fijan conjuntamente un objetivo que éste puede alcanzar en ese período.
+- **Fijación de objetivos.** Al comenzar el período (de seis meses o un año) el directivo y el trabajador fijan un objetivo que pueda ser alcanzado en ese período.
 	- La evaluación se obtiene comparando lo realmente conseguido y el objetivo propuesto.
 
 La determinación de las remuneraciones y la promoción
 -----------------------------------------------------
 
-La determinación de las remuneraciones está limitada por disposiciones legales y convenios colectivos. No obstante, deben basarse en un cuidadoso estudio de valoración de los puestos de trabajo.
-
 ***Valoración de los puestos de trabajo.*** Procedimiento para determinar los niveles de remuneración de todos los trabajadores en función de una serie de factores entre los que se encuentran:
 
-1. Capacitación necesaria para desempeñar el puesto, en términos de educación, experiencia, características físicas y sociales precisas, etc.
+1. Capacitación necesaria para desempeñar el puesto (en términos de educación, experiencia, características físicas y sociales precisas, etc).
 2. Disponibilidad de personas cualificadas.
 3. Nivel de autoridad y responsabilidad del puesto.
 4. Grado de contribución del puesto a los objetivos de la empresa.
