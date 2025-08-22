@@ -76,7 +76,6 @@ El **reclutamiento** comienza proyectando una imagen pública que atraiga person
 ***Proceso de selección.*** consta de las siguientes fases:
 
 1. **Entrevista preliminar.** Se realizan algunas preguntas generales sobre su experiencia, estudios, etc., y se observa su apariencia (si es importante para el puesto):
-
     - **El candidato no está cualificado para el puesto** \(\rightarrow\) el proceso finaliza aquí.
     - **Probabilidad razonable de que ocupe el puesto** \(\rightarrow\) se le pide que cumplimente el documento de solicitud de empleo; un instrumento para obtener datos sobre la formación, experiencia, aspiraciones y referencias personales del candidato.
 2. **Realización de test.** Tratan de determinar la capacidad de la persona, aptitud, conocimiento, personalidad, etc. Su principal misión es conseguir cierta objetividad.
@@ -91,7 +90,6 @@ El **reclutamiento** comienza proyectando una imagen pública que atraiga person
     1. Tratar de evitar pagar por problemas de salud que el empleado ya tenía cuando se incorporó a la misma.
     2. Asegurar de que el empleado es capaz físicamente de realizar el trabajo.
     3. Evitar contratar a alguien que padezca una enfermedad contagiosa.
-
 6. **Decisión final.** Dependiendo de si la persona:
     - **No es adecuada**. El sustituirla por otra comporta incurrir en elevadísimos costes de despido y el proceso de reclutamiento y selección; que también tiene costes. El proceso se inicia de nuevo.
     - **Es adecuada**. La empresa hace una **oferta formal** al candidato en cuanto a salario y otras ventajas y condiciones. Puede haber algunas **negociaciones** entre las dos partes para buscar un acuerdo que interese a ambas.

@@ -6,7 +6,7 @@ Los árboles de decisión
 
 ***Decisiones secuenciales:***
 
-- Aquellas que se encuentran sometidas a un proceso dinámico y adaptativo en un período de tiempo más o menos amplio en el que las decisiones se concatenan
+- Aquellas que se encuentran sometidas a un proceso dinámico y adaptativo en un período de tiempo más o menos amplio en el que las decisiones se concatenan.
 - Cada una condiciona a las que le siguen y viene condicionada por las que le anteceden y por los estados de la naturaleza que se hayan presentado.
 
 ***Árbol de decisión.*** Sistema de representación del proceso decisional en el que se reflejan:
@@ -33,10 +33,10 @@ Cada nudo tiene un **valor asociado**:
 El valor esperado de la información perfecta
 --------------------------------------------
 
-- ***Información perfecta.*** Aquella en la que la probabilidad de que sea correcta es el cien por cien.
-- ***Valor esperado de la información (VEI).*** Es la esperanza matemática del valor de la información.
-- ***Valor esperado neto de la información (VENI).*** Valor esperado de la información menos su coste.
-- ***Valor esperado de la información perfecta (VEIP).*** Límite máximo que podrá pagarse por la información perfecta y por cualquier otra.
+1. ***Información perfecta.*** Aquella en la que la probabilidad de que sea correcta es el cien por cien.
+2. ***Valor esperado de la información (VEI).*** Es la esperanza matemática del valor de la información.
+3. ***Valor esperado neto de la información (VENI).*** Diferencia del VEI y su coste.
+4. ***Valor esperado de la información perfecta (VEIP).*** Límite máximo que podrá pagarse por la información perfecta y por cualquier otra.
 
 La programación lineal
 ----------------------
@@ -125,16 +125,17 @@ Este método obliga a identificar las actividades que integran el proyecto, resa
 
 **Principales aportaciones del PERT**:
 
-1. La producción de planes realistas, detallados y de fácil difusión, que incrementan las probabilidades de alcanzar los objetivos del proyecto.
-2. La predicción de las duraciones y de la certidumbre de las mismas.
-3. El centrar la atención en las partes del proyecto que son susceptibles de impedir o demorar su realización.
+1. Producción de planes realistas, detallados y de fácil difusión, que incrementan las probabilidades de alcanzar los objetivos del proyecto.
+2. Predicción de las duraciones y de la certidumbre de las mismas.
+3. Centrar la atención en las partes del proyecto susceptibles de impedir o demorar su realización.
 4. Informar de la incompleta utilización de los recursos.
-5. La sencilla simulación de alternativas.
-6. La obtención de informes completos y frecuentes del estado del proyecto.
+5. Sencilla simulación de alternativas.
+6. Obtención de informes completos y frecuentes del estado del proyecto.
 
 **Objetivos del PERT:**
-* Anticipar la duración mínima del proyecto.
-* Identificar actividades **críticas** que, si se retrasan, demoran la ejecución total del proyecto.
+
+- Anticipar la duración mínima del proyecto.
+- Identificar actividades **críticas** que, si se retrasan, demoran la ejecución total del proyecto.
 
 El método PERT en certeza
 -------------------------
@@ -158,7 +159,7 @@ Cada flecha ha de tener un nudo de origen y otro de destino:
 - **Prelaciones lineales.** Se presentan cuando, para poder iniciar una determinada actividad, es necesario que haya finalizado previamente una única actividad.
 - **Prelaciones de convergencia.** Para poder iniciar una cierta actividad es necesario que hayan finalizado previamente dos o más actividades.
 - **Prelaciones de divergencia.** Para que puedan iniciarse dos o más actividades es necesario que se haya terminado anteriormente una única actividad.
-- **Relaciones que dan lugar a convergencia y divergencia.** Aquellas que se producen cuando, para que se puedan iniciar un conjunto de dos o más actividades, es preciso que se haya finalizado previamente más de una actividad.
+- **Relaciones que dan lugar a convergencia y divergencia.** Para que se puedan iniciar un conjunto de dos o más actividades, es preciso que se haya finalizado previamente más de una actividad.
 
 ![](./assets/images/image5.png)
 
@@ -167,7 +168,7 @@ Cada flecha ha de tener un nudo de origen y otro de destino:
 Las relaciones de precedencia permiten construir los grafos parciales que, componiéndolos y numerando los nodos, se emplean para obtener el grafo PERT. Deben respetarse los siguientes principios:
 
 1. **Principio de designación sucesiva**. Prohíbe numerar un nudo si se encuentra sin numerar alguno de los nudos de los que parten flechas que finalizan en él.
-2. **Principio de unicidad del estado inicial y del estado final.** Prohíbe la existencia de más de un nodo de comienzo ni más de un nodo final, pues solo puede existir una situación de inicio del proyecto y una situación de finalización del mismo.
+2. **Principio de unicidad del estado inicial y del estado final.** Prohíbe la existencia de más de un nudo de comienzo ni más de un nudo final, pues solo puede existir una situación de inicio del proyecto y una situación de finalización del mismo.
 3. **Principio de designación unívoca.** Prohíbe la existencia de dos flechas que partan del mismo nudo y que tenga, también, el mismo nudo de destino.
 
 ![](./assets/images/image6.png)
@@ -200,25 +201,25 @@ Las relaciones de precedencia permiten construir los grafos parciales que, compo
 
 ***Tiempo early.*** 
 
-- Número mínimo de unidades de tiempo necesarias para alcanzar la situación representada por ese nudo.
-- Es la duración del camino más largo que conduce, desde el nudo inicial, a ese nudo.
-- Se calcula, en el grafo, procediendo desde el nudo inicial hacia el final.
+1. Número mínimo de unidades de tiempo necesarias para alcanzar la situación representada por ese nudo.
+1. Es la duración del camino más largo que conduce, desde el nudo inicial, a ese nudo.
+1. Se calcula, en el grafo, procediendo desde el nudo inicial hacia el final.
 
 ***Tiempo last.***
 
-- Momento más tardío admisible para llegar a la situación descrita por este nudo sin retrasar la ejecución del proyecto sobre el mínimo imprescindible.
-- Se calcula, en el grafo, procediendo desde el nudo final hacia el inicial.
-- Consideraciones:
-- El tiempo *last* del último nudo tiene que ser igual a su tiempo *early* porque implica que el proyecto ha terminado y no se admite que finalice en un tiempo inferior al mínimo imprescindible.
-- El tiempo *last* de un nudo es la diferencia entre el tiempo *last* del último nudo y la duración del camino más largo que conduce, en sentido inverso, del último nudo al nudo en cuestión.
+1. Momento más tardío admisible para llegar a la situación descrita por este nudo sin retrasar la ejecución del proyecto sobre el mínimo imprescindible.
+1. Se calcula, en el grafo, procediendo desde el nudo final hacia el inicial.
+1. Consideraciones:
+    - El tiempo *last* del último nudo tiene que ser igual a su tiempo *early* porque implica que el proyecto ha terminado y no se admite que finalice en un tiempo inferior al mínimo imprescindible.
+    - El tiempo *last* de un nudo es la diferencia entre el tiempo *last* del último nudo y la duración del camino más largo que conduce, en sentido inverso, del último nudo al nudo en cuestión.
 
 ***Oscilación de un nudo.*** Diferencia entre su tiempo *last* y su tiempo *early*.
 
 ***Camino crítico:***
 
-- Formado por las actividades en las que no debe producirse ninguna demora si se desea que el trabajo se termine en el mínimo tiempo posible.
-- Es el camino que tiene mayor duración entre los que unen el primer y el último nudo.
-- Las oscilaciones de los nudos que se encuentran en el camino crítico valen cero.
+1. Formado por las actividades en las que no debe producirse ninguna demora si se desea que el trabajo se termine en el mínimo tiempo posible.
+1. Es el camino que tiene mayor duración entre los que unen el primer y el último nudo.
+1. Las oscilaciones de los nudos que se encuentran en el camino crítico valen cero.
 
 ***Actividades críticas.*** Actividades que forman parte del camino crítico ejecuciones son objeto de mayor grado de control para evitar su retraso.
 
@@ -295,7 +296,7 @@ El PERT-coste
 
 ***Costes indirectos.*** No están vinculados a la producción, sino al tiempo, por lo que se imputan a la generalidad del proyecto y no a las actividades en concreto. Aumentan cuanto mayor sea la duración del proyecto.
 
-***Coeficiente de costes.*** Representa el importe en el que se modifica el coste directo de una actividad al modificar su duración una unidad de tiempo:
+***Coeficiente de costes.*** Importe en el que se modifica el coste directo de una actividad al modificar su duración una unidad de tiempo:
 
 $$\frac{c_{e} - c_{n}}{t_{n} - t_{e}}$$
 
