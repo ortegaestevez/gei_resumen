@@ -9,11 +9,10 @@
 
 ***Utilidad.*** Las empresas crean utilidad y riqueza produciendo, y las familias destruyen la utilidad y riqueza consumiendo. Existen utilidades de **forma, tiempo, lugar y propiedad**.
 
-- **Forma.** Creada mediante la conversión de materias primas y otros factores de producción, en productos terminados.
-- **Tiempo, lugar y propiedad.** Creadas mediante:
-
+- **Forma, tiempo, lugar y propiedad.** Creadas, respectivamente, mediante:
+    1. La conversión de materias primas y otros factores de producción en productos terminados
     1. La función de marketing
-    1. Poniendo los productos a disposición de los consumidores en los momentos y lugares que éstos desean
+    1. Poniendo los productos a disposición de los consumidores en los momentos y lugares que deseen
     1. Facilitando la transferencia de su propiedad
 
 > A medida que aumenta la utilidad de un bien, se incrementa su valor para los consumidores y, consiguientemente, el precio que están dispuestos a pagar por él.
@@ -27,9 +26,10 @@
 - **Dirección de producción**:
     1. Transformar el concepto inicial en un producto final
     1. Diseñar el sistema de modo que el nuevo producto se elabore tan eficientemente como sea posible
-    1. Para que resulte rentable: 
-    1. El mercado lo debe aceptar 
-    1. Ha de ser producido económicamente.
+
+Para que resulte rentable:
+1. El mercado lo debe aceptar
+1. Ha de ser producido económicamente
 
 <a id="producir_comprar"></a>
 ## La primera decisión: producir o comprar
@@ -111,15 +111,15 @@ Los objetivos principales de la misma son:
 ***Decisiones en materia de calidad.***
 
 - **Estratégicas** las relativas a:
-    - fijación de estándares de calidad 
-    - determinación de la estructura organizativa que permite optimizar la calidad
+    - Fijación de estándares de calidad
+    - Determinación de la estructura organizativa que permita optimizar la calidad
 - **Tácticas** las relativas a:
-    - selección de muestras de control
-    - control cotidiano realizado para comprobar el grado de cumplimiento de los estándares
+    - Selección de muestras de control
+    - Control cotidiano realizado para comprobar el grado de cumplimiento de los estándares
 
 ## Principales diferencias entre la elaboración de bienes y la producción de servicios
 
-***Producto.*** Resultado del proceso productivo que pude ser un bien o un servicio.
+***Producto.*** Resultado del proceso productivo que puede ser un bien o un servicio.
 
 ***Bien.*** Unidad tangible que puede almacenarse, transformarse físicamente y transportarse.
 
@@ -128,16 +128,14 @@ Los objetivos principales de la misma son:
 ***Diferencias en la dirección de producción de bienes y servicios.*** Son las siguientes 4:
 
 1. **Inventarios y capacidad de producción.** Cuando la demanda:
-
     1. **Se reduce.** El productor de bienes puede seguir utilizando toda su capacidad de producción almacenando los productos que no se venden.
-    1. **Supera su capacidad de producción.** Puede atenderla con los bienes almacenados.
+    1. **Supera _su_ capacidad de producción.** Puede atenderla con los bienes almacenados.
     1. **Es muy inferior a su capacidad de producción.** Incurre en costes innecesarios.
-    1. **Supera la capacidad de producción.** No se puede atender el exceso.
+    1. **Supera _la_ capacidad de producción.** No se puede atender el exceso.
 
     Esta flexibilidad que proporcionan los inventarios no la tiene el productor de servicios porque los inventarios son como bienes extremadamente perecederos. El productor de servicios debe prever la demanda con mucha precisión.
 
 2. **Medida de la calidad.** Debido a la naturaleza intangible de los servicios:
-
     1. Al productor le resulta difícil controlar su calidad
     2. Al cliente le resulta difícil medir su calidad
 
@@ -147,17 +145,17 @@ Los objetivos principales de la misma son:
     - **El fabricante de bienes.** Puede centralizar su producción en un lugar y distribuir posteriormente sus productos transportándolos a donde se encuentran los consumidores.
     - **El productor de servicios.** Está obligado a dispersar geográficamente sus instalaciones si desea atender a consumidores situados en diversos lugares.
 4. **Integración entre producción y marketing:**
-    - En la producción de bienes suele existir cierta distancia entre el productor y el consumidor; entre ellos hay una serie de intermediarios que forman el canal de distribución. Puesto que son ellos los que están más próximos al consumidor final, es importante la promoción que hagan de los productos de la empresa fabricante.
-    - En el caso de los servicios la relación entre el cliente y el fabricante es inmediata y esa promoción la efectúan los empleados del productor.
+    - **En producción de bienes**. Suele existir cierta distancia entre el productor y el consumidor; entre ellos hay una serie de intermediarios que forman el canal de distribución. Puesto que son ellos los que están más próximos al consumidor final, es importante la promoción que hagan de los productos de la empresa fabricante.
+    - **En producción de servicios**. La relación entre el cliente y el fabricante es inmediata y esa promoción la efectúan los empleados del productor.
 
 ## Los costes de producción y su control
 
 ***Clasificación de los costes:***
 
-- Costes variables.
+- Costes variables
 - Costes fijos:
-    - Inactividad.
-    - Puesta en marcha.
+    - Inactividad
+    - Puesta en marcha
 
 ***Sistemas de producción:***
 
@@ -255,8 +253,8 @@ Cuando se conocen los índices de Laspeyres, el índice de productividad global 
     - **Por órdenes de fabricación.** Por la existencia de una orden de fabricación.
     - **Producción para almacén.** Por el mantenimiento del nivel de los inventarios.
 3. **Grado de tipificación del producto.**
-    - **producción individualizada.** Cada unidad de producto responde a unas características específicas.
-    - **producción en serie o en masa**. Todas las unidades son iguales.
+    - **Producción individualizada.** Cada unidad de producto responde a unas características específicas.
+    - **Producción en serie o en masa**. Todas las unidades son iguales.
 4. **Dimensión temporal del proceso.** Permite distinguir entre la **producción intermitente** y la **continua**.
 
 La producción:
@@ -272,7 +270,7 @@ En ocasiones se dan casos de producción:
 - Para el mercado o para almacén:
     - *A qué da lugar*. Producción individual e intermitentemente.
     - *Porqué*. Por productos de artesanía.
-- De tipo continuo en casi todas las fases del proceso. 
+- De tipo continuo en casi todas las fases del proceso:
     - *A qué da lugar*. Individualización de una o más fases para atender encargos u órdenes de fabricación.
     - *Porqué*. Existen varias posibilidades de combinar módulos normalizados.
 
@@ -327,13 +325,15 @@ Si se trata de determinar el VAN de una cadena infinita de renovaciones de un eq
 1. \(n\). Periodos que dura la cadena de renovaciones.
 1. \(k\). Tipo de actualización.
 
+$$VAN_{i} = RAE = \frac{VAN \times r}{1 - (1+r)^{-n}} $$
+
 $$VANC_{i} = VAN_{i} \cdot \frac{\left( 1 + k \right)^{n}}{\left( 1 + k \right)^{n} - 1}$$
 
 La utilización del valor actual neto simple, sin acudir al artificio de la cadena de renovaciones, solamente es correcta cuando los diferentes equipos alternativos tienen la misma duración.
 
-La **renta anual equivalente** Constante que es equivalente al equipo $i$ es aquella que, teniendo su misma duración ($n$ años), produce el mismo valor actual neto, es decir, aquella cuyo flujo de caja anual constante, $Q_{i}'$, es tal que:
+La **renta anual equivalente** constante que es equivalente al equipo $i$ es aquella que, teniendo su misma duración ($n$ años), produce el mismo valor actual neto, es decir, aquella cuyo flujo de caja anual constante, $Q_{i}'$, es tal que:
 
-$$VAN_{i} = Q_{i}^{'} \cdot a_{\left. \ n \right\rceil k}$$
+$$Q_{i}^{'} \cdot a_{\left. \ n \right\rceil k}$$
 
 #### La duración óptima
 
@@ -484,12 +484,12 @@ Tipos de mantenimiento:
 
     Suele aplicarse en los equipos críticos, de seguridad o de mayor valor.
 
-- **Mantenimiento predictivo.** Suge cuando el equipo no cumple la especificación para la cual fue diseñado.
+- **Mantenimiento predictivo.** Surge cuando el equipo no cumple la especificación para la cual fue diseñado.
 
 ***Decisiones estratégicas.*** Hay dos decisiones importantes en materia de mantenimiento:
 
 - Delegarlo al exterior de la empresa o tener personal e instrumentos para realizarlo. En la decisión influyen factores como:
-    1. Cantidad de maquinara de la que se disponga
+    1. Cantidad de maquinaria de la que se disponga
     1. Especialización que necesita el personal de mantenimiento
     1. Coste en que se incurre con cada parada provocada por una avería
     1. Frecuencia de las intervenciones
@@ -603,13 +603,13 @@ Según Taylor, si no se benefician económicamente tanto la empresa como sus tra
 
 Para la aplicación de lo que él denominó organización científica, Taylor estableció los siguientes principios:
 
-1. **Estudio científico del trabajo.** Se trata de determinar el mejor método de trabajo mediante:
+1. **_Estudio_ científico del trabajo.** Se trata de determinar el mejor método de trabajo mediante:
     1. Realización de un estudio de los tiempos y movimientos que requiere
     1. Optimización de la secuencia de tales movimientos u orden en el que se deben realizar
     1. Eliminación de los movimientos innecesarios
-2. **Selección científica, instrucción y progresivo desarrollo de los trabajadores.** Los trabajadores deben ser seleccionados por su adecuación al trabajo que se les va a asignar e instruidos para llevarlo a cabo según el método establecido. Cuando se implanta un nuevo método y un trabajador no es adecuado para él, es responsabilidad de los directivos el asignarle a otro trabajo.
-3. **Cooperación entre los trabajadores y la dirección para incorporar los cambios de métodos y procedimientos que sean necesarios.** Aunque tanto los operarios como los directivos necesitarán algún tiempo para aceptar los nuevos métodos, deben ser conscientes de que han de trabajar según principios científicos.
-4. **División del trabajo entre la dirección y los trabajadores.** La dirección se encarga de dirigir; los trabajadores se ocupan de trabajar.
+2. **_Selección_ científica, instrucción y progresivo desarrollo de los trabajadores.** Los trabajadores deben ser seleccionados por su adecuación al trabajo que se les va a asignar e instruidos para llevarlo a cabo según el método establecido. Cuando se implanta un nuevo método y un trabajador no es adecuado para él, es responsabilidad de los directivos el asignarle a otro trabajo.
+3. **_Cooperación_ entre los trabajadores y la dirección para incorporar los cambios de métodos y procedimientos que sean necesarios.** Aunque tanto los operarios como los directivos necesitarán algún tiempo para aceptar los nuevos métodos, deben ser conscientes de que han de trabajar según principios científicos.
+4. **_División_ del trabajo entre la dirección y los trabajadores.** La dirección se encarga de dirigir; los trabajadores se ocupan de trabajar.
 
     Taylor justificaba esta división porque posiblemente el trabajador no esté preparado para dirigir, porque no se puede programar y ejecutar el trabajo al mismo tiempo, y por la necesaria especialización de las funciones directivas.
 
@@ -730,7 +730,7 @@ El tipo de diagrama que se debe utilizar depende del nivel al que se va a realiz
 
 ***Medición del trabajo.*** Conjunto de técnicas cuyo principal objetivo es determinar el tiempo requerido para realizar una tarea. Las principales técnicas son:
 
-- **Estudio de tiempos** ( Formalizado por Taylor ). Constituye el método cuantitativo más utilizado en la práctica; antes de aplicarlo, se:
+- **Estudio de tiempos** (Formalizado por Taylor). Constituye el método cuantitativo más utilizado en la práctica; antes de aplicarlo, se:
 
     1. Divide el trabajo en sus elementos
     1. Desarrolla un método para cada elemento

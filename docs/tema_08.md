@@ -15,7 +15,7 @@ Concepto de financiación, y tipos de fuentes y recursos financieros
         1. Autofinanciación
     2. **Pasivo a corto plazo**, $\text{PC}$.
         1. Financiación de los proveedores de factores
-        1. préstamos y créditos bancarios a corto plazo
+        1. Préstamos y créditos bancarios a corto plazo
 2. **Según su titularidad.**
     1. **Recursos financieros propios, $K$**. Aquellos que no han de devolverse nunca.
         1. Aportaciones de los socios

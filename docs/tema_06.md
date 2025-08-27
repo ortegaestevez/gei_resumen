@@ -3,13 +3,10 @@ Tema 6: Elementos financieros
 
 ## Introducción
 
-**Conjunto de bienes y derechos de la empresa.** Resultado del proceso de realización de inversiones que ha desarrollado a lo largo del tiempo.
-
-***Estructura económica de la empresa.*** Características que tiene el conjunto de bienes y derechos de la empresa.
-
-***Estructura financiera de la empresa.*** Características del conjunto de medios financieros que permiten realizar inversiones en bienes y derechos.
-
-***Estructura económico-financiera de la empresa.*** Conjunto de la estructura económica y de la estructura financiera.
+1. **Conjunto de bienes y derechos de la empresa.** Resultado del proceso de realización de inversiones que ha desarrollado a lo largo del tiempo.
+2. ***Estructura económica de la empresa.*** Características que tiene el conjunto de bienes y derechos de la empresa.
+3. ***Estructura financiera de la empresa.*** Características del conjunto de medios financieros que permiten realizar inversiones en bienes y derechos.
+4. ***Estructura económico-financiera de la empresa.*** Conjunto de la estructura económica y de la estructura financiera.
 
 ## El balance: conceptos básicos
 
@@ -34,14 +31,14 @@ En sentido amplio el pasivo es el conjunto de las fuentes de financiación del a
 
 ***Balance anual.*** Estado del inventario anual.
 
-***Plan general de contabilidad.*** Conjunto de normas que tratan de homogeneizar los criterios contables en muy diversos aspectos entre los que se incluye la terminología empleada por las diversas empresas en sus documentos contables.
+***Plan general de contabilidad.*** Conjunto de normas que tratan de homogeneizar los criterios contables en diversos aspectos entre los que se incluye la terminología empleada por las diversas empresas en sus documentos contables.
 
-***Capital Social.*** Formado por las aportaciones directas de los socios a la financiación de la empresa. En las sociedades anónimas este capital se encuentra dividido en partes alícuotas denominadas **acciones**.
+***Capital Social.*** Aportaciones directas de los socios a la financiación de la empresa. En las sociedades anónimas este capital se encuentra dividido en partes alícuotas denominadas **acciones**.
 
 Si una empresa en un año concreto:
 
-- **Tiene pérdidas**. Su importe se recoge en el activo.
-- **Obtiene beneficios**. Hasta el momento de su reparto se sitúan en el pasivo. El beneficio:
+- **Tiene pérdidas**. El importe se recoge en el activo.
+- **Obtiene beneficios**. Hasta el momento de su reparto se sitúan en el pasivo. El beneficio debe:
     - **Repartirse** a los socios en forma de **dividendos**.
     - **Retenerse** para financiar activos, pasando a denominarse **reservas** (fondo propio que se recoge en el pasivo).
 
@@ -73,10 +70,10 @@ Factores influyentes en las decisiones financieras:
 
 - **Selección de inversiones.**
 - **Selección de fuentes de financiación.** El riesgo es proporcional al nivel de endeudamiento.
-- **Decisiones de distribución de dividendos.** Las empresas se suelen limitan a pagar el mismo dividendo todos los años, o a distribuir una proporción constante de los beneficios, sin embargo:
+- **Decisiones de distribución de dividendos.** Las empresas se suelen limitar a pagar el mismo dividendo todos los años, o a distribuir una proporción constante de los beneficios. Sin embargo:
     - Los accionistas pueden estar dispuestos a sacrificar una parte de sus dividendos para que se quede en la empresa y así:
-        - Reforzar su financiación
-        - Reduciéndose su riesgo
+        - Reforzar financiación
+        - Reducir riesgo
         - Acometer inversiones lo suficientemente rentables como para pagar mayores dividendos en el futuro
 
     La mejor política de dividendos es la que maximiza el precio de la acción. Las decisiones de política de dividendos afectan al pasivo.
@@ -179,12 +176,12 @@ El período de maduración económico es el tiempo promedio que tarda en recuper
 
 Se consideran los siguientes términos (niveles medios):
 
--   Materias primas, $a$.
--   Productos semiterminados, $c$.
--   Productos acabados, $v$.
--   Créditos sobre clientes, $e$.
--   Tesorería, $t$.
--   Deuda con proveedores (pasivo a corto plazo), $p$.
+1. Materias primas, $a$.
+1. Productos semiterminados, $c$.
+1. Productos acabados, $v$.
+1. Créditos sobre clientes, $e$.
+1. Tesorería, $t$.
+1. Deuda con proveedores (pasivo a corto plazo), $p$.
 
 
 \begin{align*}
@@ -204,13 +201,13 @@ En esta expresión, el cociente $\frac{A}{365}$ es el consumo medio diario de ma
 
 Se consideran los siguientes términos:
 
--   $k$: coste medio diario.
--   $s$: consumo diario de materias primas.
--   $p_{s}$: precio de cada unidad física de materias primas.
--   $m$: número de unidades físicas de mano de obra utilizadas diariamente.
--   $p_{m}$: precio unitario de la mano de obra.
--   $g$: módulo diario de gastos generales.
--   $p_{g}$: precio unitario de los gastos generales.
+1. $k$ - coste medio diario.
+1. $s$ - consumo diario de materias primas.
+1. $p_{s}$ - precio de cada unidad física de materias primas.
+1. $m$ - número de unidades físicas de mano de obra utilizadas diariamente.
+1. $p_{m}$ - precio unitario de la mano de obra.
+1. $g$ - módulo diario de gastos generales.
+1. $p_{g}$ - precio unitario de los gastos generales.
 
 $$k = sp_{s} + mp_{m} + gp_{g}$$
 
